@@ -1,5 +1,6 @@
 # 🚀 Awesome AI Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![example](./assets/img.png)
 > 一个持续更新的AI工具全景图，涵盖大语言模型（LLM）、Agent框架、开发工具等资源
 
 ---
