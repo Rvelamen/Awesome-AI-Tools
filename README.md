@@ -85,6 +85,7 @@
 | Jasper Chat | web | Jasper针对内容创作者出品的AI聊天工具 | [官网](https://www.jasper.ai/chat) |
 | ChatSonic | web | WriteSonic出品的ChatGPT竞品 | [官网](https://chat-sonic.ai/#) |
 | Replika | web | AI对话陪伴工具 | [官网](https://replika.ai/) |
+| Kissable | web | AI companion with persistent memory, together photos, video generation, community scenario catalog, emotional voice, and unlimited messages | [官网](https://kissable.app) |
 | Pi | web | DeepMind联创新公司推出的AI聊天机器人 | [官网](https://pi.ai/talk) |
 | 360智脑 | web | 360搜索最新推出的AI对话聊天机器人 | [官网](https://ai.360.com) |
 | 对话写作猫 | web | 秘塔写作猫推出的AI对话聊天工具 | [官网](https://xiezuocat.com) |
