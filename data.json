@@ -9081,5 +9081,17 @@
         ],
         "id": "294c5806-6ed8-4e8f-91cb-572dfb839f0e",
         "type": "web"
+    },
+    {
+        "url": "https://www.aurcue.com",
+        "description": "AI个人美学助手，根据一张照片生成个人色彩、穿搭、发型和眼镜建议",
+        "image": "https://www.aurcue.com/brand/logo-h-transparent.png",
+        "category": [
+            "图像工具",
+            "设计工具"
+        ],
+        "id": "db99d6a1-94cd-4fd5-b894-9953dfd25b9b",
+        "title": "Aurcue",
+        "type": "web"
     }
 ]
