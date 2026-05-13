@@ -612,6 +612,7 @@
 | 墨刀AI | web | 墨刀推出的AI产品原型设计助手 | [官网](https://modao.cc/feature/ai.html) |
 | 笔魂AI | web | 设计工具，支持AI抠图、消除、无损放大 | [官网](https://ibihun.com) |
 | 居然设计家 | web | 居然之家联合阿里推出的AI家装设计平台 | [官网](https://www.shejijia.com) |
+| LandscapioAI | web | AI 庭院/景观设计生成器，上传院子照片生成设计方案、成本估算和材料建议 | [官网](https://www.landscapioai.com/) |
 | FigJam AI | web | Figma推出的AI白板协作设计工具 | [官网](https://www.figma.com/figjam/ai/) |
 | 鹿班 | web | 阿里推出的智能设计商品图和海报的平台 | [官网](https://luban.aliyun.com) |
 | Magic Design | web | 在线设计工具Canva推出的设计工具 | [官网](https://www.canva.com/magic-design/) |
