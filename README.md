@@ -742,6 +742,8 @@
 | HeyCLI | web | 自然语言转义为CLI命令 | [官网](https://www.heycli.com/) |
 
 ---
+| CoderPlan | web | 统一 LLM API 网关，OpenAI 兼容协议，支持 Claude/GPT/Gemini/DeepSeek，按量付费约官方 0.7 折 | [官网](https://coderplan.ai) |
+
 ### 17. 提示词工程
 | 名称    | 类型 | 描述       | 链接             |
 | ------- | ---- | -------- | ---------------- |
