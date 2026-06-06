@@ -3287,6 +3287,17 @@
         "id": "bdeff769-f560-4748-af56-e6e31150c32e"
     },
     {
+        "url": "https://illustro.app",
+        "title": "Illustro",
+        "description": "AI illustration generator and editor with flat, line art, children's book, and 3D styles",
+        "image": "https://illustro.app/logo/illustro-logo.png",
+        "category": [
+            "设计工具"
+        ],
+        "type": "web",
+        "id": "a8f3c2e1-4b5d-4a9e-9c7d-1e2f3a4b5c6d"
+    },
+    {
         "url": "https://www.kujiale.cn/activities/AI-kujiale",
         "title": "酷家乐AI",
         "description": "功能强大的AI家居设计软件",
