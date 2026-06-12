@@ -806,6 +806,7 @@
 | Runway | web | AI视频工具，绿幕抠除、视频生成、动态捕捉等功能 | [官网](https://runwayml.com) |
 | PVID | web | 免费AI视频生成器，聚合Kling 3.0、Sora 2、Veo 3.1 | [官网](https://pvid.app/) |
 | Pika | web | Pika Labs推出的AI视频生成和编辑工具 | [官网](https://pika.art/) |
+| ImagineClip | web | AI视频生成工具，支持社交短片、头像视频和风格化场景创作 | [官网](https://imagineclip.com?ref=awesome-ai-tools) |
 | Dream Machine | web | Luma AI推出的AI视频生成工具 | [官网](https://lumalabs.ai/dream-machine) |
 | 通义万相AI视频 | web | 通义万相AI视频是阿里推出的... | [官网](https://tongyi.aliyun.com/wanxiang/wanxvideo) |
 | Sora | web | OpenAI推出的AI视频生成模型 | [官网](https://openai.com/sora) |

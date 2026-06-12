@@ -6839,6 +6839,17 @@
         "id": "cb90d0a3-fe7c-488d-8e8a-12008d9f25ae"
     },
     {
+        "url": "https://imagineclip.com?ref=awesome-ai-tools",
+        "title": "ImagineClip",
+        "description": "AI视频生成工具，支持社交短片、头像视频和风格化场景创作",
+        "image": "https://imagineclip.com/og.png",
+        "category": [
+            "视频工具"
+        ],
+        "type": "web",
+        "id": "26be8b11-a41c-4aa3-a962-a8a18faedafa"
+    },
+    {
         "url": "https://lumalabs.ai/dream-machine",
         "title": "Dream Machine",
         "description": "Luma AI推出的AI视频生成工具",
