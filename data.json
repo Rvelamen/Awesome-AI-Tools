@@ -9115,5 +9115,16 @@
         "id": "db99d6a1-94cd-4fd5-b894-9953dfd25b9b",
         "title": "Aurcue",
         "type": "web"
+    },
+    {
+        "url": "https://remio.ai/",
+        "description": "本地优先的AI记忆和知识库，支持多格式内容索引与语义检索",
+        "image": "https://remio.ai/favicon.ico",
+        "category": [
+            "文档工具"
+        ],
+        "id": "b70bbaaf-cebc-4428-b971-3ff2389afea8",
+        "title": "Remio",
+        "type": "web"
     }
 ]
