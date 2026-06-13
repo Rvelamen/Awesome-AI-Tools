@@ -364,6 +364,7 @@
 | 腾讯文档智能助手 | web | 腾讯推出的AI文档生成和辅助工具 | [官网](https://docs.qq.com) |
 | Cubox | web | 高效的AI阅读学习助手和信息收集管理工具 | [官网](https://cubox.pro) |
 | Quivr | web | 开源的知识库搭建工具，构建你的第二大脑 | [官网](https://www.quivr.app) |
+| Remio | web | 本地优先的AI记忆和知识库，支持文件、网页、录音、邮件、消息、图片和笔记的索引与语义检索 | [官网](https://remio.ai/) |
 | Coda AI | web | 在线协作平台Coda推出的AI写作和文档助手，类似于Notion AI | [官网](https://coda.io/product/ai) |
 | 有道速读 | web | 网易有道推出的AI论文和文档阅读助手 | [官网](https://read.youdao.com) |
 | 腾讯问卷 | web | 腾讯推出的AI生成调查问卷的免费工具 | [官网](https://wj.qq.com/ai/generate.html) |
