@@ -4046,6 +4046,17 @@
         "id": "6ee1430a-04a9-4ccd-8796-78013e9a3349"
     },
     {
+        "url": "https://xquik.com/en",
+        "title": "Xquik",
+        "description": "面向开发者的X自动化平台，提供REST API、webhooks和MCP服务",
+        "image": "https://xquik.com/icon.svg",
+        "category": [
+            "编程工具"
+        ],
+        "type": "web",
+        "id": "b603a1c9-6a95-484c-a81e-57a5691a89cc"
+    },
+    {
         "url": "https://ai-code-reviewer.com/",
         "title": "AI Code Reviewer",
         "description": "AI代码检查",
