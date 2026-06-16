@@ -105,6 +105,7 @@
 | 阿贝智能 | web | 一站式AI绘本创作平台，副业变现必备 | [官网](https://abeiai.com) |
 | Midjourney | web | AI图像和插画生成工具 | [官网](https://www.midjourney.com/home) |
 | 炉米Lumi | web | 字节跳动推出的AIGC图像创作平台 | [官网](https://artistrylab.net) |
+| Seedream AI Studio | web | 字节跳动出品多模型AI图像生成平台，搭载Seedream 5.0/4.5/4.0，AI图像竞技场排名第一，支持10张参考图一键生成视频 | [官网](https://seedream4.video/) |
 | Civitai | web | 免费的AI图像绘画作品和模型分享平台和社区 | [官网](https://civitai.com/) |
 | 堆友AI反应堆 | web | 阿里旗下堆友推出的多风格AI绘画生成器 | [官网](https://d.design) |
 | 通义万相 | web | 阿里最新推出的AI绘画创作模型 | [官网](https://tongyi.aliyun.com/wanxiang) |
