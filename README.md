@@ -1009,6 +1009,7 @@
 | Bg Eraser | web | 图片物体抹除和清理 | [官网](https://bgeraser.com/) |
 | SnapEdit | web | AI移除图片中的任何物体 | [官网](https://snapedit.app/) |
 | Cleanup.pictures | web | 智能移除图片中的物体、文本、污迹、人物或任何不想要的东西 | [官网](https://cleanup.pictures/) |
+| ClearCrowds | web | AI照片清理和图片编辑工具，可移除人群、物体、文字、眼镜眩光等画面干扰，并支持预设与提示词编辑 | [官网](https://www.clearcrowds.com) |
 | Cutout.Pro Retouch | web | Cutout.Pro推出的AI图片物体涂抹去除工具 | [官网](https://www.cutout.pro/zh-CN/image-retouch-remove-unwanted-objects) |
 | 蜜蜂剪辑 | web | AI去水印工具，支持图片和30+流行短视频平台 | [官网](https://beecut.cn/online-watermark-remover) |
 | HitPaw Watermark Remover | web | AI图片和视频去水印工具 | [官网](https://www.hitpaw.com/remove-watermark.html) |
