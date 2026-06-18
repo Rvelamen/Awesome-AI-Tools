@@ -3815,6 +3815,17 @@
         "id": "36acacb6-84b2-42f6-bdc6-f6783d716813"
     },
     {
+        "url": "https://robloxguimaker.dev/",
+        "title": "Roblox GUI Maker",
+        "description": "输入提示词生成Roblox Studio GUI布局和Lua入门代码",
+        "image": "https://robloxguimaker.dev/images/roblox-gui-maker-og.png",
+        "category": [
+            "编程工具"
+        ],
+        "type": "web",
+        "id": "9d95814e-cf0a-4a40-8a9f-6dad1515801b"
+    },
+    {
         "url": "https://codesandbox.io/blog/meet-boxy-ai-coding-assistant",
         "title": "Boxy",
         "description": "CodeSandbox推出的AI编程助手",

@@ -718,6 +718,7 @@
 | CodeArts Snap | web | 华为云推出的智能编程助手 | [官网](https://www.huaweicloud.com/product/codeartside/snap.html) |
 | AskCodi | web | 你的个人AI编程助手 | [官网](https://www.askcodi.com/) |
 | v0.dev | web | AI生成前端React/UI组件，由Vercel推出 | [官网](https://v0.dev) |
+| Roblox GUI Maker | web | 输入提示词生成Roblox Studio GUI布局和Lua入门代码 | [官网](https://robloxguimaker.dev/) |
 | Boxy | web | CodeSandbox推出的AI编程助手 | [官网](https://codesandbox.io/blog/meet-boxy-ai-coding-assistant) |
 | Quest AI | web | AI将设计稿生成React代码，支持JavaScript和TypeScript | [官网](https://www.quest.ai) |
 | 天工智码Skycode | web | AI智能编程助手，轻松生成各种代码 | [官网](https://sky-code.singularity-ai.com/index.html#/) |
