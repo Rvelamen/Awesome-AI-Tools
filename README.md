@@ -933,6 +933,7 @@
 | Cutout.Pro老照片上色 | web | Cutout.Pro推出的黑白图片上色 | [官网](https://www.cutout.pro/zh-CN/photo-colorizer-black-and-white) |
 | Palette | web | AI图片调色上色 | [官网](https://palette.fm/) |
 | Playground AI | web | AI图片生成和修图 | [官网](https://playgroundai.com/) |
+| ArtImageHub | web | AI老照片修复——去划痕、降噪、黑白上色，在线处理，免费预览，$4.99下载 | [官网](https://artimagehub.com) |
 
 ---
 ### 21. 图片无损放大
