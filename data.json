@@ -4653,6 +4653,17 @@
         "id": "5da2f82d-5212-4033-bdab-0af6ea2457f3"
     },
     {
+        "url": "https://www.gohairwow.com",
+        "title": "HairWow",
+        "description": "AI发型试戴和护发建议工具，支持预览发型、发色、刘海、层次和胡须造型",
+        "image": "https://www.gohairwow.com/assets/images/logo/favicon.png",
+        "category": [
+            "图像工具"
+        ],
+        "type": "web",
+        "id": "3c5d3ca0-2e1f-4d46-b601-f7b7b3c08a8f"
+    },
+    {
         "url": "https://ribbet.ai/",
         "title": "Ribbet.ai",
         "description": "免费的多功能AI图片处理工具箱",
