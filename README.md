@@ -118,6 +118,7 @@
 | AI改图神器 | web | AI万能图片在线编辑器 | [官网](https://img.logosc.cn) |
 | Krea AI | web | 实时AI图像、视频生成和编辑平台 | [官网](https://www.krea.ai) |
 | Photoroom | web | 在线AI图片编辑工具 | [官网](https://www.photoroom.com/zh) |
+| HairWow | web | AI发型试戴和护发建议工具，支持预览发型、发色、刘海、层次和胡须造型 | [官网](https://www.gohairwow.com) |
 | Ribbet.ai | web | 免费的多功能AI图片处理工具箱 | [官网](https://ribbet.ai/) |
 | 万相营造 | web | 阿里旗下推出的多模态AI创意生成平台 | [官网](https://agi.taobao.com) |
 | 悟空图像PhotoSir | web | 新一代专业图像处理软件，更智能、更高效、更好用 | [官网](https://www.photosir.com) |
