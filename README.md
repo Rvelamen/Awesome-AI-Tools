@@ -792,6 +792,7 @@
 | Cutout.Pro | web | AI在线处理图片 | [官网](https://www.cutout.pro/) |
 | 白日梦 | web | AI视频创作平台，最长可生成六分钟的视频 | [官网](https://aibrm.paluai.com/bairimeng) |
 | 绘蛙AI视频 | web | 绘蛙推出的AI图生视频工具 | [官网](https://www.ihuiwa.com/workspace/ai-video/custom-action) |
+| ImagineClip | web | AI 视频生成工具，可从提示词、图片和效果生成头像短片、风格化场景和社交视频 | [官网](https://imagineclip.com) |
 | 讯飞绘镜 | web | 科大讯飞推出的AI短视频创作平台 | [官网](https://typemovie.art) |
 | Vidu | web | 生数科技推出的AI视频生成大模型 | [官网](https://www.vidu.cn) |
 | SoundView | web | AI视频本地化工具，支持视频配音和翻译 | [官网](https://soundviewai.com) |
