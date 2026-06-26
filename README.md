@@ -29,6 +29,7 @@
 | 名称    | 类型 | 描述       | 链接             |
 | ------- | ---- | -------- | ---------------- |
 | 豆包 | web | 字节跳动推出的免费AI智能助手 | [官网](https://www.doubao.com/chat) |
+[Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 | 讯飞星火 | web | 科大讯飞推出的AI智能助手 | [官网](https://xinghuo.xfyun.cn/desk) |
 | ChatGPT | web | OpenAI旗下AI对话工具 | [官网](https://chat.openai.com) |
 | Claude | web | ChatGPT的最为有力的竞争对手之一 | [官网](https://claude.ai) |
