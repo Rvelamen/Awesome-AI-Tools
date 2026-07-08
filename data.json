@@ -3738,6 +3738,17 @@
     "id": "7f372293-7131-4ef5-8396-cafb1ae44aea"
   },
   {
+    "url": "https://terminallylazy.github.io/Tree-Ring-Memory/",
+    "title": "Tree Ring Memory",
+    "description": "本地优先的AI智能体记忆生命周期层，提供Rust CLI/TUI、SQLite/FTS召回、审计、遗忘和整合",
+    "image": "https://raw.githubusercontent.com/TerminallyLazy/Tree-Ring-Memory/main/assets/tree-ring-memory-logo.png",
+    "category": [
+      "编程工具"
+    ],
+    "type": "web",
+    "id": "248ff3e8-e6b3-41f1-a380-acb6ad91c412"
+  },
+  {
     "url": "https://code.fittentech.com",
     "title": "Fitten Code",
     "description": "非十科技推出的免费AI代码助手",
