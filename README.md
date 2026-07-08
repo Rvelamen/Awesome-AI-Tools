@@ -715,6 +715,7 @@
 | Augment Code | web | AI编程辅助工具，专为大型代码库设计 | [官网](https://www.augmentcode.com) |
 | Devin | web | 首个全自主的AI软件工程师智能体 | [官网](https://preview.devin.ai) |
 | Plandex | web | 免费开源的基于终端的AI编程引擎 | [官网](https://plandex.ai) |
+| Tree Ring Memory | web | 本地优先的AI智能体记忆生命周期层，提供Rust CLI/TUI、SQLite/FTS召回、审计、遗忘和整合 | [官网](https://terminallylazy.github.io/Tree-Ring-Memory/) |
 | Fitten Code | web | 非十科技推出的免费AI代码助手 | [官网](https://code.fittentech.com) |
 | BLACKBOX AI | web | 黑箱AI编程助理，快速代码生成 | [官网](https://www.useblackbox.io) |
 | Solo | web | Mozilla推出的零编程无代码AI网站建设工具 | [官网](https://soloist.ai) |
