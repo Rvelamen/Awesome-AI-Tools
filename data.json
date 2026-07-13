@@ -3397,6 +3397,17 @@
     "id": "d6f57600-976a-477f-ac06-9f2c34f9ad74"
   },
   {
+    "url": "https://github.com/Ducksss/codex-profiles",
+    "title": "codex-profiles",
+    "description": "切换命名的 Codex CLI 配置，并在 macOS 上启动具有独立本地状态的 ChatGPT 桌面窗口",
+    "image": "https://raw.githubusercontent.com/Ducksss/codex-profiles/main/media/codex-profile-parallel-instances.png",
+    "category": [
+      "编程工具"
+    ],
+    "type": "web",
+    "id": "45a28423-5399-47bc-9ddc-09b36fd00070"
+  },
+  {
     "url": "https://www.doubao.com/chat/coding",
     "title": "豆包AI编程",
     "description": "豆包推出的AI编程新功能",
