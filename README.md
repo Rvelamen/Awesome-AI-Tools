@@ -684,6 +684,7 @@
 | CodeWhisperer | web | 亚马逊推出的免费AI编程助手 | [官网](https://aws.amazon.com/codewhisperer/) |
 | GitHub Copilot | web | GitHub推出的编程工具 | [官网](https://github.com/features/copilot) |
 | codex-profiles | web | 切换命名的 Codex CLI 配置，并在 macOS 上启动具有独立本地状态的 ChatGPT 桌面窗口 | [官网](https://github.com/Ducksss/codex-profiles) |
+| Better Agent | app | 本地AI编程代理工作区，统一运行Claude、Codex和Gemini会话，支持并行分叉、任务委派与重启恢复 | [官网](https://github.com/ofekron/better-agent) |
 | 豆包AI编程 | web | 豆包推出的AI编程新功能 | [官网](https://www.doubao.com/chat/coding) |
 | Firebase Studio | app | 谷歌推出的编程工具，一站式开发全栈应用 | [官网](https://firebase.studio) |
 | Cursor | app | AI代码编辑器，快速进行编程和软件开发 | [官网](https://www.cursor.com) |

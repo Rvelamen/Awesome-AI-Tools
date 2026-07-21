@@ -3408,6 +3408,17 @@
     "id": "45a28423-5399-47bc-9ddc-09b36fd00070"
   },
   {
+    "url": "https://github.com/ofekron/better-agent",
+    "title": "Better Agent",
+    "description": "本地AI编程代理工作区，统一运行Claude、Codex和Gemini会话，支持并行分叉、任务委派与重启恢复",
+    "image": "https://raw.githubusercontent.com/ofekron/better-agent/dev/frontend/public/icon-512.png",
+    "category": [
+      "编程工具"
+    ],
+    "type": "app",
+    "id": "3b0f1f28-7974-4bad-ba6c-1e0b0e9016f2"
+  },
+  {
     "url": "https://www.doubao.com/chat/coding",
     "title": "豆包AI编程",
     "description": "豆包推出的AI编程新功能",
