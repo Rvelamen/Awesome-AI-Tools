@@ -3419,6 +3419,17 @@
     "id": "3b0f1f28-7974-4bad-ba6c-1e0b0e9016f2"
   },
   {
+    "url": "https://orkas.ai/?source=gh_rvelamen",
+    "title": "Orkas",
+    "description": "开源本地优先的多智能体桌面工作区，支持并行和串行协作",
+    "image": "https://orkas.ai/res/orkas.png",
+    "category": [
+      "编程工具"
+    ],
+    "type": "app",
+    "id": "7cbabe24-0a56-42f4-8d82-29064b9b62c1"
+  },
+  {
     "url": "https://www.doubao.com/chat/coding",
     "title": "豆包AI编程",
     "description": "豆包推出的AI编程新功能",
