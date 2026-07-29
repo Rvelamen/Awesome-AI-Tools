@@ -9214,5 +9214,16 @@
     "id": "b70bbaaf-cebc-4428-b971-3ff2389afea8",
     "title": "Remio",
     "type": "web"
+  },
+  {
+    "url": "https://wizgenerator.com/tools/story-generator/",
+    "description": "免费AI故事生成工具，可根据主题、类型、语气和篇幅生成故事草稿，无需注册",
+    "image": "https://wizgenerator.com/wp-content/uploads/2024/06/cropped-WizGenerator-Icon-192x192.png",
+    "category": [
+      "文档工具"
+    ],
+    "id": "071a3525-cc75-4508-a307-7368d8727dcf",
+    "title": "WizGenerator Story Generator",
+    "type": "web"
   }
 ]
