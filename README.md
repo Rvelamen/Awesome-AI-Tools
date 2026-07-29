@@ -101,6 +101,7 @@
 | 绘蛙 | web | AI电商营销工具，免费生成商品图和种草文案 | [官网](https://ihuiwa.paluai.com) |
 | 稿定AI | web | 一站式设计工具集，免费AI绘图、图片转AI绘画、AI抠图消除 | [官网](https://www.gaoding.com) |
 | 笔魂AI | web | 设计工具，支持AI抠图、消除、无损放大 | [官网](https://ibihun.com) |
+| ImageChanger | web | 浏览器端AI图片编辑器，提供38个背景、人物、物体、修复和创意转换工作流 | [官网](https://aiimagechanger.app/) |
 | 吐司AI | web | AI绘画模型社区和在线生图平台 | [官网](https://tusiart.com) |
 | 美间AI抠图 | web | 美间AI推出的免费智能抠图工具 | [官网](https://www.meijian.com/mj-box/ai-pic-matting-intro) |
 | 即梦 | web | 抖音旗下免费AI图片创作工具 | [官网](https://jimeng.jianying.com/ai-tool/home) |
