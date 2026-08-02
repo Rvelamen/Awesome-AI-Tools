@@ -120,6 +120,7 @@
 | 可灵AI | web | 快手推出的AI图像和视频创作平台 | [官网](https://klingai.kuaishou.com) |
 | AI改图神器 | web | AI万能图片在线编辑器 | [官网](https://img.logosc.cn) |
 | Krea AI | web | 实时AI图像、视频生成和编辑平台 | [官网](https://www.krea.ai) |
+| Rao Edits | web | 浏览器端AI图像生成和参考图编辑工具，可用于社交视觉、产品图和创意工作流 | [官网](https://raoedits.top/) |
 | YingTu | web | 浏览器端 AI 图像与视频路由测试平台，支持提示词、参考图、尺寸与下载结果对比 | [官网](https://yingtu.ai/en) |
 | Photoroom | web | 在线AI图片编辑工具 | [官网](https://www.photoroom.com/zh) |
 | HairWow | web | AI发型试戴和护发建议工具，支持预览发型、发色、刘海、层次和胡须造型 | [官网](https://www.gohairwow.com) |
