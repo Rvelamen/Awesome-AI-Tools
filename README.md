@@ -886,6 +886,7 @@
 | 闪剪 | web | AI数字人短视频创作工具 | [官网](https://shanjian.tv/) |
 | Wonder Studio | web | AI自动为CG角色制作动画、打光并将其合成到真人场景中 | [官网](https://wonderdynamics.com/) |
 | Magicam | web | 实时的AI直播/视频换脸工具 | [官网](https://magicam.ai/) |
+| LiveFaceSwap AI换脸 | web | 提供网页体验和Windows客户端的实时AI换脸工具，支持变装、风格重绘与虚拟摄像头输出 | [官网](https://livefaceswap.ai/zh) |
 | LTX Studio | web | AI电影制作和视频短片生成平台 | [官网](https://ltx.studio/) |
 | Clipfly | web | 一站式AI长视频制作和编辑平台 | [官网](https://www.clipfly.ai/) |
 | Captions | web | AI驱动的视频剪辑和制作平台 | [官网](https://www.captions.ai/) |

@@ -7642,6 +7642,17 @@
     "id": "022f41dd-05db-40fa-baef-d57af22d9000"
   },
   {
+    "url": "https://livefaceswap.ai/zh",
+    "title": "LiveFaceSwap AI换脸",
+    "description": "提供网页体验和Windows客户端的实时AI换脸工具，支持变装、风格重绘与虚拟摄像头输出",
+    "image": "https://livefaceswap.ai/images/og/livefaceswap-ai.jpg",
+    "category": [
+      "视频工具"
+    ],
+    "type": "web",
+    "id": "64c4f5a2-d9e5-4abd-8c0d-116d146042ba"
+  },
+  {
     "url": "https://ltx.studio/",
     "title": "LTX Studio",
     "description": "AI电影制作和视频短片生成平台",
