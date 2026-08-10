@@ -553,6 +553,7 @@
 | 飞书多维表格 | web | 表格形态的 AI 工作流搭建工具 | [官网](https://www.feishu.cn/paid/ai-register) |
 | Manus | web | Monica团队推出的全球首款通用型 AI Agent | [官网](https://manus.im) |
 | AnswerLens | web | 审计 B2B SaaS 官网公开证据，检查定价、证明、文档、对比、信任、schema 和 llms.txt 缺口 | [官网](https://app.sfdj.net/) |
+| AISO Tools | web | 检测 ChatGPT、Perplexity 等 AI 助手是否会推荐你的产品，并给出影响被引用的差距 | [官网](https://aisotools.com) |
 | TinyWow | web | 免费在线AI工具箱 | [官网](https://tinywow.com/) |
 | ima.copilot | web | 腾讯推出的AI智能工作台产品，基于混元大模型 | [官网](https://ima.qq.com) |
 | 飞书知识问答 | web | 飞书智能办公推出的AI知识库工具 | [官网](https://ask.feishu.cn/topic) |
