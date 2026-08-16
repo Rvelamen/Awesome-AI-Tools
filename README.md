@@ -708,6 +708,7 @@
 | Cody | app | Sourcegraph推出的免费编程工具 | [官网](https://sourcegraph.com/cody) |
 | DevChat | plugin | 开源的支持多款大模型的AI编程助手 | [官网](https://www.devchat.ai/zh) |
 | CodiumAI | web | 免费的AI代码测试和分析工具 | [官网](https://www.codium.ai/) |
+| Agent QA | cli | 源码可用的自改进QA Agent，支持自然语言Web/移动端测试、持久测试记忆以及CLI/MCP接口 | [GitHub](https://github.com/vostride/agent-qa) |
 | Genie | app | Cosine AI推出的AI编程助手 | [官网](https://cosine.sh/genie) |
 | 码上飞 | web | AI软件开发平台，一句话自动生成端到端应用 | [官网](https://www.codeflying.net) |
 | iFlyCode | web | 科大讯飞推出的智能编程助手 | [官网](https://iflycode.xfyun.cn) |

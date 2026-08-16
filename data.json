@@ -9258,5 +9258,16 @@
     "id": "071a3525-cc75-4508-a307-7368d8727dcf",
     "title": "WizGenerator Story Generator",
     "type": "web"
+  },
+  {
+    "url": "https://github.com/vostride/agent-qa",
+    "description": "源码可用的自改进QA Agent，支持自然语言Web/移动端测试、持久测试记忆以及CLI/MCP接口",
+    "image": "https://raw.githubusercontent.com/vostride/agent-qa/main/packages/dashboard-ui/public/favicon.svg",
+    "category": [
+      "编程工具"
+    ],
+    "id": "291006a4-8398-44bd-a6ea-b2d638f5966c",
+    "title": "Agent QA",
+    "type": "cli"
   }
 ]
