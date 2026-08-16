@@ -910,6 +910,7 @@
 | DeepBrain | web | AI口播视频生成工具 | [官网](https://www.aistudios.com/) |
 | Synthesia | web | AI视频生成平台 | [官网](https://www.synthesia.io/) |
 | Lumen5 | web | AI将博客文章转换成视频 | [官网](https://lumen5.com/) |
+| videos.social | web | 博客/PDF/提示词转为可编辑无脸视频 | [官网](https://videos.social/?utm_source=rvelamen-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d) |
 | Rephrase.ai | web | AI文字到视频生成 | [官网](https://ahrefs.com/writing-tools/paraphrasing-tool) |
 | 万彩微影 | web | AI智能自动生成动画短视频 | [官网](https://www.animiz.cn/microvideo/) |
 | 录咖 | web | 一站式AI音视频总结和转录处理工具 | [官网](https://reccloud.cn/) |
