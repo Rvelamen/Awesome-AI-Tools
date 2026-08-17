@@ -1,0 +1,30 @@
+name: Validate catalog
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate JSON and unique IDs
+        run: |
+          jq empty data.json
+          jq -e '
+            type == "array" and
+            all(.[];
+              (.url | type == "string" and length > 0) and
+              (.title | type == "string" and length > 0) and
+              (.type | type == "string" and length > 0) and
+              (.category | type == "array" and length > 0) and
+              (.id | type == "string" and length > 0)
+            )
+          ' data.json > /dev/null
+          test "$(jq -r '.[].id' data.json | sort | uniq -d | wc -l | tr -d ' ')" = "0"
