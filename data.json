@@ -3397,6 +3397,17 @@
     "id": "d6f57600-976a-477f-ac06-9f2c34f9ad74"
   },
   {
+    "url": "https://github.com/vostride/agent-qa",
+    "title": "Agent QA",
+    "description": "用自然语言编写、运行和排查网页及移动应用测试，提供 CLI、仪表板和 MCP 服务器",
+    "image": "https://raw.githubusercontent.com/vostride/agent-qa/main/packages/dashboard-ui/public/favicon.svg",
+    "category": [
+      "编程工具"
+    ],
+    "type": "app",
+    "id": "56adbf4a-0b6a-4baa-8f0f-52ba91a6ef20"
+  },
+  {
     "url": "https://github.com/Ducksss/codex-profiles",
     "title": "codex-profiles",
     "description": "切换命名的 Codex CLI 配置，并在 macOS 上启动具有独立本地状态的 ChatGPT 桌面窗口",
