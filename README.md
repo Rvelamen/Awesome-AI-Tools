@@ -898,6 +898,7 @@
 | GoEnhance | web | AI视频风格转换和画质增强工具 | [官网](https://www.goenhance.ai/) |
 | InVideo AI | web | 人工智能视频创作和剪辑工具 | [官网](https://invideo.io/) |
 | Unscreen | web | AI智能视频背景移除工具 | [官网](https://www.unscreen.com/) |
+| SEELE TV | web | Browser-based AI video creation studio | [官网](https://seele.tv/) |
 | EbSynth | web | AI将真人视频转化为油画风动画 | [官网](https://ebsynth.com/) |
 | Artflow | web | AI创建生成视频动画 | [官网](https://app.artflow.ai/) |
 | Kaiber | web | 图片文字转视频的AI引擎 | [官网](https://www.kaiber.ai/superstudio/) |
