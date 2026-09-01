@@ -6751,6 +6751,17 @@
     "id": "f4ca0520-9a5d-4632-a13f-2cdb8ab7d02b"
   },
   {
+    "url": "https://www.pixgt.cn",
+    "title": "PixGT",
+    "description": "跨境电商AI商拍工具，服装试穿、模特替换、配饰试戴",
+    "image": "https://www.pixgt.cn/images/brand-icon.png",
+    "category": [
+      "商品图生成"
+    ],
+    "type": "web",
+    "id": "6240da2b-ab81-4343-a017-409c8a84e21f"
+  },
+  {
     "url": "https://www.tripo3d.ai",
     "title": "Tripo AI",
     "description": "AI 3D模型生成平台，支持文本、图像一键生成3D模型",

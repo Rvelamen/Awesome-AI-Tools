@@ -603,6 +603,7 @@
 | 花生图像 | web | AI电商产品图生成和背景抠图工具 | [官网](https://www.hsphoto.cn) |
 | 图生生 | web | 专为电商设计的AI商拍工具 | [官网](https://tushengsheng.com/home) |
 | WeShop唯象 | web | 蘑菇街推出的AI商拍工具 | [官网](https://www.weshop.com) |
+| PixGT | web | 跨境电商AI商拍工具，服装试穿、模特替换、配饰试戴 | [官网](https://www.pixgt.cn) |
 
 ---
 ### 15. 设计工具
