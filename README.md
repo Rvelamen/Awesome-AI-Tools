@@ -1049,6 +1049,7 @@
 | Hitems | web | 数美万物推出的AI创意物品生成社区 | [官网](https://hitems.ai) |
 | VoxCraft | web | AI生成3D模型的工具 | [官网](https://voxcraft.ai) |
 | Meshy | web | AI快速从文本或图像生成3D模型 | [官网](https://www.meshy.ai) |
+| Luphra | web | Prompt-to-matter：文本/草图转可编辑3D并制造实体产品 | [官网](https://www.luphra.com/) |
 
 ---
 
