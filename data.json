@@ -6828,6 +6828,17 @@
     "id": "ed6c3928-1b8a-4ab1-91f8-8e3fdd63ceae"
   },
   {
+    "url": "https://www.luphra.com/",
+    "title": "Luphra",
+    "description": "Prompt-to-matter：文本/草图转可编辑3D并制造实体产品",
+    "image": "https://www.luphra.com/icon.svg",
+    "category": [
+      "3D模型生成"
+    ],
+    "type": "web",
+    "id": "8f2a1b14-2e8e-4603-a8a9-77b4083c022a"
+  },
+  {
     "url": "https://aibrm.paluai.com/bairimeng",
     "title": "白日梦",
     "description": "AI视频创作平台，最长可生成六分钟的视频",
@@ -7772,6 +7783,17 @@
     ],
     "type": "web",
     "id": "a5e00b04-ec81-4dca-821d-9f7f9ececb1f"
+  },
+  {
+    "url": "https://seele.tv/",
+    "title": "SEELE TV",
+    "description": "浏览器端AI视频创作工作室",
+    "image": "https://seele.tv/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "type": "web",
+    "id": "de018197-1657-49c8-a93e-287b3b2a8dfe"
   },
   {
     "url": "https://ebsynth.com/",
