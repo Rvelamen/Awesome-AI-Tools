@@ -673,6 +673,17 @@
     "type": "web"
   },
   {
+    "url": "https://studyarena.com",
+    "title": "StudyArena",
+    "description": "免费比较同一学习问题的三个匿名 AI 回答，投票后揭示模型名称",
+    "image": "https://studyarena.com/icon.png",
+    "category": [
+      "聊天助手"
+    ],
+    "type": "web",
+    "id": "53238464-5572-45a3-ab13-6b340dca8964"
+  },
+  {
     "url": "https://b.quark.cn/apps/qkhomepage_twofoufeb/routes/model",
     "title": "夸克AI",
     "type": "app",

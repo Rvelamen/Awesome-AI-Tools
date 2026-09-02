@@ -93,6 +93,7 @@
 | 360智脑 | web | 360搜索最新推出的AI对话聊天机器人 | [官网](https://ai.360.com) |
 | 对话写作猫 | web | 秘塔写作猫推出的AI对话聊天工具 | [官网](https://xiezuocat.com) |
 | 海螺AI | web | MiniMax推出的AI对话助理，已免费开放 | [官网](https://hailuoai.com) |
+| StudyArena | web | 免费比较同一学习问题的三个匿名 AI 回答，投票后揭示模型名称 | [官网](https://studyarena.com) |
 
 ---
 ### 2. 图像工具
