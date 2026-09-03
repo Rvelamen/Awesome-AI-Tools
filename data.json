@@ -2568,6 +2568,17 @@
     "id": "f37a1fc2-9c56-4af3-aa86-719c5b247a05"
   },
   {
+    "url": "https://withresumeai.com/",
+    "title": "ResumeAI",
+    "description": "AI简历生成与ATS简历检测工具",
+    "image": "https://withresumeai.com/favicon.ico",
+    "category": [
+      "招聘求职求职"
+    ],
+    "type": "web",
+    "id": "813b18d7-fb72-4522-90c3-657e29da3669"
+  },
+  {
     "url": "https://www.feishu.cn/paid/ai-register",
     "title": "飞书多维表格",
     "description": "表格形态的 AI 工作流搭建工具",
