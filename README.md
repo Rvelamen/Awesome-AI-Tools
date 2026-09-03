@@ -670,6 +670,7 @@
 | DINQ | web | AI人才发现与分析平台，精准识别AI精英 | [官网](https://dinq.io/) |
 | Gank Interview | web | 专为笔试和面试设计的AI面试助手 | [官网](https://www.gankinterview.cn/) |
 | 面试猫 | web | 面试猫是AI面试辅助工具，基于实时语音识别和大语言模型，为求职者提供面试过程中的即时回答建议，帮助应对面试中的各种问题。 | [官网](https://www.offermore.cc/) |
+| ResumeAI | web | AI简历生成与ATS简历检测工具 | [官网](https://withresumeai.com/) |
 
 ---
 ### 13. 效能工具
@@ -791,6 +792,7 @@
 | Poify | web | Poify是快手推出的AI电商营销工具，帮助商家和创意工作者快速生成高质量的图片内容。 | [官网](https://poify.ai/) |
 | 绘蛙AI | web | 绘蛙AI是国内领先的垂直深耕服饰领域的AIGC电商营销工具，专注于利用先进AIGC技术为电商卖家提供低成本、高质量的商拍图和种草文案。 | [官网](https://ihuiwa.paluai.com/aibot) |
 | Pippit | web | Pippit是字节旗下 CapCut 推出的AI营销内容创作平台，专为电商、社交媒体运营和品牌推广设计。 | [官网](https://pippit.capcut.com/) |
+| Lunalisa | web | AI创意工作台，13种图像模型+22种视频模型生成商品图、营销海报和白底listing图 | [官网](https://luna-lisa.art) |
 
 ---
 ### 15. 设计工具
@@ -929,6 +931,7 @@
 | CodeFuse | web | 蚂蚁集团推出的AI代码编程助手 | [官网](https://codefuse.alipay.com) |
 | Tabby | web | 免费开源的自托管AI编程助手 | [官网](https://tabby.tabbyml.com) |
 | TeamoRouter | web | Claude Code/Codex LLM API 智能路由网关，一个Key接入所有主流模型，微信支付宝充值 | [官网](https://teamorouter.com?utm_source=github&utm_medium=issue&utm_campaign=round3&utm_content=awesome-ai-tools-cn) |
+| LuckyAPI | web | 多模型 API 网关，一个 Key 接入 OpenAI、Anthropic、Google 和 xAI 兼容接口，并提供实时模型目录与定价 | [官网](https://luckyapi.online/zh-cn) |
 | C知道 | web | CSDN推出的AI技术问答工具 | [官网](https://so.csdn.net/chat) |
 | 驭码CodeRider | web | 极狐GitLab推出的AI编程与软件智能研发助手 | [官网](https://coderider.gitlab.cn) |
 | Duo Chat | web | GitLab推出的AI编程助手 | [官网](https://about.gitlab.com/gitlab-duo) |
