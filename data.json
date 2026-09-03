@@ -6795,6 +6795,17 @@
     "id": "6240da2b-ab81-4343-a017-409c8a84e21f"
   },
   {
+    "url": "https://luna-lisa.art",
+    "title": "Lunalisa",
+    "description": "AI创意工作台，13种图像模型+22种视频模型生成商品图、营销海报和白底listing图",
+    "image": "https://luna-lisa.art/lunalisa-mark.png",
+    "category": [
+      "商品图生成"
+    ],
+    "type": "web",
+    "id": "0af217ce-1db6-4a31-918c-209acb82a03c"
+  },
+  {
     "url": "https://www.tripo3d.ai",
     "title": "Tripo AI",
     "description": "AI 3D模型生成平台，支持文本、图像一键生成3D模型",
