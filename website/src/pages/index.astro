@@ -1,0 +1,83 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ToolCard from '../components/ToolCard.astro';
+import FilterBar from '../components/FilterBar.astro';
+import tools from '../../data.json';
+import { resolveIcon } from '../lib/icons';
+import { resolveShot } from '../lib/shots';
+import { addedDates } from '../lib/dates';
+
+const base = import.meta.env.BASE_URL;
+
+const featuredTitles = [
+  'ChatGPT', 'DeepSeek', 'Claude', 'Midjourney', 'Gemini',
+  'Cursor', '豆包', '通义千问', '文心一言', '可灵AI',
+  '即梦AI', 'Suno', 'HeyGen', 'Sora', 'Copilot',
+];
+const featured = featuredTitles
+  .map((t) => tools.find((tool) => tool.title === t))
+  .filter((t): t is (typeof tools)[number] => Boolean(t));
+
+const recent = [...tools]
+  .filter((t) => addedDates[t.id])
+  .sort((a, b) => addedDates[b.id] - addedDates[a.id])
+  .slice(0, 12);
+
+const recentTypes = [...new Set(recent.map((t) => t.type).filter(Boolean))] as string[];
+
+const categories = new Set<string>();
+for (const tool of tools) {
+  for (const cat of tool.category) categories.add(cat);
+}
+---
+
+<Layout title="Awesome AI Tools - AI 工具导航" active="__home">
+  <div class="page-head" data-default-content>
+    <h1>全球 AI 工具都在这里</h1>
+    <p>收录 {tools.length} 个 AI 工具，覆盖 {categories.size} 个分类，持续更新</p>
+  </div>
+
+  <section class="featured" data-default-content>
+    <div class="sec-head">
+      <h2 class="section-title">精选工具</h2>
+    </div>
+    <div class="strip">
+      {
+        featured.map((tool, i) => (
+          <ToolCard
+            title={tool.title}
+            description={tool.description}
+            url={tool.url}
+            image={resolveIcon(tool, base)}
+            type={tool.type}
+            badge={`#${i + 1}`}
+            compact
+          />
+        ))
+      }
+    </div>
+  </section>
+
+  <section class="filterable" data-default-content>
+    <div class="sec-head">
+      <h2 class="section-title">最近收录</h2>
+      <a class="more-link" href={`${base}recent/`}>查看全部 →</a>
+    </div>
+    <FilterBar types={recentTypes} />
+    <div class="grid">
+      {
+        recent.map((tool) => (
+          <ToolCard
+            title={tool.title}
+            description={tool.description}
+            url={tool.url}
+            image={resolveIcon(tool, base)}
+            type={tool.type}
+            added={addedDates[tool.id]}
+            shot={resolveShot(tool, base)}
+          />
+        ))
+      }
+    </div>
+  </section>
+</Layout>

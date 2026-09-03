@@ -1,0 +1,112 @@
+---
+import '../styles/global.css';
+import Search from '../components/Search.astro';
+import tools from '../../data.json';
+
+interface Props {
+  title: string;
+  description?: string;
+  active?: string; // category name, '__home' or '__recent'
+}
+
+const { title, description = 'Awesome AI Tools - AI 工具导航', active } = Astro.props;
+const base = import.meta.env.BASE_URL;
+
+const counts = new Map<string, number>();
+for (const tool of tools) {
+  for (const cat of tool.category) {
+    counts.set(cat, (counts.get(cat) ?? 0) + 1);
+  }
+}
+const sorted = [...counts.entries()].sort((a, b) => b[1] - a[1]);
+---
+
+<!doctype html>
+<html lang="zh-CN" data-theme="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`} />
+    <script is:inline>
+      (function () {
+        var saved = localStorage.getItem('theme');
+        document.documentElement.dataset.theme = saved || 'dark';
+      })();
+    </script>
+  </head>
+  <body>
+    <aside class="sidebar" data-default-content>
+      <a class="side-brand" href={base}>
+        <img src={`${base}logo.svg`} alt="" width="28" height="28" />
+        <span>Awesome AI Tools</span>
+      </a>
+      <nav class="side-nav">
+        <a class:list={['side-link', { on: active === '__home' }]} href={base}>
+          <span>网站首页</span>
+        </a>
+        <a class:list={['side-link', { on: active === '__recent' }]} href={`${base}recent/`}>
+          <span>最新收录</span>
+        </a>
+      </nav>
+      <p class="side-head">分类</p>
+      <div class="side-cats">
+        {
+          sorted.map(([name, count]) => (
+            <a
+              class:list={['side-link', { on: name === active }]}
+              href={`${base}category/${encodeURIComponent(name)}/`}
+            >
+              <span>{name}</span>
+              <span class="n">{count}</span>
+            </a>
+          ))
+        }
+      </div>
+    </aside>
+
+    <div class="shell">
+      <header class="topbar">
+        <Search />
+        <nav class="site-nav">
+          <a href="https://github.com/Rvelamen/Awesome-AI-Tools" target="_blank" rel="noopener">GitHub</a>
+          <button class="theme-toggle" id="theme-toggle" type="button" aria-label="切换主题">
+            <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" />
+            </svg>
+            <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="4" />
+              <path d="M12 2v2m0 16v2M4.93 4.93l1.41 1.41m11.32 11.32 1.41 1.41M2 12h2m16 0h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41" />
+            </svg>
+          </button>
+        </nav>
+      </header>
+
+      <main class="content">
+        <p class="search-status" id="search-status" hidden></p>
+        <div class="grid" id="search-results" hidden></div>
+        <slot />
+      </main>
+
+      <footer class="site-footer">
+        数据与
+        <a href="https://github.com/Rvelamen/Awesome-AI-Tools" target="_blank" rel="noopener">
+          Rvelamen/Awesome-AI-Tools
+        </a>
+        同步 · 共收录 843 个 AI 工具
+      </footer>
+    </div>
+
+    <script is:inline>
+      document
+        .getElementById('theme-toggle')
+        .addEventListener('click', function () {
+          var next =
+            document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
+          document.documentElement.dataset.theme = next;
+          localStorage.setItem('theme', next);
+        });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,94 @@
+---
+// Global search input (lives in the top bar). Results render into
+// #search-results in the Layout's content area, replacing blocks marked
+// [data-default-content] while a query is active.
+---
+
+<div class="search-box">
+  <input id="tool-search" type="search" placeholder="搜索工具名称、描述或分类…" autocomplete="off" />
+</div>
+
+<script>
+  import Fuse from 'fuse.js';
+
+  interface ToolEntry {
+    title: string;
+    description: string;
+    url: string;
+    image?: string;
+    shot?: string;
+    type?: string;
+    category: string[];
+  }
+
+  const input = document.getElementById('tool-search') as HTMLInputElement;
+  const results = document.getElementById('search-results') as HTMLElement;
+  const status = document.getElementById('search-status') as HTMLElement;
+  const defaultBlocks = document.querySelectorAll<HTMLElement>('[data-default-content]');
+
+  const setDefaultVisible = (visible: boolean) =>
+    defaultBlocks.forEach((el) => (el.hidden = !visible));
+
+  let fuse: Fuse<ToolEntry> | null = null;
+
+  const esc = (s: string) =>
+    s.replace(/[&<>"']/g, (c) => `&#${c.charCodeAt(0)};`);
+
+  function cardHtml(tool: ToolEntry): string {
+    const letter = esc(tool.title.trim().charAt(0).toUpperCase());
+    const img = tool.image
+      ? `<img src="${esc(tool.image)}" alt="" width="40" height="40" loading="lazy" onerror="this.remove()" />`
+      : '';
+    const thumb = tool.shot
+      ? `<span class="thumb"><img src="${esc(tool.shot)}" alt="" loading="lazy" onerror="this.parentElement.remove()" /></span>`
+      : '';
+    const type = tool.type ? `<span class="type">${esc(tool.type)}</span>` : '';
+    return `<a class="card" href="${esc(tool.url)}" target="_blank" rel="noopener">
+      ${thumb}
+      <span class="body">
+        <span class="icon"><span class="fallback">${letter}</span>${img}</span>
+        <span class="meta"><strong>${esc(tool.title)}</strong><span class="desc">${esc(tool.description)}</span></span>
+        ${type}</span></a>`;
+  }
+
+  async function ensureIndex() {
+    if (fuse) return;
+    status.hidden = false;
+    status.textContent = '正在加载搜索索引…';
+    const res = await fetch(`${import.meta.env.BASE_URL}search-index.json`);
+    const data: ToolEntry[] = await res.json();
+    fuse = new Fuse(data, {
+      keys: [
+        { name: 'title', weight: 2 },
+        'description',
+        'category',
+      ],
+      threshold: 0.35,
+      ignoreLocation: true,
+    });
+  }
+
+  let timer: number | undefined;
+  input.addEventListener('input', () => {
+    window.clearTimeout(timer);
+    timer = window.setTimeout(async () => {
+      const query = input.value.trim();
+      if (!query) {
+        results.hidden = true;
+        results.innerHTML = '';
+        status.hidden = true;
+        setDefaultVisible(true);
+        return;
+      }
+      await ensureIndex();
+      const hits = fuse!.search(query, { limit: 40 });
+      setDefaultVisible(false);
+      results.hidden = false;
+      results.innerHTML = hits.map((h) => cardHtml(h.item)).join('');
+      status.hidden = false;
+      status.textContent = hits.length
+        ? `找到 ${hits.length} 个匹配的工具`
+        : '没有匹配的工具，换个关键词试试';
+    }, 150);
+  });
+</script>

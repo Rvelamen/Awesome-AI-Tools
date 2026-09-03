@@ -1,0 +1,59 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ToolCard from '../components/ToolCard.astro';
+import FilterBar from '../components/FilterBar.astro';
+import tools from '../../data.json';
+import { resolveIcon } from '../lib/icons';
+import { resolveShot } from '../lib/shots';
+import { addedDates } from '../lib/dates';
+
+const base = import.meta.env.BASE_URL;
+
+const recent = [...tools]
+  .filter((t) => addedDates[t.id])
+  .sort((a, b) => addedDates[b.id] - addedDates[a.id]);
+
+const types = [...new Set(recent.map((t) => t.type).filter(Boolean))] as string[];
+
+const DAY = 86400;
+const formatDate = (ts: number) => {
+  const now = new Date();
+  const d = new Date(ts * 1000);
+  const days = Math.floor(
+    (new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime() -
+      new Date(d.getFullYear(), d.getMonth(), d.getDate()).getTime()) /
+      (DAY * 1000),
+  );
+  if (days <= 0) return '今天';
+  if (days === 1) return '昨天';
+  if (days <= 30) return `${days} 天前`;
+  const md = `${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+  return d.getFullYear() === now.getFullYear() ? md : `${d.getFullYear()}-${md}`;
+};
+---
+
+<Layout title="最近新增 - Awesome AI Tools" description="最新收录的 AI 工具" active="__recent">
+  <div class="page-head" data-default-content>
+    <h1>最新收录</h1>
+    <p>按收录时间排序，共 {recent.length} 个工具</p>
+  </div>
+  <section class="filterable" data-default-content>
+    <FilterBar types={types} />
+    <div class="grid">
+      {
+        recent.map((tool) => (
+          <ToolCard
+            title={tool.title}
+            description={tool.description}
+            url={tool.url}
+            image={resolveIcon(tool, base)}
+            type={tool.type}
+            badge={formatDate(addedDates[tool.id])}
+            added={addedDates[tool.id]}
+            shot={resolveShot(tool, base)}
+          />
+        ))
+      }
+    </div>
+  </section>
+</Layout>

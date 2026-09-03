@@ -1,0 +1,47 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  url: string;
+  image?: string;
+  type?: string;
+  badge?: string;
+  added?: number;
+  compact?: boolean; // no website screenshot (for curated/ranked strips)
+  shot?: string; // resolved thumbnail URL (local public/shots or mshots fallback)
+}
+
+const { title, description, url, image, type, badge, added, compact, shot } = Astro.props;
+const letter = title.trim().charAt(0).toUpperCase();
+---
+
+<a
+  class="card"
+  href={url}
+  target="_blank"
+  rel="noopener"
+  data-type={type ?? ''}
+  data-added={added ?? 0}
+  data-title={title}
+>
+  {
+    !compact && shot && (
+      <span class="thumb">
+        <img src={shot} alt="" loading="lazy" onerror="this.parentElement.remove()" />
+        {badge && <span class="thumb-badge">{badge}</span>}
+      </span>
+    )
+  }
+  <span class="body">
+    <span class="icon">
+      <span class="fallback">{letter}</span>
+      {image && <img src={image} alt="" width="40" height="40" loading="lazy" onerror="this.remove()" />}
+    </span>
+    <span class="meta">
+      <strong>{title}</strong>
+      <span class="desc">{description}</span>
+    </span>
+    {badge && (compact || !shot) && <span class="badge">{badge}</span>}
+    {type && <span class="type">{type}</span>}
+  </span>
+</a>
