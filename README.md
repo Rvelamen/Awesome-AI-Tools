@@ -94,6 +94,15 @@
 | 对话写作猫 | web | 秘塔写作猫推出的AI对话聊天工具 | [官网](https://xiezuocat.com) |
 | 海螺AI | web | MiniMax推出的AI对话助理，已免费开放 | [官网](https://hailuoai.com) |
 | StudyArena | web | 免费比较同一学习问题的三个匿名 AI 回答，投票后揭示模型名称 | [官网](https://studyarena.com) |
+| 千问 | web | 全能AI助手，基于Qwen模型 | [官网](https://www.qianwen.com) |
+| Z.ai | web | 智谱面向全球推出的AI模型体验平台 | [官网](https://z.ai/) |
+| Duck.ai | web | DuckDuckGo 推出的免费 AI 聊天平台 | [官网](https://duck.ai/) |
+| LongCat | web | 美团推出的自研大模型AI对话平台 | [官网](https://longcat.chat/) |
+| 逗逗AI | web | AI游戏陪玩，支持原神、黑神话、LOL！ | [官网](https://doudou.paluai.com/web_aitool) |
+| 知达AI | web | 专为教育全场景打造的AI智能助教 | [官网](https://www.zida.school/) |
+| Lorka AI | web | 多模型 AI 聚合对话平台 | [官网](https://www.lorka.ai/) |
+| 百灵大模型 | web | 蚂蚁集团推出的 Ling-1T 大模型对话体验平台 | [官网](https://ling.tbox.cn/chat) |
+| Dola | web | 豆包国际版，字节跳动面向海外市场推出的AI助手 | [官网](https://www.dola.com/) |
 
 ---
 ### 2. 图像工具
@@ -175,6 +184,25 @@
 | Facet | web | AI图片修图和优化工具 | [官网](https://facet.ai/) |
 | Relight | web | ClipDrop推出的AI图像打光工具 | [官网](https://clipdrop.co/relight) |
 | Upscayl | web | 免费开源的AI图片无损放大工具 | [官网](https://www.upscayl.org/) |
+| RunningHub | web | 基于云端ComfyUI的AI图像与视频创作平台 | [官网](https://www.runninghub.cn/) |
+| 呜哩 | web | 阿里推出的AIGC创意生产力平台 | [官网](https://wuli.art/) |
+| insMind | web | 稿定面向全球市场推出的AI图片编辑工具 | [官网](https://www.insmind.com/) |
+| 图改改 | web | 免费 AI 在线图片文字编辑工具，对话式AI编辑 | [官网](https://tugaigai.com/) |
+| Epixa | web | 一站式 AI 图像创作聚合平台 | [官网](https://epixa.cn/) |
+| AlphaVow | web | 一站式 AI 批量图像处理工具 | [官网](https://alphavow.com/) |
+| ChatArt | web | 一站式 AI 创作工具，聚合国内外主流 AI 模型 | [官网](https://www.chatartpro.com/tw/) |
+| Krene | web | 深耕游戏/影视美术创作领域的 AIGC 创作平台 | [官网](https://www.krene.com/) |
+| 米粿AI | web | 懂画师的渐进式分层绘画助手，主攻日系二次元绘画 | [官网](https://miguo.ai) |
+| 咖图AI | web | AI图像设计平台，搭载NanoBanana Pro模型 | [官网](https://www.katuai.cn/) |
+| 视觉工厂 | web | AI创作工具，支持AI生图和视频生成服务 | [官网](https://d.aijuh.com/) |
+| 秒绘AI | web | 一键生成爆款图文，免费发布小红书 | [官网](https://miaohuiai.cc/) |
+| 讯飞绘文 | web | AI批量原创，多平台矩阵号管理 | [官网](https://turbodesk.xfyun.cn/) |
+| 蛙蛙写作 | web | AI小说和内容创作工具 | [官网](https://wawawriter.com/app/) |
+| 妙呀 | web | 阿里潮玩AI平台，一站式潮玩创作 | [官网](https://www.miaoyaai.cn/activityDetail?activityId=431&sqm=miaoya.aibot.ls.pc++) |
+| 秒哒 | web | 无代码AI应用开发平台，一句话做应用 | [官网](https://www.miaoda.cn/) |
+| 秒悟Meoo | web | 阿里推出的首个对话式AI开发工具 | [官网](https://click.meoo.com/m/20000000664) |
+| updream | web | 专业级一站式 AI 视频创作平台 | [官网](https://www.updream.cn/) |
+| LibTV | web | 专业AI视频创作平台，最便宜的 Seedance 2.5 ！ | [官网](https://www.liblib.tv/) |
 
 ---
 ### 3. 图片插画生成
@@ -255,6 +283,9 @@
 | 改图鸭AI图片生成 | web | 改图鸭AI图片生成 | [官网](https://www.gaituya.com/aiimg/) |
 | Prodia | web | AI艺术画生成工具 | [官网](https://prodia.com/) |
 | Lucidpic | web | AI生成高质量人像照片 | [官网](https://lucidpic.com/ai-stock-photo-generator) |
+| Bing Image Creator | web | 微软必应推出的基于DALL·E的AI图像生成工具 | [官网](https://www.bing.com/images/create) |
+| MakeManga | web | MakeManga 是 AI 漫画创作平台，能将文字故事快速转化为精美漫画。 | [官网](https://www.makemanga.ai/) |
+| 妙话AI | web | 妙话AI是专为普通用户与内容创作者设计的创意图片生成工具。 | [官网](https://imiaohua.com/) |
 
 ---
 ### 4. 搜索引擎
@@ -297,6 +328,15 @@
 | ThinkAny | web | 新时代的搜索引擎 | [官网](https://thinkany.ai/zh) |
 | Miku | web | 快速精准的搜索引擎 | [官网](https://www.hellomiku.com) |
 | Qdrant | web | 开源的向量数据库和向量相似性搜索引擎 | [官网](https://qdrant.tech) |
+| 玻尔 | web | 新一代科研知识库与AI学术搜索平台 | [官网](https://www.bohrium.com/) |
+| 蜜崽检索 | web | AI 学术检索与研究辅助工具 | [官网](https://s.mizai.cn/) |
+| WisPaper | web | 复旦团队推出的 AI 学术搜索工具 | [官网](https://www.wispaper.ai/) |
+| CuspAI | web | 剑桥大学推出的材料学专业AI搜索工具 | [官网](https://www.cusp.ai/) |
+| MaxAEO | web | AI 搜索可见度监测与优化工具 | [官网](https://maxaeo.cn/) |
+| SheepGeo | web | 国内首个AI GEO（生成式引擎优化）分析平台 | [官网](https://sheepgeo.com/) |
+| 博简智慧专利 | web | AI专利查新检索与撰写平台 | [官网](https://pagentia.com/) |
+| 360AI搜索 | web | 360推出的新一代AI搜索引擎 | [官网](https://so.360.com/) |
+| Glean | web | 专为职场人设计的AI搜索引擎 | [官网](https://www.glean.com/) |
 
 ---
 ### 5. 翻译
@@ -320,6 +360,14 @@
 | 讯飞智能翻译 | web | 科大讯飞推出的人工智能翻译平台 | [官网](https://fanyi.xfyun.cn) |
 | 彩云小译 | web | 兼具中日英同声传译、文档翻译和网页翻译的智能翻译工具 | [官网](https://fanyi.caiyunapp.com/#/) |
 | 百度AI同传助手 | app | 中英文音视频同传字幕工具 | [官网](https://fanyi.baidu.com/appdownload/download.html?tab=helper&fr=pcproduct) |
+| 讯飞同传 | web | 科大讯飞推出的专业AI同声传译平台 | [官网](https://tongchuan.iflyrec.com/) |
+| 堆友AI图片翻译 | web | AI图片翻译工具，自动翻译图片文字内容 | [官网](https://d.design/toolbox/translate) |
+| Doclingo | web | 专业的AI文档翻译工具，保留原始排版 | [官网](https://doclingo.cn/) |
+| 精挑翻译 | web | 免费 AI 翻译插件，双语网页对照翻译 | [官网](https://selecttranslate.com/) |
+| Belin Doc | web | 免费无限制的 AI 文档翻译工具 | [官网](https://belindoc.com/) |
+| Transor沉浸式翻译 | web | AI翻译工具，提供多场景实时翻译服务 | [官网](https://transor.ai/) |
+| 灵夕翻译 | web | AI智能文档翻译工具，保持原始排版 | [官网](https://lingxifanyi.com/) |
+| 金山快译 | web | 金山WPS推出的在线翻译平台 | [官网](https://kuaiyi.wps.cn/txt-translate) |
 
 ---
 ### 6. PPT
@@ -358,6 +406,21 @@
 | auxi | web | 功能强大的PowerPoint AI插件 | [官网](https://www.auxi.ai/) |
 | AI灵感PPT | web | 免费高效的AIPPT生成工具 | [官网](https://www.lgppt.cn) |
 | MindShow | web | 国内独立开发者开发的输入内容自动生成演示工具 | [官网](https://www.mindshow.fun) |
+| Loomy | web | 桌面端 AI 智能体，每天免费5000积分！ | [官网](https://loomy.xunfei.cn/) |
+| 二狗PPT | web | 去 AI 味中式职场 PPT 生成工具 | [官网](https://www.2dogppt.com/) |
+| Pi智能PPT | web | 一键生成PPT，复制精美模板 | [官网](https://pi.deepvinci.tech/idea) |
+| Gamma | web | AI幻灯片演示生成工具 | [官网](https://try.gamma.app/dlp8wf0pq5r8) |
+| AiPPT插件 | web | AiPPT推出的AI PPT制作工具（插件版） | [官网](https://www.aippt.cn/plugin) |
+| Swishy | web | AI 动态设计与动画生成平台 | [官网](https://www.swishy.ai/) |
+| ChartGen | web | AI图表生成工具，快速生成专业图表 | [官网](https://chartgen.ai/zh-CN) |
+| Diagrimo | web | Tenorshare AI推出的AI图表生成工具 | [官网](https://www.tenorshare.ai/zh-tw/diagrimo.html) |
+| PicDoc | web | AI文本转图表工具，一键生成多种视觉图表 | [官网](https://www.picdoc.cn/) |
+| Kimi PPT助手 | web | Kimi全新自研的PPT助手，一键生成PPT | [官网](https://www.kimi.com/slides) |
+| 夸克PPT | web | 夸克团队推出的AI PPT生成工具 | [官网](https://ppt.quark.cn/) |
+| 飞象老师 | web | 猿辅导推出的国内首个AI教学和备课工具 | [官网](https://www.feixianglaoshi.com/) |
+| 一点PPT | web | 一句话生成专业PPT，AI自动排版配图 | [官网](https://www.1dppt.com/) |
+| NarraLand | web | AI智能演示内容创作平台 | [官网](https://www.narraland.com) |
+| 课灵 PPT | web | AI免费生成PPT课件 | [官网](https://www.classppt.cn/) |
 
 ---
 ### 7. 文档工具
@@ -393,6 +456,13 @@
 | PandaGPT | web | AI文档要点总结工具 | [官网](https://www.pandagpt.io/) |
 | Rossum.ai | web | 现代化的AI文档处理工具 | [官网](https://rossum.ai/) |
 | Super AI | web | AI复杂文档自动识别处理转换 | [官网](https://super.ai/) |
+| 小绿鲸 | web | AI英文文献阅读工具 | [官网](https://www.xljsci.com/) |
+| Lantay | web | 面壁智能推出的文档处理智能工作台 | [官网](https://lantay.modelbest.cn/) |
+| Wisfile | web | AI文件整理工具，支持批量归纳文件 | [官网](https://www.wisfile.ai/) |
+| 文智Doc | web | AI 文档生成工具，一键生成初稿智能排版 | [官网](https://wenzhidoc.com) |
+| OmniBox小黑 | web | 解析全网内容 秒变文本生产力 | [官网](https://www.omnibox.pro/) |
+| 智写流程 | web | AI文档工具，捕捉网页操作自动生成图文教程 | [官网](https://www.igenflow.com/) |
+| 匡优AI | web | AI出题工具，快速生成各类考试题目 | [官网](https://ai.kyou.ltd/pc) |
 
 ---
 ### 8. 表格
@@ -412,6 +482,17 @@
 | Excelly-AI | web | 将文本转换成Excel或Google Sheets公式 | [官网](https://excelly-ai.io/index.html) |
 | SheetGod | web | BoloForms推出的AI Excel公式生成工具 | [官网](https://www.boloforms.com/sheetgod/) |
 | Excel Formularizer | web | AI将文本输入转换为Excel公式处理 | [官网](https://excelformularizer.com/) |
+| ChatExcel | web | AI Excel表格处理与数据分析工具 | [官网](https://www.chatexcel.com/home) |
+| marmos | web | 腾讯灯塔团队推出的AI原生数据分析平台 | [官网](https://marmos.qq.com/) |
+| 数以轻舟Agent | web | 专注Excel数据处理的本地化AI智能体 | [官网](https://www.dify-ai.cn/excelagent/excelagent.html) |
+| 察言观数AskTable | web | 企业级AI数据智能体平台 | [官网](https://www.asktable.com/) |
+| Tomoro | web | 腾讯灯塔推出的AI原生大数据分析工具 | [官网](https://beacon.qq.com/tomoro/) |
+| XCell | web | 智能数据分析平台，专注 Excel 与 CSV 数据处理 | [官网](https://xcell.boxindx.cn/) |
+| Shortcut | web | AI Excel 超级智能体，处理复杂 Excel 任务 | [官网](https://www.tryshortcut.ai/) |
+| 表答 | web | AI数据采集与数据分析智能体 | [官网](https://biaoda.me/) |
+| ChatSPSS | web | AI 数据分析助手，零门槛在线使用 | [官网](https://chatspss.cn/) |
+| 爱图表 | web | 镝数科技推出的AI数据可视化和分析工具 | [官网](https://aitubiao.com/) |
+| ChartinAI | web | 一句话生成专业图表，AI自动搜集数据并可视化 | [官网](https://chartinai.com/) |
 
 ---
 ### 9. 思维导图
@@ -436,6 +517,8 @@
 | Taskade | web | 高颜值AI大纲和思维导图生成 | [官网](https://www.taskade.com/) |
 | Miro AI | web | 在线白板协作工具推出的AI功能，Beta测试中 | [官网](https://miro.com/mind-map/) |
 | Ayoa Ultimate | web | 思维导图和头脑风暴工具 | [官网](https://www.ayoa.com/ultimate/) |
+| 畅图AI | web | AI图表生成工具，一键生成思维导图、流程图 | [官网](https://www.fluig.cn/) |
+| 可赞AI | web | AI办公可视化工具，文字转图表 | [官网](https://kezign.cn/) |
 
 ---
 ### 10. 会议工具
@@ -453,6 +536,7 @@
 | Fireflies.ai | web | AI会议转录和会议纪要生成工具 | [官网](https://fireflies.ai/) |
 | Noty.ai | web | ChatGPT驱动的AI会议转录工具 | [官网](https://noty.ai/) |
 | Airgram | web | 自动会议笔记和总结的AI助手 | [官网](https://www.airgram.io) |
+| Ai好记 | web | AI音视频转录与总结 | [官网](https://aihaoji.com/) |
 
 ---
 ### 11. 音频工具
@@ -532,6 +616,25 @@
 | Voicemod | web | AI变声工具 | [官网](https://www.voicemod.net/ai-voices/) |
 | WellSaid Labs | web | AI文本转语音工具 | [官网](https://wellsaidlabs.com/) |
 | Notta | web | AI在线将语音转换成文字 | [官网](https://www.notta.ai/en) |
+| 逗哥配音 | web | 一站式AI配音工具，抖音爆款配音始发地 | [官网](https://www.douge.com/companyProfile) |
+| 讯飞译制 | web | 科大讯飞推出的AI音视频本地化平台 | [官网](https://yizhi.iflyrec.com/?id=XFTJ932) |
+| 音述AI | web | 全球首个AI音乐社区 | [官网](https://www.yinshu.me/) |
+| Tunee | web | 首个对话式音乐创作AI智能体 | [官网](https://www.tunee.ai/) |
+| Flow Music | web | Google Labs推出的AI音乐创作平台 | [官网](https://www.flowmusic.app/) |
+| Vemus未音 | web | 腾讯音乐旗下首款一站式AI音乐创作工具 | [官网](https://y.qq.com/vemus/index.html) |
+| MELO音乐 | web | AI 音乐生成平台，支持多模态创作能力 | [官网](https://www.51melo.com/) |
+| MeloLab | web | 一站式 AI 音乐生成与编辑平台 | [官网](https://melolab.ai/) |
+| 万象有声 | web | AI 一站式有声内容创作平台 | [官网](https://www.audimind.com/) |
+| Nafy AI | web | 在线 AI 音乐生成器，支持扩展、替换、翻唱 | [官网](https://nafy.ai/) |
+| UniScribe | web | AI 免费在线音视频转文字平台 | [官网](https://www.uniscribe.co/) |
+| 轻析 LiteSight | web | AI 视频内容提取工具，自动转文字 | [官网](https://qx.utiliverse.site/) |
+| TurboScribe | web | 专业 AI 音视频转文字工具 | [官网](https://turboscribe.ai/) |
+| 多维视界 | web | 一站式AI音视频智能分析平台 | [官网](https://dwsj.cn/) |
+| 音潮 | web | 全栈自研的AI音乐创作平台 | [官网](https://www.yinchaoyongxian.com/) |
+| 音秘 | web | 百度推出的AI播客创作工具 | [官网](https://audiomyst.baidu.com/) |
+| WellSaid | web | AI文本转语音工具 | [官网](https://www.wellsaid.io/) |
+| Keevx声音克隆 | web | Keevx声音克隆是Keevx推出的AI声音克隆工具，能迅速生成与用户音色相似的声音副本。 | [官网](https://keevx.baidu.com/zh/feature/avatarVoice) |
+| 千音漫语 | web | 千音漫语是北京熠声科技推出的智能声音创作助手，为用户提供高效、便捷的声音创作解决方案。 | [官网](https://qianyin123.com/?rmd=100080) |
 
 ---
 ### 12. 招聘求职求职
@@ -547,6 +650,26 @@
 | 蓝字典AI求职 | web | AI求职工具，提供AI简历生成、AI模拟面试服务 | [官网](https://www.lanzidian.com) |
 | 神笔简历 | web | AI简历云平台，专为求职者提供一站式求职服务 | [官网](https://jianli.jiuyeqiao.cn/#/index/index) |
 | YOO简历 | web | 必优科技推出的AI简历生成工具 | [官网](https://www.yoojober.com) |
+| UP简历 | web | AI聊天搞定简历 | [官网](https://upcv.tech/) |
+| 超级简历 | web | 3分钟生成简历超千万人使用 | [官网](https://www.wondercv.com/) |
+| 求职方舟 | web | AI求职工具，智能识别自动填简历 | [官网](https://www.qiuzhifangzhou.com/) |
+| 面多多 | web | 沉浸式AI模拟面试平台 | [官网](https://ai.mianshiya.com/) |
+| 牛面 | web | AI面试工具，专为互联网技术人员打造 | [官网](https://niumianoffer.com/) |
+| 面团AI | web | AI面试助手，更高效拿到Offer | [官网](https://miantuan.knowfuture.com.cn/) |
+| AskCc | web | AI面试助手，上传个人知识库回答更贴本人经历 | [官网](https://askcc.com.cn/) |
+| 不繁简历 | web | AI 原生简历编辑器，专业简历制作平台 | [官网](https://bufancv.com/) |
+| Jobright | web | AI 求职平台，提供一站式自动化服务 | [官网](https://jobright.ai/) |
+| xMatrix | web | 超矩AI协作力人才招聘智能体 | [官网](https://www.xmatrix.tech/#/) |
+| 智简简历 | web | 免费AI在线简历制作工具，可视化编辑 | [官网](https://aijianli.cn) |
+| 笔面通 | web | 最牛AI面试神器，大厂Offer拿到手软 | [官网](https://bimiantong.com/) |
+| AI面试帮 | web | AI面试辅助、笔试辅助工具，实时AI提示，offer轻松拿！ | [官网](https://aimianshibang.com/) |
+| 理聘AI | web | 更懂硕博的AI求职神器 | [官网](https://ai.lipind.com/chat) |
+| 51mee | web | 浅度求索推出的AI招聘管理工具 | [官网](https://www.51mee.com/) |
+| LovTalent | web | AI 原生求职智能体平台 | [官网](https://lovtalent.com/) |
+| TelehireAI面试 | web | 最轻量级的全领域AI面试官 | [官网](https://www.telehire.ai/) |
+| DINQ | web | AI人才发现与分析平台，精准识别AI精英 | [官网](https://dinq.io/) |
+| Gank Interview | web | 专为笔试和面试设计的AI面试助手 | [官网](https://www.gankinterview.cn/) |
+| 面试猫 | web | 面试猫是AI面试辅助工具，基于实时语音识别和大语言模型，为求职者提供面试过程中的即时回答建议，帮助应对面试中的各种问题。 | [官网](https://www.offermore.cc/) |
 
 ---
 ### 13. 效能工具
@@ -582,6 +705,53 @@
 | Merlin | web | 基于ChatGPT的Chrome浏览器扩展，浏览任意网页时利用GPT | [官网](https://merlin.foyer.work/) |
 | Raycast AI | web | Raycast推出的Mac AI助手，智能写作、编程、回答问题等 | [官网](https://www.raycast.com/ai) |
 | Timely | web | AI时间管理跟踪软件 | [官网](https://timelyapp.com/) |
+| 飞书智能伙伴 | web | 字节旗下飞书平台推出的AI办公助手 | [官网](https://www.feishu.cn/product/ai_companion) |
+| 钉钉斜杠“/” | web | 钉钉最新集成了通义千问大模型的AI办公助手 | [官网](https://page.dingtalk.com/wow/dingtalk/default/dingtalk/I0HfYX4QStBIpLgxnZQe) |
+| Ponder AI | web | AI知识管理和思维导图工具 | [官网](https://ponder.ing/) |
+| 我来wolai | web | AI云端协作平台与个人笔记工具 | [官网](https://www.wolai.com/) |
+| Typeless | web | AI语音输入工具，智能上下文润色 | [官网](https://www.typeless.com/) |
+| ChatTOC | web | 将 AI 对话内容转成导航目录的浏览器插件 | [官网](https://chattoc.aichris.cc/) |
+| Loom | web | AI 屏幕录制与视频分享工具 | [官网](https://www.loom.com/) |
+| Kuse | web | “ChatGPT + 白板 + Notion”的结合体 | [官网](https://app.kuse.ai/) |
+| 你好星识 | web | 新一代AI智能文本工作空间 | [官网](https://histella.cn/) |
+| Briefly | web | 长视频精华提炼，自动追踪频道中文推送 | [官网](https://briefly.video/) |
+| EasyClaw | web | 开源的 OpenClaw 一键安装工具 | [官网](https://www.easyclaw.app/) |
+| 猫头鹰AI网页订阅 | web | 一句话搞定任意网页的内容监控 | [官网](https://mtywatch.com?c=lksadjknxzc812ad) |
+| 秒言AI语音输入法 | web | AI语音输入工具，极速响应、精准识别 | [官网](https://miaoyan.cn/) |
+| 找我呀 | web | 本地AI知识助手，可完全离线运行的文件语义搜索和智能问答工具 | [官网](http://www.findme.net.cn) |
+| MagicArena | web | 字节推出的视觉生成模型对战平台 | [官网](https://aigcarena.com/) |
+| MMLU | web | 大规模多任务语言理解基准 | [官网](https://paperswithcode.com/sota/multi-task-language-understanding-on-mmlu) |
+| Open LLM Leaderboard | web | Hugging Face推出的开源大模型排行榜单 | [官网](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) |
+| C-Eval | web | 一个全面的中文基础模型评估套件 | [官网](https://cevalbenchmark.com/index_zh.html#home_zh) |
+| FlagEval | web | 智源研究院推出的FlagEval（天秤）大模型评测平台 | [官网](https://flageval.baai.ac.cn/#/trending) |
+| SuperCLUE | web | 中文通用大模型综合性测评基准 | [官网](https://www.cluebenchmarks.com/static/superclue.html) |
+| AGI-Eval | web | AI大模型评测社区 | [官网](https://agi-eval.cn/mvp/home?sourcePage=ai-bot.cn) |
+| OpenCompass | web | 上海人工智能实验室推出的大模型开放评测体系 | [官网](https://opencompass.org.cn/leaderboard-llm) |
+| CMMLU | web | 一个综合性的大模型中文评估基准 | [官网](https://github.com/haonan-li/CMMLU) |
+| MMBench | web | 全方位的多模态大模型能力评测体系 | [官网](https://mmbench.opencompass.org.cn/) |
+| HELM | web | 斯坦福大学推出的大模型评测体系 | [官网](https://crfm.stanford.edu/helm/latest/) |
+| LMArena | web | AI模型评估平台 | [官网](https://lmarena.ai/) |
+| LLMEval3 | web | 由复旦大学NLP实验室推出的大模型评测基准 | [官网](http://llmeval.com/index) |
+| H2O EvalGPT | web | H2O.ai推出的基于Elo评级方法的大模型评估系统 | [官网](https://evalgpt.ai) |
+| PubMedQA | web | 生物医学研究问答数据集和模型得分排行榜 | [官网](https://pubmedqa.github.io/) |
+| CakeGrowth | web | 首个专注 AI 应用的一站式联盟营销平台 | [官网](https://cakegrowth.cn) |
+| 模兜 | web | AI数据众包与专家服务平台 | [官网](https://modoudance.com/) |
+| Linktree | web | 链接聚合工具，支持多链接整合至单一页面 | [官网](https://linktr.ee/) |
+| Bitly | web | 链接管理平台与 URL 短链接服务 | [官网](https://bitly.com/) |
+| PartnerStack | web | 领先的合作伙伴生态系统平台 | [官网](https://partnerstack.com/) |
+| impact.com | web | AI 原生合作伙伴关系管理平台 | [官网](https://impact.com/) |
+| 微信公众平台 | web | 腾讯推出的官方内容创作与服务平台 | [官网](https://mp.weixin.qq.com/) |
+| 头条号 | web | 字节跳动推出的内容创作平台 | [官网](https://mp.toutiao.com/) |
+| 新榜 | web | 新媒体数据服务平台 | [官网](https://www.newrank.cn/) |
+| 稀土掘金 | web | 领先的技术内容社区与开发者服务平台 | [官网](https://juejin.cn/) |
+| 知乎 | web | 内容创作者的一站式创作服务与变现平台 | [官网](https://www.zhihu.com/creator) |
+| CSDN | web | 专业的开发者社区 | [官网](https://www.csdn.net/) |
+| 百家号 | web | 百度推出的内容创作平台，集创作、发布、变现于一体 | [官网](https://baijiahao.baidu.com/) |
+| 小红书创作服务平台 | web | 一站式创作者服务工作平台 | [官网](https://creator.xiaohongshu.com/) |
+| 小报童 | web | flomo 团队推出的付费内容服务平台 | [官网](https://xiaobot.net/home.html) |
+| 知识星球 | web | 内容创作者的知识社群运营工具 | [官网](https://www.zsxq.com/) |
+| 小鹅通 | web | 专注私域运营的一站式SaaS平台 | [官网](https://sem.xiaoe-tech.com/) |
+| 凹凸工坊 | web | 凹凸工坊是专业的在线 AI 手写稿件生成工具，支持将Word文档一键转换为真实的手写稿图片。 | [官网](https://www.autohanding.com/) |
 
 ---
 ### 14. 商品图生成
@@ -605,6 +775,22 @@
 | 图生生 | web | 专为电商设计的AI商拍工具 | [官网](https://tushengsheng.com/home) |
 | WeShop唯象 | web | 蘑菇街推出的AI商拍工具 | [官网](https://www.weshop.com) |
 | PixGT | web | 跨境电商AI商拍工具，服装试穿、模特替换、配饰试戴 | [官网](https://www.pixgt.cn) |
+| 堆友AI商品图 | web | 堆友AI推出AI商品图生成工具 | [官网](https://d.design/toolbox/ai-product-background) |
+| 稿定AI商品图 | web | 稿定设计推出的AI商品图生成工具 | [官网](https://www.gaoding.com/utms/d0bf3af869c245eabb7f52bbcc85aa88) |
+| 光子AI | web | 专为电商商家推出的AI商拍工具 | [官网](https://www.photonaiclub.com/sh/ZgN25IHnBJY) |
+| 青虎AI | web | 电商AI视觉内容与智能运营一站式平台 | [官网](https://www.iqinghu.com/) |
+| PixPix | web | 聚合全球顶级 AI 模型的跨境电商图视频创作平台 | [官网](https://www.pixpix.com/) |
+| 泡泡AI | web | 专为服装与电商行业打造的AI图片创作与编辑平台 | [官网](https://paopaoai.art/) |
+| 莓图AI | web | 电商详情图生成与爆款视觉风格复刻 | [官网](https://ai.iiit.cn/) |
+| SkildArt | web | 一站式 AI 视觉创作平台，为商业营销而生 | [官网](https://www.skildart.cn/workbench) |
+| 几何AI | web | 面向全品类电商的AI视觉生成平台 | [官网](https://jihegeo.com/) |
+| GemHues | web | AI 商品视觉内容生成平台，覆盖图 + 视频全链路 | [官网](https://www.gemhues.com/) |
+| 蕉点AI | web | 多品类AI电商商品图生成平台 | [官网](https://www.jiaodianai.com/) |
+| 潮际好麦 | web | AI赋能电商视觉革命，一站式智能商拍平台 | [官网](https://marketing.k-fashionshop.com/) |
+| 妙思 | web | 腾讯广告推出的一站式AI广告创意平台 | [官网](https://admuse.qq.com/) |
+| Poify | web | Poify是快手推出的AI电商营销工具，帮助商家和创意工作者快速生成高质量的图片内容。 | [官网](https://poify.ai/) |
+| 绘蛙AI | web | 绘蛙AI是国内领先的垂直深耕服饰领域的AIGC电商营销工具，专注于利用先进AIGC技术为电商卖家提供低成本、高质量的商拍图和种草文案。 | [官网](https://ihuiwa.paluai.com/aibot) |
+| Pippit | web | Pippit是字节旗下 CapCut 推出的AI营销内容创作平台，专为电商、社交媒体运营和品牌推广设计。 | [官网](https://pippit.capcut.com/) |
 
 ---
 ### 15. 设计工具
@@ -682,6 +868,27 @@
 | Khroma | web | AI调色盘生成工具 | [官网](https://www.khroma.co/) |
 | 即时AI | web | 即时设计推出的由文本描述生成可编辑的原型设计稿 | [官网](https://jsai.cc/ai/create) |
 | Alpaca | web | 将生成式AI集成到Photoshop图像设计中 | [官网](https://www.getalpaca.io) |
+| Holopix AI | web | 专为游戏、动漫、插画设计打造的AI设计平台 | [官网](https://holopix.cn/) |
+| OJO | web | 全球首个 AI 设计 Agent 团队工作台 | [官网](https://ojo.art/) |
+| Seede AI | web | 面向普通人的 AI 原生设计工具 | [官网](https://seede.ai/) |
+| Stitch | web | Google Labs 推出的 AI 原生设计工具 | [官网](https://stitch.withgoogle.com/) |
+| Miora | web | 腾讯推出的 AI 原生设计协作工具 | [官网](https://miora.design/) |
+| Ardot | web | 腾讯推出的 AI 智能设计工具 | [官网](https://d.qq.com/) |
+| Open Design | web | 开源本地优先的 AI 设计工作空间 | [官网](https://open-design.ai/) |
+| Ribbi | web | 专为设计师打造的自进化创意 AI Agent | [官网](https://ribbi.ai/) |
+| Tavafa塔维法 | web | PS+AI图片处理平台 | [官网](http://www.tavafa.com/) |
+| Interiorize | web | 专注于空间改造的 AI 室内设计工具 | [官网](https://interiorize.ai/) |
+| QuiverAI | web | AI矢量图形生成工具，输出可编辑的 SVG 代码 | [官网](https://quiver.ai) |
+| GemDesign | web | AI原生高保真原型设计工具 | [官网](https://design.gemcoder.com/?ci=bot) |
+| 七色米AI | web | AI 智能营销内容创作平台 | [官网](https://ai.qisemiyun.com/) |
+| PagePop | web | 一站式全能AI内容创作和设计平台 | [官网](https://www.pagepop.cn/) |
+| 小墨鹰编辑器 | web | 行业首创的AI公众号排版工具，30s搞定推文排版！ | [官网](https://www.xmyeditor.com/) |
+| Calicat | web | ProcessOn团队推出的一站式产设研协作平台 | [官网](https://www.calicat.cn/) |
+| UXbot | web | AI产品设计工具，一键生成UI与交互式原型 | [官网](https://www.uxbot.cn/) |
+| 燕雀光年 | web | AI LOGO设计工具 | [官网](https://www.yanqueai.com) |
+| 标小智LOGO生成器 | web | AI Logo设计平台，一键生成企业Logo | [官网](https://www.logosc.cn/) |
+| AI设计神器 | web | 一站式创意图片设计编辑平台 | [官网](https://www.logosc.cn/design/) |
+| Lovart | web | Lovart 是 LiblibAI 推出的全球首个设计 Agent，实现从概念到图像、视频、3D等的自动设计。 | [官网](https://www.lovart.art/) |
 
 ---
 ### 16. 编程工具
@@ -762,6 +969,137 @@
 | AI Code Reviewer | web | AI代码检查 | [官网](https://ai-code-reviewer.com/) |
 | Visual Studio IntelliCode | web | Visual Studio AI辅助开发 | [官网](https://visualstudio.microsoft.com/zh-hans/services/intellicode/) |
 | HeyCLI | web | 自然语言转义为CLI命令 | [官网](https://www.heycli.com/) |
+| 讯飞星辰MaaS | web | 一站式AI大模型体验、调用、部署、精调平台 | [官网](https://maas.xfyun.cn/modelSquare?ch=maas-lm-G9n9) |
+| BigModel | web | 智谱推出的企业级大模型开放平台（MaaS） | [官网](https://www.bigmodel.cn/activity/trial-card/TVNJ6FXR17) |
+| 阿里云百炼 | web | 一站式大模型开发与应用构建平台 | [官网](https://bailian.console.aliyun.com/cn-beijing#/home) |
+| 扣子-AI办公 | web | 工作交给扣子，创造不必等待 | [官网](https://www.coze.cn/overview) |
+| 方舟 Coding Plan | web | 火山引擎推出的大模型 API 套餐订阅服务 | [官网](https://www.volcengine.com/activity/codingplan) |
+| ZenMux | web | 全球首个带保险赔付机制的企业级大模型聚合平台 | [官网](https://zenmux.ai/invite/5MQIGW) |
+| Google AI Studio | web | 免费体验和测试 Google 最新的 AI 模型 | [官网](https://aistudio.google.com/) |
+| FastGPT | web | 免费AI工作流搭建工具 自动化提高效率 | [官网](https://cloud.fastgpt.cn/dashboard/templateMarket) |
+| n8n | web | 开源的低代码AI工作流自动化工具 | [官网](https://n8n.io/) |
+| 袋马 | web | 高德推出的 AI 应用生成平台 | [官网](https://www.daimax.cn/) |
+| 千问云 | web | 阿里云推出的全新MaaS模型服务平台 | [官网](https://www.qianwenai.com/) |
+| StreamLake | web | 快手推出的音视频及 AI 开放平台 | [官网](https://streamlake.com/) |
+| 造化工坊 | web | 腾讯光子工作室推出的AI互动游戏创作平台 | [官网](https://zaohua.qq.com/) |
+| Playabl | web | AI 原生游戏创作平台，用户生成游戏的 TikTok | [官网](https://playabl.ai/) |
+| AstraFlow星图 | web | 开发者专属一站式AI开发平台 | [官网](https://astraflow.ucloud.cn/modelverse/playground) |
+| OpenRouter | web | AI 模型 API 聚合平台，一个接口调用500多个模型 | [官网](https://openrouter.ai/) |
+| SiliconFlow | web | 生成式AI计算基础设施平台 | [官网](https://cloud.siliconflow.cn/i/SjhsJgfH) |
+| OfoxAI | web | 统一大模型 API 聚合网关 | [官网](https://ofox.io/) |
+| QMuse | web | 蚂蚁集团推出的AI无代码应用生成平台 | [官网](https://www.qmusespace.com/home) |
+| 麦芽AI | web | 多范式兼容，全流程 AI 项目开发 | [官网](https://www.myaifast.com/company/login?type=register) |
+| Trickle AI | web | 一站式无代码 AI 开发平台 | [官网](https://trickle.so/) |
+| WorldClaw | web | World Liberty Financial 团队推出的 AI 模型聚合平台 | [官网](https://worldclaw.ai/) |
+| TokenDance | web | 观猹团队推出的一站式大模型 API 调用平台 | [官网](https://tokendance.space/) |
+| MoMA | web | 中国移动推出的国内首个开放普惠大模型聚合平台 | [官网](https://ecloud.10086.cn/portal/product/MaaS) |
+| 博查万象 | web | 博查多模态混合搜索和语义排序API开放平台 | [官网](https://open.bochaai.com/) |
+| B.AI | web | 基于区块链构建的大模型API聚合平台 | [官网](https://b.ai/) |
+| 灵光 | web | 蚂蚁推出的AI对话与应用生成平台 | [官网](https://www.lingguang.com/chat) |
+| 万小智 | web | 阿里云推出的企业级 AI 建站平台 | [官网](https://wanxiaozhi.aliyun.com/) |
+| 英博云AI算力 | web | 英博数科推出的GPU智算服务云平台 | [官网](https://www.ebcloud.com/) |
+| 汇智Token工场 | web | 大模型API聚合与极速推理云平台 | [官网](https://www.agentsyun.com/marketing) |
+| Aippy | web | 赤子城科技推出的 AI 游戏社区，被誉为”游戏版TikTok” | [官网](https://aippy.ai/) |
+| 快马InsCode | web | 通过对话、设计图或文章链接生成工程项目代码 | [官网](https://www.inscode.net/) |
+| Whacka | web | 移动端 AI 无代码应用开发工具 | [官网](https://whacka.app/) |
+| gapp.so | web | AI 应用构建发布与托管平台，一键上线完整解决方案 | [官网](https://gapp.so/) |
+| 数眼智能AI | web | 企业级AI数据与模型服务平台 | [官网](https://shuyanai.com/) |
+| SophNet | web | DeepSeek API 推理速度最快的平台，没有之一 | [官网](https://www.sophnet.com/) |
+| 方舟 Agent Plan | web | 火山引擎推出的业界首个 Agent 套餐 | [官网](https://www.volcengine.com/activity/agentplan) |
+| 晨涧云 | web | AI算力平台，GPU算力租赁、开箱即用 | [官网](https://www.mornai.cn/) |
+| LLaMA-Factory Online | web | 在线AI大模型微调平台，零代码、可视化操作 | [官网](https://www.llamafactory.online/register) |
+| 大模型实验室 | web | 在线大模型训练微调及AI科研学习平台 | [官网](https://www.lab4ai.cn/register) |
+| APIMart | web | 一站式 AI API 平台，多主流模型统一访问 | [官网](https://apimart.ai/) |
+| DMXAPI | web | 一个Key用全球大模型 | [官网](https://dmxapi.cn/) |
+| 小马算力 | web | AI模型API聚合平台，自由调用不同模型 | [官网](https://www.tokenpony.cn/5EN1y) |
+| Refly | web | 全球首个开源 Vibe Workflow 平台 | [官网](https://refly.ai/) |
+| 搭叩 | web | 心流AI旗下异步AI智能体开发平台 | [官网](https://dakou.iflow.cn/) |
+| CREAO | web | 零代码AI应用开发平台，内置AI智能体 | [官网](https://creao.ai/) |
+| 天壤小白 | web | 一站式AI应用开发平台 | [官网](https://www.tianrang.com/) |
+| PPIO派欧云 | web | AI云端一体化解决方案服务平台 | [官网](https://ppio.cn/) |
+| 蚂蚁百宝箱Tbox | web | 让AI应用的创作像呼吸一样简单 | [官网](https://tbox.alipay.com/) |
+| WaveSpeedAI | web | AI图像和AI视频生成加速服务平台 | [官网](https://wavespeed.ai/) |
+| 模力方舟 | web | AI应用共创平台，提供开发到部署一站式服务 | [官网](https://ai.gitee.com/) |
+| LongCat开放平台 | web | 美团推出的大模型API服务平台 | [官网](https://longcat.chat/platform/) |
+| X-All in one | web | 高性能、高性价比的 AI API 平台 | [官网](https://www.x-aio.com/) |
+| 无问芯穹 | web | AI大模型服务平台，提供从算力、模型到应用一站式服务 | [官网](https://cloud.infini-ai.com/platform/ai) |
+| 胜算云 | web | AI模型算力聚合平台，聚合全球100+大模型 | [官网](https://www.shengsuanyun.com/) |
+| 智谱清流 | web | 智谱推出的企业级AI智能体开发平台 | [官网](https://bigmodel.cn/agent) |
+| 文心智能体平台 | web | 百度推出的智能体构建平台 | [官网](https://agents.baidu.com/) |
+| SkyAgents | web | 昆仑万维推出的 AI Agent 开发平台 | [官网](https://model-platform-skyagents.tiangong.cn/home/agent) |
+| 言犀智能体平台 | web | 京东推出的一站式AI智能体开发平台 | [官网](https://yanxi.jd.com/) |
+| 魔乐社区 | web | 中国电信天翼云推出的人工智能社区 | [官网](https://modelers.cn/) |
+| BetterYeah AI | web | 企业AI应用和助手构建平台 | [官网](https://www.betteryeah.com/) |
+| 飞桨PaddlePaddle | web | 开源深度学习平台 | [官网](https://www.paddlepaddle.org.cn) |
+| 昇思MindSpore | web | 华为开源的自研AI深度学习框架 | [官网](https://www.mindspore.cn/) |
+| PyTorch | web | 开源的机器学习库 | [官网](https://pytorch.org/) |
+| Gumloop | web | AI零代码工作流平台，支持用户自定义工作流程 | [官网](https://www.gumloop.com/) |
+| TensorFlow | web | Google推出的机器学习和人工智能开源库 | [官网](https://www.tensorflow.org/) |
+| Apache MXNet | web | 免费开源的深度学习框架 | [官网](https://mxnet.apache.org) |
+| Scikit-learn | web | Python机器学习库 | [官网](https://scikit-learn.org/) |
+| MLX | web | 苹果推出的开源机器学习框架，专为Apple Silicon芯片设计 | [官网](https://ml-explore.github.io/mlx/build/html/index.html) |
+| Label Studio | web | 免费开源的数据标注工具 | [官网](https://labelstud.io) |
+| Chunkr | web | Lumina AI 推出的开源文档处理API | [官网](https://lumina.sh/) |
+| Vercel AI SDK | web | Vercel开源的搭建AI聊天机器人的开发套件，支持React/Svelte/Vue等框架 | [官网](https://sdk.vercel.ai/docs) |
+| Keras | web | Python版本的TensorFlow深度学习API | [官网](https://keras.io/) |
+| Caffe | web | UC伯克利研究推出的深度学习框架 | [官网](https://caffe.berkeleyvision.org) |
+| NumPy | web | Python科学计算必备的包 | [官网](https://numpy.org/) |
+| DL4J | web | 开源的使用JVM部署和训练深度学习模型的套件 | [官网](https://deeplearning4j.konduit.ai/) |
+| JAX | web | Google推出的用于变换数值函数的机器学习框架 | [官网](https://jax.readthedocs.io/en/latest) |
+| NLTK | web | Python自然语言处理工具包 | [官网](https://www.nltk.org/) |
+| LangChain | web | 开发由语言模型驱动的应用程序的框架 | [官网](https://docs.langchain.com/docs/) |
+| Lightning AI | web | 快速训练、部署和开发人工智能产品的深度学习框架，由Pytorch Lightning团队推出 | [官网](https://lightning.ai/) |
+| Leap | web | 将AI快速集成到你自己的应用中 | [官网](https://www.tryleap.ai/) |
+| ChatDev | web | 面壁智能推出的AI智能体软件开发平台，使用自然语言即可创建软件 | [官网](https://chatdev.modelbest.cn/) |
+| Anakin.ai | web | 一站式无代码AI应用构建平台 | [官网](https://anakin.ai/zh-cn) |
+| Codex | web | OpenAI 推出的 AI 编程智能体 | [官网](https://openai.com/codex/) |
+| Claude Code | web | Anthropic 推出的AI编程工具 | [官网](https://www.anthropic.com/claude-code) |
+| Agent.Space | web | 面向 AI 编程 Agent 的云端工作空间 | [官网](https://agent.space/) |
+| Qoder | web | 阿里巴巴推出的 AI Agentic 编程工具 | [官网](https://qoder.com/) |
+| OpenCode | web | 开源 AI 编程工具 ， Claude Code 最佳平替 | [官网](https://opencode.ai/) |
+| Kimi Code | web | Kimi 专为开发者推出的AI编程工具 | [官网](https://www.kimi.com/code) |
+| Kilo Code | web | 开源的 AI 编程扩展插件 | [官网](https://kilo.ai/) |
+| Google Antigravity | web | 谷歌推出的 AI IDE 编程智能体 | [官网](https://antigravity.google/) |
+| Kiro | web | 亚马逊公司推出的 AI IDE | [官网](https://kiro.dev/) |
+| Cline | web | 开源免费的 AI 编程智能体 | [官网](https://cline.bot/) |
+| MiMo Code | web | 小米大模型团队开源的新一代 AI 编程助手 | [官网](https://mimo.xiaomi.com/mimocode) |
+| YouWare | web | 一站式 AI 编程社区与开发平台 | [官网](https://www.youware.com/) |
+| ZCode | web | 智谱推出的轻量级AI IDE编程工具 | [官网](https://zcode-ai.com/) |
+| CodeBuddy IDE | web | 腾讯推出的全栈开发AI IDE | [官网](https://www.codebuddy.ai/) |
+| CatPaw | web | 美团推出的 AI IDE 编程工具 | [官网](https://catpaw.meituan.com/) |
+| AgnesCode | web | Agnes AI 推出的桌面端 AI 编程工作台 | [官网](https://agnes-ai.com/agnescode) |
+| MonkeyCode | web | 长亭科技开源的 AI 编程助手与企业级开发平台 | [官网](https://monkeycode-ai.com/) |
+| InfCode | web | 词元无限推出的企业级AI编程工具 | [官网](https://www.tokfinity.com/infcode) |
+| CodeFlicker | web | 快手推出的AI原生IDE编程工具 | [官网](https://www.codeflicker.ai) |
+| Warp Code | web | Warp推出的AI编程工具 | [官网](https://www.warp.dev/code) |
+| Zread | web | 专为开发者设计的AI源码解读产品 | [官网](https://zread.ai/) |
+| iFlow CLI | web | 心流AI推出的免费终端 AI 智能体 | [官网](https://cli.iflow.cn/) |
+| Amp | web | Sourcegraph推出的免费AI编程工具 | [官网](https://sourcegraph.com/amp) |
+| JoyCode | web | 京东云推出的新一代智能编程 AI IDE | [官网](https://joycode.jd.com/) |
+| v0.app | web | Vercel推出的AI全栈应用构建工具 | [官网](https://v0.app/) |
+| DeepSkill | web | Agent 技能发现与安装平台 | [官网](https://www.meyo.life/skill) |
+| CC Switch | web | 开源的跨平台 AI 编程配置管理工具 | [官网](https://ccswitch.io/) |
+| vue-skills | web | Vue 核心团队推出的 AI Agent 技能库 | [官网](https://github.com/vuejs-ai/skills) |
+| Red Skill | web | 小红书推出的 AI Skill 分发平台 | [官网](https://creator.xiaohongshu.com/login) |
+| AgentMore | web | 智谱清言推出的 AI 智能体协作平台 | [官网](https://agentmore.chatglm.cn/partners/add) |
+| 微信读书Skill | web | 微信读书官方推出的 AI 助手扩展能力 | [官网](https://weread.qq.com/r/weread-skills) |
+| ljg-skills | web | "Prompt之神"李继刚开源的 AI 技能集 | [官网](https://github.com/lijigang/ljg-skills) |
+| Claude-Mem | web | 为Claude Code等AI编程助手提供持久化记忆能力的开源插件 | [官网](https://github.com/thedotmack/claude-mem) |
+| Web Access | web | 开发者一泽 Eze开源的 Agent Skill，思考如何上网 | [官网](https://web-access.eze.is/) |
+| Superpowers | web | Jesse Vincent开源的 Agentic 技能框架与软件开发方法插件 | [官网](https://github.com/obra/superpowers) |
+| agent-browser | web | Vercel Labs 开源的浏览器自动化工具 | [官网](https://agent-browser.dev/) |
+| 腾讯校园招聘 Skill | web | 腾讯招聘官方推出的校招 AI 助手 | [官网](https://www.codebuddy.cn/work) |
+| Skills For Real Engineers | web | Matt Pocock推出的 AI Agent 技能库 | [官网](https://github.com/mattpocock/skills) |
+| Taste Skill | web | 开源的 Agent 技能文件库，支持升级 AI 构建的界面质量 | [官网](https://www.tasteskill.dev/) |
+| Impeccable | web | 开源 AI 前端设计技能包 SKill，解决千篇一律的AI审美 | [官网](https://impeccable.style/) |
+| UI/UX Pro Max | web | 开源 AI 设计 Skill，专为 AI 编码助手设计 | [官网](https://uupm.cc/) |
+| 卡兹克.skill | web | 数字生命卡兹克开源的 AI Skills 合集 | [官网](https://github.com/KKKKhazix/khazix-skills) |
+| frontend-design | web | Anthropic推出的前端设计Skill | [官网](https://github.com/anthropics/skills/tree/main/skills/frontend-design) |
+| book-to-skill | web | 开源的结构化 AI 资料转换技能库 | [官网](https://github.com/virgiliojr94/book-to-skill) |
+| 女娲.skill | web | 独立开发者花叔开源的 SKill 项目 | [官网](https://nv-wa-skill.lol/zh) |
+| Azure skills | web | 微软官方推出的自动化工具集合 | [官网](https://github.com/microsoft/azure-skills) |
+| SenseNova-Skills | web | 商汤科技开源的模块化 AI 办公技能库 | [官网](https://github.com/OpenSenseNova/SenseNova-Skills) |
+| Clacky AI | web | Clacky AI是面向开发者的云端开发环境（CDE），致力于打造L3级别的Agentic AI编程助手。 | [官网](https://clacky.ai/) |
 
 ---
 | CoderPlan | web | 统一 LLM API 网关，OpenAI 兼容协议，支持 Claude/GPT/Gemini/DeepSeek，按量付费约官方 0.7 折 | [官网](https://coderplan.ai) |
@@ -792,6 +1130,13 @@
 | Learning Prompt | web |  | [官网](https://learningprompt.wiki/) |
 | ChatGPT Shortcut | web | ChatGPT Shortcut是国内开发... | [官网](https://www.aishort.top/) |
 | 词魂 | web | 词魂是一个AIGC精品提示词库... | [官网](https://icihun.com) |
+| PromptPilot | web | 火山方舟推出的AI提示词解决方案平台 | [官网](https://promptpilot.volcengine.com/) |
+| 幂简AI提示词商城 | web | AI提示词交易与管理平台，支持定制 | [官网](https://prompts.explinks.com/) |
+| Google AI提示词库 | web | 谷歌推出的AI提示词库 | [官网](https://cloud.google.com/vertex-ai/generative-ai/docs/prompt-gallery) |
+| MeiGen | web | 免费 AI Prompt 社区与一键生成平台 | [官网](https://www.meigen.ai/) |
+| LocalBanana | web | 专注于AI图像Prompt收集与结构化的平台 | [官网](https://www.localbanana.io/) |
+| AI Prompt Genius | web | AI提示词库创建和管理工具 | [官网](https://www.aipromptgenius.app/) |
+| AI Prompt Library | web | 免费的AI 提示词资源平台 | [官网](https://moxby.com/ai-prompt-library) |
 
 ---
 ### 18. 法律助手
@@ -805,6 +1150,11 @@
 | 法智 | web | 同花顺推出的AI法律助手 | [官网](https://www.fazhi.law) |
 | 海瑞智法 | web | 一站式AI法律咨询助手 | [官网](https://www.hairuilegal.com) |
 | 合同嗖嗖 | web | 专业的AI法律合同生成工具 | [官网](https://contract.yoo-ai.com) |
+| Lawbot脱敏猫 | web | 本地离线的 AI 法律文档脱敏工具 | [官网](https://www.lawbotai.cn/) |
+| 吾律AI律师 | web | 首款能交付真实法律任务的AI律师智能体 | [官网](https://wulv.milvzn.com/) |
+| iTerms | web | 法大大推出的的AI法律工具 | [官网](https://ai.iterms.com/) |
+| Lexcat | web | 免费的法律检索、文书、脱敏 AI 助手 | [官网](https://www.lexcat.cn/) |
+| MetaLaw | web | AI法律类案检索与分析助手 | [官网](https://meta.law/) |
 
 ---
 ### 19. 视频工具
@@ -936,6 +1286,80 @@
 | Pictory | web | AI视频制作工具 | [官网](https://pictory.ai/) |
 | SteveAI | web | Animaker旗下AI在线视频制作工具 | [官网](https://www.steve.ai/) |
 | Rask | web | AI视频本地化解决方案，支持超过130种语言 | [官网](https://www.rask.ai/) |
+| 堆友AI视频 | web | 堆友推出的AI视频生成工具 | [官网](https://d.design/agent) |
+| 蛙蛙漫剧 | web | AI小说-剧本-漫剧视频全链路生产 | [官网](https://wawawriter.com/app/video-create/) |
+| AniShort | web | AI短剧协同创作平台，重构短剧生产流程 | [官网](https://app.anishort.cn/) |
+| VibeKnow | web | 全球首个 AI 知识视频创作平台 | [官网](https://vibeknow.com/) |
+| 立刻MV | web | 一站式 AI 音乐视频（MV）创作工具 | [官网](https://www.lickmv.com/) |
+| ArtarchStudio | web | 一站式 AI 内容创作画布平台 | [官网](https://artarchstudio.cgaff.link/s/3mnz8v5no1) |
+| 魔珐星云 | web | 具身智能3D数字人开放平台 | [官网](https://www.xingyun3d.com/) |
+| Pollo AI | web | 一站式AI图像和视频创作平台 | [官网](https://fas.st/t/nFLHVC4T) |
+| OnSolo | web | 腾讯推出的AI原生短剧创作平台 | [官网](https://onsolo.ai/) |
+| 海艺剧场 | web | 一站式 AI 短剧与视频创作平台 | [官网](https://www.seavideo.tv/) |
+| 立刻成片 | web | AI 短视频生成工具，先声音后画面 | [官网](https://lickv.com/) |
+| MetaDig | web | 一站式 AI 视频专业创作平台 | [官网](https://waytometa.cn/) |
+| Higgsfield | web | AI视频生成工具，支持专业运镜效果 | [官网](https://higgsfield.ai/) |
+| TapNow | web | AI视觉内容创作平台，提供多种预设工作流 | [官网](https://www.tapnow.ai/) |
+| 造剧 | web | 一站式 AI 短剧、AI 漫剧与 AI 视频制作平台 | [官网](https://zaoju.art/) |
+| Pavo | web | Agnes AI 推出的AI短剧视频创作平台 | [官网](https://app.pavo-ai.work/) |
+| RHTV | web | RunningHub 推出的原生 AI 无限画布创作工具 | [官网](https://rhtv.runninghub.cn/) |
+| Renoise | web | AI 视频创作平台，一站式视频制作工作流 | [官网](https://renoise.ai/) |
+| JoyAI | web | 京东自主研发的一站式AIGC创作平台 | [官网](https://joyai.com/?c=sdwvmytium) |
+| 漫小芽 | web | 一站式 AI 漫剧创作平台 | [官网](https://www.manxiaoya.com/) |
+| Preview | web | AI 视频制作平台，内置无限画布与Agent助手 | [官网](https://preview.io/) |
+| 知漫剧 | web | 专注漫剧创作的一站式AI智能制作平台 | [官网](https://aw.jiaxunai.cn/) |
+| Lumen Flow | web | 端到端 AI 漫剧自动生产线，AI 剧本一键成片 | [官网](https://lumenflow.net/register) |
+| TapVid | web | AI 讲解视频生成工具，自动完成内容逻辑到视觉叙事 | [官网](https://tapvid.ai/) |
+| Lumina | web | 字节跳动旗下 BytePlus 推出的一站式 AI 创意平台 | [官网](https://ai.byteplus.com/lumina/) |
+| 纳逗Pro | web | 爱奇艺推出的专业级影视制作AI智能体平台 | [官网](https://nadoupro.iqiyi.com/) |
+| TDream | web | 腾讯推出的AI互动内容创作平台 | [官网](https://tdream.qq.com/) |
+| PopVid | web | 互动式AI视频平台，用户实时控制AI角色剧情 | [官网](https://popvid.ai/) |
+| ReelFork | web | AI 原生互动视频与短剧创作平台 | [官网](https://www.reelfork.com/) |
+| MVLAND | web | 美图旗下面向创作者的 AI 音乐视频创作平台 | [官网](https://mvland.cn/) |
+| 天工短剧工作台 | web | 昆仑万维推出的一站式AI短剧创作平台 | [官网](https://www.skyproduction.cn/) |
+| Digen AI | web | 一站式 AI 视频创作平台 | [官网](https://digen.ai/) |
+| Flova | web | 全球首个一体化 AI 视频创作平台 | [官网](https://www.flova.ai/) |
+| HighReach | web | AI 广告创意生成平台，全链路创意覆盖 | [官网](https://highreach.ai/) |
+| 灵芽社区 | web | 腾讯推出的 AI 多模态创作者社区 | [官网](https://lingya.qq.com/) |
+| YOCO智能制课 | web | AI PPT讲解视频生成创作工具 | [官网](https://www.yoco.me/) |
+| OhYesAI | web | AI 音乐 MV 一体化创作智能体平台 | [官网](https://ohyesai.com/) |
+| Oiiyao | web | AI视频本地化平台 | [官网](https://www.oiiyao.com/) |
+| 交织 Weave | web | AI全能创作平台，一站式实现你的创意 | [官网](https://weave.32zi.com/) |
+| 雾象 | web | 免费开源的AI动画生成工具 | [官网](https://fogsight.ai/) |
+| Haimeta | web | AI 内容创意平台，全链路 AI 生产体验 | [官网](https://haimeta.com/) |
+| 剧火AI | web | AI短剧创作者的一站式创作Agent | [官网](https://juhuo.cn/) |
+| VibePaper | web | 短剧制作团队的AI协作工作台，节点式无限画布 | [官网](https://vibepaper-ai.com/) |
+| Yoroll | web | LinearGame 推出的 AI 原生互动视频游戏平台 | [官网](https://app.yoroll.ai/) |
+| Makefun | web | 无限制一站式 AI 视频生成平台 | [官网](https://makefun.ai/) |
+| Zorq AI | web | 多模型聚合 AI 创意生成平台 | [官网](https://zorqai.com/) |
+| Pexo | web | AI 视频创作Agent，个人 AI 视频伙伴 | [官网](https://pexo.ai/) |
+| Topview | web | 为电商与营销场景推出的 AI 视频生成Agent | [官网](https://www.topview.ai/) |
+| 万镜一刻 | web | 阿里云推出的AI视频创作平台 | [官网](https://www.yikeai.com/) |
+| TagoMovie | web | 一站式 AI 漫剧与短剧创作平台 | [官网](https://tagomovie.bitaihub.com/) |
+| 灵绘AI | web | 专业级 AI 短剧漫剧视频创作平台 | [官网](https://linghuiai.net/go/bXd92z) |
+| Pixmax | web | AI真人短剧、漫剧一站式创作引擎 | [官网](https://www.pixmax.cn/) |
+| Brainrot.mov | web | 专为创作者打造的AI视频创作平台 | [官网](https://brainrot.mov/) |
+| 造次 | web | AI原创IP视频社区 | [官网](https://www.zaoci.tv/) |
+| 花生AI | web | B站推出的AI视频创作工具 | [官网](https://www.huasheng.cn/) |
+| MuseArt AI | web | 一站式 AI 图像和视频创作平台 | [官网](https://www.museartai.com/) |
+| 献丑AI | web | 首个 AI 视频开源社区，支持一键Fork与共创 | [官网](https://xianchou.com/) |
+| MochiAni | web | AI动画视频创作工具 | [官网](https://www.mochiani.com/) |
+| AdsTurbo AI | web | AI视频广告生成平台，自动生成可直接投放的视频 | [官网](https://adsturbo.ai/) |
+| NextCut AI | web | AI视频创作工具，集成无限画布 + workflow + 剪辑轨道 + 多Agent团队 | [官网](https://nextcut-ai.com/) |
+| 云幕同声 | web | 专业AI视频翻译，短剧出海、跨境电商，效果超棒！ | [官网](https://www.yunmuts.com/) |
+| 萌动AI | web | 全球首个二次元/动漫专用 AI 创作工具 | [官网](https://www.animon.com?vd=qFokWH) |
+| KomikoAI | web | 一站式AI动漫内容创作平台 | [官网](https://komiko.app/) |
+| Keevx | web | 开箱即用的AI数字人视频创作工具 | [官网](https://www.keevx.com/) |
+| 内容特工队 | web | 全球首款移动端AI营销视频生成智能体 | [官网](https://www.reelsagent.com/) |
+| 磁力开创 | web | 快手推出的AI创意生产平台 | [官网](https://kc.kuaishou.com/) |
+| A2E | web | 一站式AI视频生成平台 | [官网](https://a2e.ai/) |
+| HitPaw | web | 专注于AI视频、图像和音频处理工具 | [官网](https://www.hitpaw.com/) |
+| SekoTalk | web | 商汤科技推出的AI对口型工具 | [官网](https://sekotalk.com/) |
+| 通义灵眸 | web | 阿里通义推出的AI数字人生产平台 | [官网](https://avatar.console.aliyun.com/lingmou) |
+| Boba | web | AI动漫视频创作工具 | [官网](https://www.boba.video/) |
+| 光子AI视频 | web | 光子AI视频是光子AI推出的在线AI视频生成工具，可将图片快速转化为营销短视频。 | [官网](https://www.photonaiclub.com/workspace/imgToVideo) |
+| 海螺视频 | web | 海螺视频是MiniMax公司推出的AI视频生成工具，能根据文本提示快速生成高质量的视频片段。 | [官网](https://hailuoai.com/video) |
+| 妙播 | web | 妙播是腾讯广告推出的AI直播电商解决方案。 | [官网](https://admuse.qq.com/intelligent/live/page/index.html#/) |
 
 ---
 ### 20. 图片优化修复
@@ -957,6 +1381,11 @@
 | Palette | web | AI图片调色上色 | [官网](https://palette.fm/) |
 | Playground AI | web | AI图片生成和修图 | [官网](https://playgroundai.com/) |
 | ArtImageHub | web | AI老照片修复——去划痕、降噪、黑白上色，在线处理，免费预览，$4.99下载 | [官网](https://artimagehub.com) |
+| 稿定AI变清晰 | web | 稿定设计推出的AI变清晰图像处理工具 | [官网](https://www.gaoding.com/utms/2a5760f7f0d74446b2c8ef68a34d5bfc) |
+| imgAK | web | 一站式在线 AI 图像处理平台 | [官网](https://www.imgak.com/) |
+| 立刻修相片 | web | AI 老照片修复工具 | [官网](https://likexiu.dubmic.com/) |
+| 西米AI | web | AI图案提取工具，一站式服装印花解决方案 | [官网](https://ximixiang.com/home) |
+| AirBrush | web | 专业级AI图像视频编辑工具 | [官网](https://airbrush.com/) |
 
 ---
 ### 21. 图片无损放大
@@ -984,6 +1413,9 @@
 | Upscalepics | web | 在线图片放大工具 | [官网](https://upscalepics.com/) |
 | Image Enlarger | web | AI无损放大图片 | [官网](https://magicstudio.com/zh/enlarger) |
 | Pixelhunter | web | AI智能调整图片尺寸用于社交媒体平台发帖 | [官网](https://pixelhunter.io/) |
+| 绘蛙AI高清 | web | 绘蛙推出的AI图像高清修复工具 | [官网](https://www.ihuiwa.com/workspace/partial-redraw?editType=enhance-image) |
+| 光子AI高清 | web | 光子AI高清是光子AI推出的图像高清放大工具，能显著提升图片的分辨率，使模糊的照片或低清图像变得清晰，细节更加丰富。 | [官网](https://www.photonaiclub.com/workspace/imageProcess) |
+| 堆友AI高清 | web | 堆友AI高清是堆友AI推出的AI图片无损放大工具，支持将用户上传的模糊图片进行高清放大处理。 | [官网](https://d.design/toolbox/hd) |
 
 ---
 ### 22. 背景消除
@@ -1020,6 +1452,8 @@
 | PicWish | web | AI图片编辑和背景移除 | [官网](https://picwish.com/) |
 | PhotoRoom | web | 免费的AI图片背景移除和添加 | [官网](https://www.photoroom.com/zh) |
 | GoProd | web | Icons8推出的智能图片背景移除和无损放大二合一Mac应用 | [官网](https://icons8.com/goprod) |
+| 绘蛙AI抠图 | web | 绘蛙推出的AI智能抠图工具 | [官网](https://www.ihuiwa.com/workspace/partial-redraw?editType=smart-matting) |
+| 光子AI抠图 | web | 光子AI推出的AI图片背景抠除工具 | [官网](https://www.photonaiclub.com/workspace/cutout) |
 
 ---
 ### 23. 图片物体擦除
@@ -1040,6 +1474,10 @@
 | HitPaw Watermark Remover | web | AI图片和视频去水印工具 | [官网](https://www.hitpaw.com/remove-watermark.html) |
 | Magic Eraser | web | AI移除图片中不想要的物体 | [官网](https://magicstudio.com/zh/magiceraser) |
 | WatermarkRemover | web | AI智能删除照片中的水印 | [官网](https://www.watermarkremover.io/zh) |
+| LiblibAI去水印 | web | LiblibAI推出的AI去水印工作流 | [官网](https://www.liblib.art/workflows) |
+| 稿定AI消除 | web | AI图像杂物消除工具 | [官网](https://www.gaoding.com/utms/a98ffea27c9145089671bb8a06037423) |
+| 堆友AI消除 | web | 堆友AI消除是堆友AI推出的在线图片杂物消除工具，能一键消除图片中的水印、图标、牛皮癣和文字等不需要的内容。 | [官网](https://d.design/toolbox/elimination) |
+| 光子AI消除 | web | 光子AI消除是光子AI推出的AI修图局部擦除工具，主要用于智能去除图片中的多余元素。 | [官网](https://www.photonaiclub.com/workspace/partialremoval) |
 
 ---
 ### 24. 3D模型生成
@@ -1051,6 +1489,315 @@
 | VoxCraft | web | AI生成3D模型的工具 | [官网](https://voxcraft.ai) |
 | Meshy | web | AI快速从文本或图像生成3D模型 | [官网](https://www.meshy.ai) |
 | Luphra | web | Prompt-to-matter：文本/草图转可编辑3D并制造实体产品 | [官网](https://www.luphra.com/) |
+| 绘蛙AI转3D | web | 服装平铺图快速转换为3D立体展示图 | [官网](https://www.ihuiwa.com/workspace/ai-image/func/to-3d) |
+| Neural4D | web | AI一站式3D模型生成平台 | [官网](https://www.neural4d.com/) |
+| Marble | web | 李飞飞World Labs推出的3D世界生成平台 | [官网](https://marble.worldlabs.ai/) |
+| Fast3D | web | AI 3D模型生成工具，文字或图片生成3D模型 | [官网](https://fast3d.io/) |
+| Omma | web | Spline 推出的 AI 3D 内容智能创作平台 | [官网](https://omma.build/) |
+| V2Fun | web | Vertex Lab 推出的全链路 AI 3D 内容创作平台 | [官网](https://v2fun.art/) |
+| 造好物 | web | 全球首个一站式AI造物平台 | [官网](https://zaohaowu.com/) |
+| Style3D | web | AI服装设计工具，将草图转为3D服装模型 | [官网](https://www.style3d.ai/) |
+| LuxReal | web | 群核科技推出的AI 3D视频创作平台 | [官网](https://www.luxreal.ai/) |
+
+### 25. 智能体
+| 名称    | 类型 | 描述       | 链接             |
+| ------- | ---- | -------- | ---------------- |
+| 小云雀 | web | 小云雀 Seedance2.5 正式上线 | [官网](https://xyq.jianying.com/) |
+| Seko | web | 首个创编一体的AI视频创作Agent | [官网](https://seko.sensetime.com/) |
+| 爱派AiPy | web | 本地Manus、国内能用、内网能用，开源免费 | [官网](https://promo.aipyaipy.com/) |
+| Atoms | web | 第一支自动构建真实业务的 AI 团队 | [官网](https://atoms.dev/) |
+| WorkBuddy | web | 腾讯云推出的AI原生桌面智能体工作台 | [官网](https://www.codebuddy.cn/work/) |
+| WaClaw | web | 阿里绘蛙团队推出的电商垂直 AI Agent | [官网](https://waclaw.ihuiwa.com/workspace?target=waclaw) |
+| ArkClaw | web | 火山引擎推出的云端托管版OpenClaw服务 | [官网](https://www.volcengine.com/product/arkclaw) |
+| 讯飞星辰Agent | web | 科大讯飞推出的AI智能体开发平台 | [官网](https://agent.xfyun.cn/home?ch=xcagent-aitool1) |
+| 01Agent | web | AI图文创作智能体，支持生成、排版、编辑、发布 | [官网](https://01agent.net/) |
+| TraeWork | web | 字节跳动推出的 AI 原生工作台 | [官网](https://www.trae.cn/sem/) |
+| AutoClaw | web | 智谱推出的国内首个一键安装本地版OpenClaw | [官网](http://autoglm.zhipuai.cn/autoclaw/) |
+| OpenClaw | web | 开源免费的个人 AI 助手 | [官网](https://clawd.bot/) |
+| Tabbit | web | 美团光年之外推出的AI原生浏览器 | [官网](https://web.tabbit-ai.com/invite/F09B336F) |
+| 切问学术 | web | FudanNLP团队推出的AI学术智能体 | [官网](https://qiewenpaper.com/app/search) |
+| 豆包工作 | web | 字节跳动推出的 AI Agent 办公产品 | [官网](https://www.doubao.com/work) |
+| QwenWork | web | 千问办公国际版，一站式AI生产力平台 | [官网](https://qwenwork.ai/) |
+| QwenPaw | web | 阿里 AgentScope 团队开源的个人 AI 智能体工作台 | [官网](https://qwenpaw.agentscope.io/) |
+| Floatboat | web | 专为”一人公司”打造的 AI Agent 原生工作空间 | [官网](https://floatboat.ai/) |
+| 千问办公 | web | 阿里推出的一站式 AI Agent 办公工具 | [官网](https://qwenwork.cn/) |
+| ByteCP | web | 曲尺AI推出的AI办公智能体 | [官网](https://www.quchiai.com/bytecp-desktop) |
+| TipKay | web | AI内容创作运营平台，多 Agent 桌面 AI 客户端 | [官网](https://www.tipkay.com) |
+| 纳米Work | web | 360旗下纳米团队推出的 AI 办公智能体 | [官网](https://work.n.cn/) |
+| KroWork | web | 快手推出的桌面端通用 AI 智能体 | [官网](https://krowork.com/) |
+| 觅游 | web | 美团推出的 AI 原生 Agent 社区 | [官网](https://www.meyo123.com/) |
+| 虾345 | web | 面向AI Agent生态的综合型导航与信息聚合平台 | [官网](https://www.xia345.com/) |
+| LobsterAI | web | 网易推出的全场景办公助手 Agent | [官网](https://lobsterai.youdao.com/#/index) |
+| Nile | web | 面向 Agent 时代的 AI 原生电商分发平台 | [官网](https://nile.shop/) |
+| Kevvee | web | 全球首个 AI 出海内容 GTM 策略 Agent | [官网](https://www.kevvee.com/#top) |
+| Matrix | web | 超长时间自动化运行的主动式多 Agent 协作平台 | [官网](https://matrix.build/) |
+| 腾讯Marvis | web | 腾讯应用宝团队推出的操作系统级 AI 助手 | [官网](https://marvis.qq.com/) |
+| Hermes Agent | web | Nous Research 开源的自主 AI Agent 框架 | [官网](https://hermes-ai.net/) |
+| happycapy | web | Trickle 团队推出的云端 AI Agent 计算机 | [官网](https://happycapy.ai/signup) |
+| OiiOii | web | 全球首个专业动画创作Agent | [官网](https://www.oiioii.ai/) |
+| DuMate | web | 百度推出的桌面端 AI 智能体 | [官网](https://www.dumate.cn/?track=aiwebsite_1) |
+| 响指HaiSnap | web | 面向工作与学习场景的通用 AI Agent 平台 | [官网](https://haisnap.ai/zh) |
+| 墨见 | web | 墨刀推出的 AI 伴生协作平台 | [官网](https://mojian.cn/) |
+| 悟空 | web | 阿里推出的全球首个企业级AI原生工作平台 | [官网](https://www.dingtalk.com/wukong) |
+| MiniMax Hub | web | MiniMax 推出的桌面端 AI 创意工作站 | [官网](https://hub.minimax.io/) |
+| QClaw | web | 腾讯电脑管家团队基于 OpenClaw 打造的本地 AI 助手 | [官网](https://claw.guanjia.qq.com/) |
+| ToDesk AI | web | 桌面端 AI 智能助手，支持微信远程操控 | [官网](https://www.todesk.com/) |
+| Bloome | web | YouWare团队推出的 Agentic IM 平台 | [官网](https://bloome.im/) |
+| Moxt | web | AI 原生工作空间 | [官网](https://moxt.ai/) |
+| Mavis | web | MiniMax Agent 推出的多 Agent 协作模式 | [官网](https://agent.minimaxi.com/) |
+| AgentPolis | web | 专为AI Agent打造的交易、社交、协作平台 | [官网](https://agent-polis.com) |
+| MaxHermes | web | MiniMax推出的全球首个云端沙箱Hermes | [官网](https://agent.minimaxi.com/max-hermes) |
+| Loopit | web | AI互动内容社区，被称为"可以玩的抖音" | [官网](https://loopit.com.cn/) |
+| TuriX | web | 融合CUA（Computer Use Agent）的工业级通用 Agent 智能助手 | [官网](https://turix.ai/) |
+| SingClaw | web | 一款会记忆的 AI 数据桌面助手 | [官网](https://www.singclaw.ai/) |
+| Accio Work | web | 阿里推出的跨境电商自动化 AI Agent | [官网](https://www.accio.com/work) |
+| AstronClaw | web | 科大讯飞推出的云端部署OpenClaw | [官网](https://agent.xfyun.cn/chat) |
+| Panofy | web | 全球首个可训练 AI 智能体平台 | [官网](https://panofy.ai/) |
+| nexu | web | 免费开源的 OpenClaw 桌面客户端 | [官网](https://nexu.io/) |
+| 724Claw永动虾 | web | 开箱即用的桌面端 AI 助手，基于 OpenClaw | [官网](https://www.724claw.cn/) |
+| EvoMap | web | 全球首个面向 AI 智能体的进化协作平台 | [官网](https://evomap.ai/) |
+| ColaOS | web | 首个有灵魂的 AI Agent 操作系统 | [官网](https://colaos.ai/) |
+| 库库AI | web | 全球首个全模态、全端通用AI智能体 | [官网](https://wenku.baidu.com/ndcore/browse/aiunion) |
+| InStreet | web | 字节扣子推出的 AI Agent 专属中文社交网络 | [官网](https://instreet.coze.site/) |
+| RedClaw | web | 百度推出的全球首款手机端 OpenClaw 应用 | [官网](https://operator.gc.com.cn/) |
+| WinClaw | web | 威努特推出的桌面AI智能体平台 | [官网](http://winclaw.winicssec.com/) |
+| SkillHub | web | 腾讯云专为中国用户推出的 Skill 极速安装工具 | [官网](https://skillhub.tencent.com/) |
+| Leewow | web | 首个造物 AI Agent，图片或文本生成实物商品 | [官网](https://www.leewow.com/) |
+| Mixboard | web | Google Labs 推出的 AI 无限画布工具 | [官网](https://mixboard.google.com/) |
+| memU Bot | web | 7*24小时全天候运行的AI个人助手 | [官网](https://memu.bot/) |
+| 元气AI Bot | web | 猎豹推出的电脑全能AI伙伴，国产OpenClaw | [官网](https://yuanqiai.net/) |
+| WorkAny | web | 本地运行的开源AI桌面智能体 | [官网](https://workany.ai/) |
+| Agnes AI | web | 专为办公场景设计的团队协作型AI Agent | [官网](https://agnes-ai.com/) |
+| Seele AI | web | 全球首个端到端AI 3D游戏生成工具 | [官网](https://seelesai.go.link/kw8uW) |
+| AnyGen | web | 字节跳动推出的AI办公智能体 | [官网](https://www.anygen.io/home) |
+| Tbox | web | 蚂蚁集团旗下多智能体协同的通用 AI Agent | [官网](https://www.tbox.cn/) |
+| 稿定AI社区 | web | 稿定推出的设计Agent和AI创意社区 | [官网](https://www.gaoding.art/utms/9f9e3162fb274b11810089a93ea547f1) |
+| 椒图AI | web | 深度适配中文场景的AI修图智能体 | [官网](https://www.jiaotuai.cn/) |
+| 遨虾 | web | 1688推出的跨境电商生意Agent | [官网](https://www.alphashop.cn/) |
+| 亿话 | web | 数字人对话智能体创作平台 | [官网](https://yh.bdbdigital.com/platform) |
+| Tago | web | 专注电商领域的全能AI运营智能体 | [官网](https://agent.bitaihub.com/) |
+| FlowMuse AI | web | 专注于 AI 图像视频的无限画布 | [官网](https://flowmuse.ai/) |
+| NeoDomain | web | AI创意内容生成智能体 | [官网](https://story.neodomain.cn/) |
+| Opera Neon | web | Opera推出的全新AI Agent浏览器 | [官网](https://www.operaneon.com/) |
+| TabTab | web | 首个全链路 Data Agent | [官网](https://tabtabai.com/) |
+| 酷宣AI | web | 超级智能体，一站式AI内容创作 | [官网](https://kuxuanai.com/) |
+| 月亮树AI选品 | web | 亚马逊AI选品智能体，亿级实时商品大数据 | [官网](https://www.moonstatistics.com/home) |
+| 如此AI员工 | web | 国内首个全链路营销获客AI Agent | [官网](https://www.ruciapp.com/) |
+| Teamo | web | 夕小瑶团队推出的多Agent协作AI智能体 | [官网](https://teamoteam.com/) |
+| SciMaster | web | 上交大联合深势科技推出的通用科研Agent | [官网](https://scimaster.bohrium.com/) |
+| Zeabur | web | 专为氛围编程设计的云部署AI 智能体 | [官网](https://zeabur.com/) |
+| Skywork | web | Skywork 是昆仑万维推出的天工超级智能体（Skywork Super Agents），基于AI Agent架构和Deep Research技术，能一站式生 | [官网](https://github.com/SkyworkAI/DeepResearchAgent) |
+| 智谱CoCo | web | 智谱CoCo是智谱AICO平台推出的首个企业级超级助手Agent，具备交付导向、记忆机制和无缝嵌入三大企业级特性。 | [官网](https://aiworker.aminer.cn/ai_worker/verification) |
+| Fellou | web | Fellou 是AI初创公司 Fellou AI 推出的全球首个Agentic浏览器。 | [官网](https://fellou.ai/) |
+| AutoGLM沉思 | web | AutoGLM沉思是智谱推出的首个免费、具备深度研究和操作能力的AI Agent，能模拟人类思维过程，处理复杂的开放式问题。 | [官网](https://autoglm-research.zhipuai.cn/) |
+| rabbitOS intern | web | rabbitOS Intern 由 AI 初创公司 rabbit 推出的通用型AI智能体。 | [官网](https://hole.rabbit.tech) |
+| Suna | web | Suna 是Kortix推出的全球首款通用型 AI Agent 开源项目，支持高效解决现实场景中的各类任务。 | [官网](https://www.suna.so/) |
+| CRIC深度智联 | web | CRIC深度智联是克而瑞推出的中国首个房地产垂直领域的AI Agent。 | [官网](https://www.dichanai.com/) |
+| Dia | web | Dia是Arc团队推出的AI原生浏览器，于2025年4月正式发布。 | [官网](https://www.diabrowser.com/) |
+| Fairies | web | Fairies 是通用型 AI Agent 智能体，具备强大的多任务执行能力，可处理文件管理、代码生成、邮件发送等 1000 多种操作。 | [官网](https://fairies.ai/) |
+
+---
+
+### 26. 写作工具
+| 名称    | 类型 | 描述       | 链接             |
+| ------- | ---- | -------- | ---------------- |
+| Laper | web | AI 原生剧本创作工具 | [官网](https://laper.ai/) |
+| 稿定AI文案 | web | 小红书、公众号、短视频AI文案生成工具 | [官网](https://www.gaoding.com/utms/cd3cc3a1cb0149d3bfc4a71b5e157098) |
+| 笔灵AI小说 | web | AI一键写全篇+爆文拆解，搞定大纲、素材，新手写作过稿神器！ | [官网](https://ibiling.cn/novel-workbench/) |
+| 沁言学术 | web | AI科研写作平台，一站式文献管理 | [官网](https://app.qinyanai.com/) |
+| 稿易AI论文 | web | AI论文写作助手，免费生成2000字大纲 | [官网](https://gaoyiai.com) |
+| 千笔AI论文 | web | 全网首家论文无限改稿平台 | [官网](https://www.qianbixiezuo.com/?pic=g5DP) |
+| 66AI论文 | web | 高质量、低查重、低AIGC率的AI论文写作工具 | [官网](https://www.66paper.cn/AI_A2E1C09) |
+| 剧云 | web | 免费 AI 智能中文剧本创作平台 | [官网](https://www.jucloud.com/) |
+| 维普科创助手 | web | 维普的一站式AI科研服务平台 | [官网](https://super.cqvip.com/) |
+| 茅茅虫 | web | 一站式AI论文写作助手 | [官网](https://mymmc.cn/?fromId=954f8p78) |
+| 笔目鱼 | web | 专业英文论文写作器 | [官网](https://www.bmysci.com/) |
+| 光速写作 | web | AI写作、PPT生成工具，单篇最长15000字 | [官网](https://www.guangsuxie.com/static/college-write-web/home) |
+| 小鱼AI写作 | web | 一站式AI写作平台，一键生成高质量原创内容 | [官网](https://www.xiaoyuxiezuo.com/AI_A2E1C09) |
+| 万能小in | web | 3分钟4万字150+应用，只需标题，快速生成毕业论文 | [官网](https://xiaoin.com.cn/home/index) |
+| 排版小星 | web | AI 智能排版工具，一键生成爆款图文 | [官网](https://paibanxiaoxing.com/) |
+| 墨问 | web | 专为创作者设计的AI笔记工具 | [官网](https://mowen.cn/) |
+| 新华妙笔 | web | 新华社推出的AI公文写作平台 | [官网](https://miaobi.xinhuaskl.com/) |
+| 丹青妙笔 | web | 专为体制内打造的AI公文写作工具 | [官网](https://www.danqingmiaobi.com/) |
+| FeelFish | web | 专为小说创作者打造的 AI 写作 PC 客户端软件 | [官网](https://www.feelfish.com/?fr=aibot) |
+| Loomi | web | 创作版Claude Code，AI原生写作工具 | [官网](https://loomi.live/) |
+| GetDraft | web | 得到推出的多AI专家协作AI写作工具 | [官网](https://getdraft.ai/) |
+| 落笔AI写作 | web | 专注于小说网文创作的AI写作工具 | [官网](https://luobi.net/) |
+| 创飞写作 | web | 新一代智能AIGC写作调度平台 | [官网](https://www.chuangfeiai.com/login) |
+| 超级小说家 | web | 专为网文作家和短剧编剧打造的AI创作助手 | [官网](https://www.36ma.com/?fr=aibot) |
+| 材料星AI | web | 专为秘书工作设计的AI写作工具 | [官网](https://cailiaoxing.com/) |
+| 量子探险 | web | AI小说写作工具，长文本一键生成 | [官网](https://www.yfbudong.com/) |
+| 社研通 | web | 专注于服务文科研究生的多模态AI学术写作工具 | [官网](https://www.sheyantong.cn/) |
+| Rubriq | web | 免费试用，AI学术论文润色与翻译工具 | [官网](https://rubriq.cn/) |
+| QuillBot | web | AI英/德语写作润色和改进工具 | [官网](https://try.quillbot.com/6eqrqpoysmlh) |
+| Paperpal | web | 英文论文写作助手 | [官网](https://paperpal.cn/) |
+| 创一AI | web | AI评剧本，轻松创作爆款剧本 | [官网](https://www.creatifyone.com/) |
+| YouMind | web | 专注提升创作效率和信息整合的AI原生工具 | [官网](https://youmind.com/invite/84LX6W) |
+| 讯飞文书 | web | 科大讯飞推出的AI公文写作助手 | [官网](https://gw.iflydocs.com/) |
+| Muset | web | 为深度创作者提供的AI原生写作工具 | [官网](https://muset.ai/) |
+| 华文笔杆 | web | 一站式AI公文写作工具 | [官网](https://docwrite.cn/doc/#/) |
+| 千页小说AI | web | 一站式AI小说写作平台，从灵感到完稿 | [官网](https://www.qianyeai.com/) |
+| 公文宝 | web | 体制工作者的AI公文写作专家 | [官网](https://www.gongwenbao666.com/) |
+| 讯飞写作 | web | 科大讯飞推出的AI智能写作助手 | [官网](https://huixie.iflyrec.com/list) |
+| PaperXie智能写作 | web | AI学术写作辅助工具，覆盖全流程服务 | [官网](https://www.paperxie.cn/) |
+| FlowUs AI | web | 在线文档平台息流推出的AI创作助手，类似于Notion AI | [官网](https://flowus.cn/ai) |
+| Rytr | web | AI内容生成和写作助手 | [官网](https://rytr.me/) |
+| 迅捷AI写作 | web | 迅捷办公团队推出的AI写作工具 | [官网](https://www.aichat1234.com/app/?mode=aibot) |
+| 橙篇 | web | 百度推出的AI长文理解和内容创作工具 | [官网](https://cp.baidu.com/) |
+| 深言达意 | web | 免费的词句查询智能写作辅助工具，输入模糊描述即可查找词句 | [官网](https://www.shenyandayi.com/) |
+| 彩云小梦 | web | 彩云科技推出的智能AI故事写作工具 | [官网](https://if.caiyunai.com/) |
+| MidReal | web | AI互动式小说文本生成工具 | [官网](https://midreal.ai/) |
+| 墨狐AI | web | 短篇小说AI写作助手，专为网文小说作者设计 | [官网](https://inkfox-ai.com/) |
+| 掌桥科研AI论文 | web | 依托3亿+真实文献库的AI论文写作工具 | [官网](https://www.zhangqiaokeyan.com/ai/journalthesis.html) |
+| 灵犀速写 | web | AI小说创作工具，支持AI写作工作流 | [官网](https://www.lingxisuxie.com/) |
+| 库宝AI工作助手 | web | 千库网推出的多功能AI创作工具 | [官网](https://588tool.com/) |
+| Grammarly | web | AI英语语法和拼写检查写作助手 | [官网](https://www.grammarly.com) |
+| 文状元 | web | AI公文写作助手，提供大量范文库 | [官网](https://www.wenzhuangyuan.cn/workspace/writing-store) |
+| 晓语台 | web | 智能AI写作工具，内置500+创作模板 | [官网](https://www.xiaoyutai.com/) |
+| DeepL Write | web | DeepL推出的AI驱动的写作助手 | [官网](https://www.deepl.com/write) |
+| 有道翻译·AI写作 | web | 网易有道推出的智能写作辅助工具，支持100多种语言 | [官网](https://fanyi.youdao.com/aiwrite) |
+| Wordvice AI | web | Wordvice推出的免费AI写作助手 | [官网](https://wordvice.ai/cn) |
+| AI新媒体文章 | web | 夸克推出的AI写作工具 | [官网](https://vt.quark.cn/blm/creator-773/index) |
+| 宙语Cosmos | web | 专为中文写作设计的AI智能写作助手 | [官网](https://ailjyk.com/pc/creation/model) |
+| 灵构AI笔记 | web | 在线安全的灵感收集、思路整理AI笔记工具 | [官网](https://88lingo.com/ai) |
+| 有道写作 | web | 网易有道出品的智能英文写作修改和润色工具 | [官网](https://write.youdao.com/) |
+| 文思助手 | web | 强大的AI写作智能体，支持生成专业报告和科研论文 | [官网](https://wensi.sodabot.cn/) |
+| WriteWise | web | 喜马拉雅推出的免费网文和小说AI写作工具 | [官网](https://www.ximalaya.com/gatekeeper/write-wise-web) |
+| 百度作家平台 | web | 百度免费AI小说写作工具 | [官网](https://zuojia.baidu.com) |
+| 爱创作 | web | ZAKER新闻推出的AI写作工具 | [官网](https://ai.zaker.cn) |
+| Verse | web | 印象笔记旗下团队推出的AI写作和文档工具 | [官网](https://verse.app.yinxiang.com/product/) |
+| 万彩AI | web | 全能型AI内容和文案创作助手 | [官网](https://ai.kezhan365.com/inviteCode/FwJFxy) |
+| WritingPal | web | 面向留学生的AI英文写作工具 | [官网](https://writingpal.ai/) |
+| NovelAI | web | AI小说故事创作工具 | [官网](https://novelai.net/) |
+| 奇妙文 | web | 出门问问推出的AI写作助理 | [官网](https://wen.mobvoi.com/) |
+| 悉语 | web | 阿里旗下智能文案工具，一键生成电商营销文案 | [官网](https://chuangyi.taobao.com/pages/aiCopy) |
+| 文涌Effidit | web | 腾讯AI Lab开发的智能创作助手 | [官网](https://effidit.qq.com) |
+| 火龙果写作 | web | AI驱动的文字生产力工具 | [官网](https://www.mypitaya.com) |
+| 树熊写作 | web | 树熊AI推出的AI智能写作工具 | [官网](https://ai.koalaoffice.com/ai/homePage) |
+| 爱改写 | web | AI改写、纠错、润色辅助工具 | [官网](https://www.aigaixie.com) |
+| HeyFriday | web | 国内团队推出的智能AI写作工具 | [官网](https://www.heyfriday.cn/home) |
+| 易撰 | web | 新媒体AI内容创作助手 | [官网](https://www.yizhuan5.com/) |
+| 智搜 | web | Giiso写作机器人，内容创作AI辅助工具 | [官网](https://www.giiso.com) |
+| 创作王 | web | AI一键帮助你创作营销内容 | [官网](https://aiapp.cc/) |
+| XPaper AI | web | 晓语台旗下的论文写作辅助指导平台 | [官网](https://www.130ai.com/) |
+| 悟智写作 | web | 人工智能驱动的自动化写作平台 | [官网](https://www.wuz.com.cn/) |
+| 讯飞智检 | web | 讯飞推出的智能写作SaaS工具，支持智能写作后的校对与合规审核 | [官网](https://zj.xfyun.cn/exam/text) |
+
+---
+
+### 27. 训练模型
+| 名称    | 类型 | 描述       | 链接             |
+| ------- | ---- | -------- | ---------------- |
+| Nano Banana | web | 谷歌推出的图像生成与编辑模型 | [官网](https://deepmind.google/models/gemini-image/pro) |
+| Cherry Studio | web | 开源全能 AI 客户端助手 | [官网](https://www.cherry-ai.com/) |
+| Ollama | web | 本地运行Llama和其他大语言模型 | [官网](https://ollama.ai/) |
+| 魔搭社区 | web | 阿里达摩院推出的AI模型社区，超过300+开源AI模型 | [官网](https://www.modelscope.cn/) |
+| Seedance | web | 字节跳动 Seed 团队推出的多模态 AI 视频生成模型 | [官网](https://ai.volcengine.com/activity/seedance2) |
+| 豆包大模型 | web | 字节跳动推出的AI大模型家族，包括视频生成、语音视觉、通用语言模型等 | [官网](https://ai.volcengine.com/model) |
+| Dataify | web | 数据采集API、高质量数据集、代理资源服务一体化供应 | [官网](https://www.dataify.com/) |
+| 无阶未来 | web | AI应用与弹性算网平台 | [官网](https://www.aivinla.com/register?code=85307444) |
+| AutoGPT | web | 爆火的实现GPT-4完全自主的实验性开源项目，GitHub超10万星 | [官网](https://agpt.co/) |
+| Jan | web | 本地运行大模型并进行AI对话的工具，免费开源 | [官网](https://jan.ai/) |
+| AgentGPT | web | 在浏览器中组装、配置和部署自主人工智能的开源项目 | [官网](https://agentgpt.reworkd.ai/) |
+| OpenBMB | web | 清华团队支持发起的大规模预训练语言模型库与相关工具 | [官网](https://www.openbmb.org/home) |
+| Llama 3 | web | Meta最新开源推出的新一代大模型 | [官网](https://llama.meta.com/llama3/) |
+| Gemma | web | 谷歌推出的新一代轻量级开放模型 | [官网](https://ai.google.dev/gemma?hl=zh-cn) |
+| 腾讯混元大模型 | web | 腾讯研发的大语言模型，具备强大的中文创作能力，复杂语境下的逻辑推理能力，以及可靠的任务执行能力 | [官网](https://hunyuan.tencent.com/) |
+| 书生大模型 | web | 上海人工智能实验室推出的系列AI模型 | [官网](https://intern-ai.org.cn/) |
+| 文心大模型 | web | 百度推出的产业级知识增强大模型 | [官网](https://wenxin.baidu.com) |
+| LLaMA | web | Meta（Facebook）推出的AI大语言模型 | [官网](https://github.com/facebookresearch/llama) |
+| 悟道 | web | 智源“悟道”大模型，中国首个+世界最大人工智能大模型 | [官网](https://www.baai.ac.cn/portal/article/index/cid/49/id/518.html) |
+| MiracleVision奇想智能 | web | 美图推出的AI视觉大模型，支持AI图像、设计和视频创作 | [官网](https://www.miraclevision.com/) |
+| Gradio | web | 开源的搭建机器学习模型UI界面的Python库 | [官网](https://gradio.app) |
+| DeepFloyd IF | web | StabilityAI旗下的DeepFloyd团队推出的图片生成模型 | [官网](https://deepfloyd.ai/deepfloyd-if) |
+| Cohere | web | 构建AI产品的大语言模型平台 | [官网](https://cohere.com) |
+| 序列猴子 | web | 出门问问推出的一款超大规模的语言模型 | [官网](https://openapi.mobvoi.com/index) |
+| BLOOM | web | HuggingFace推出的大型语言模型（LLM） | [官网](https://huggingface.co/docs/transformers/model_doc/bloom) |
+| 阿里巴巴M6 | web | 阿里巴巴达摩院推出的超大规模中文预训练模型(M6) | [官网](https://m6.aliyun.com/) |
+| Lamini | web | 低门槛快速定制大语言模型的引擎 | [官网](https://lamini.ai) |
+| StableLM | web | Stability AI推出的开源的类ChatGPT大语言模型 | [官网](https://github.com/Stability-AI/StableLM) |
+| Gen-2 | web | Runway最新推出的AI视频生成模型 | [官网](https://research.runwayml.com/gen2) |
+| DeepSpeed | web | 微软开源的低成本实现类似ChatGPT的模型训练 | [官网](https://www.deepspeed.ai) |
+| PaLM 2 | web | Google的下一代大语言模型，超过3400亿参数 | [官网](https://ai.google/discover/palm2) |
+| Segment Anything（SAM） | web | Meta最新推出的AI图像分割模型 | [官网](https://segment-anything.com) |
+| HuggingFace | web | AI模型开发社区 | [官网](https://huggingface.co/) |
+| Imagen | web | Google AI文字到图像生成模型 | [官网](https://imagen.research.google) |
+| StableVicuna | web | 第一个通过RLHF训练的大规模开源聊天机器人 | [官网](https://chat.lmsys.org) |
+| Watsonx.ai | web | IBM推出的企业级生成式人工智能和机器学习平台 | [官网](https://www.ibm.com/products/watsonx-ai) |
+| Lobe | web | 简单免费的机器学习模型训练工具 | [官网](https://www.lobe.ai) |
+| Scale AI | web | AI机器学习标注训练平台 | [官网](https://scale.com) |
+| Replicate | web | 在线运行开源机器学习模型 | [官网](https://replicate.com) |
+| Evidently AI | web | 开源的机器学习模型监测和测试工具 | [官网](https://www.evidentlyai.com) |
+| MOSS | web | 复旦大学团队开发的对话式大型语言模型 | [官网](https://moss.fastnlp.top) |
+| AI Ping | web | AI Ping是一站式大模型服务评测与模型API调用平台，通过持续监测和专业评测，AI Ping整合数十家供应商的数百个模型服务，如无问芯穹、SophNet、P | [官网](https://aiping.cn/) |
+
+---
+
+### 28. 内容检测
+| 名称    | 类型 | 描述       | 链接             |
+| ------- | ---- | -------- | ---------------- |
+| SpeedAI | web | AI科研助手，AIGC检测、降重降AI率 | [官网](https://speedai.com/) |
+| 小橡皮 | web | AI内容一键变人味，发布前风险检测 | [官网](https://xiangpiai.cn/workspace) |
+| 稿易降AI率 | web | 专注学术写作降AI率的工具 | [官网](https://gaoyiai.com/paper_aigc) |
+| 66降AI率 | web | 智能降AI率工具，适配知网最新检测 | [官网](https://aigc.66paper.cn/AI_A2E1C09) |
+| 笔灵降AI率 | web | 降低AIGC痕迹工具，实时适配最新规则 | [官网](https://ibiling.cn/paper-pass) |
+| Aibiye降AI率 | web | 专注降低AIGC的AI写作助手，精准定位问题段落 | [官网](https://www.aibiye.com/goods/jaigcl?code=ZrW9Dy) |
+| 千笔降AI率 | web | 文本降AI率工具，适配知网、维普、万方检测系统 | [官网](https://www.qianbiaigc.com/?pic=g5DP) |
+| 茅茅虫降AI率 | web | 论文降AI率工具，支持多格式文档 | [官网](https://www.mmc.cc/dashboard/aigc-down?fromId=954f8p78) |
+| PaperFake降重降AI率 | web | 专业降重降AI，支持知网、维普、万方等主流平台 | [官网](https://paperfake.cn/aigc?q=aibot) |
+| 言笔降AI率 | web | 在线降AIGC痕迹工具，适配知网、万方、维普 | [官网](https://www.yanbiai.com/tools/paper-pass?ly=aibot) |
+| 学术猹 | web | 网易有道推出的降AI率工具 | [官网](https://xueshucha.youdao.com/) |
+| XYZ SCIENCE | web | 学术论文AIGC检测与降AI工具 | [官网](https://www.xyzscience.com/) |
+| 文枢三言 | web | 专注学术场景的 AI 论文降重降AI率助手 | [官网](https://wenshusanyan.com/writing/login) |
+| 朱雀AI检测 | web | 腾讯推出的AI内容检测助手 | [官网](https://matrix.tencent.com/ai-detect/) |
+| GPTZero | web | 超过百万人都在用的免费AI内容检测工具 | [官网](https://gptzero.me) |
+| StudyCorgi ChatGPT Detector | web | 免费的检测论文是否由ChatGPT生成的工具 | [官网](https://studycorgi.com/free-writing-tools/chat-gpt-detector) |
+| AISEO AI Content Detector | web | AISEO推出的AI内容检测器 | [官网](https://aiseo.ai/tools/ai-content-detector.html) |
+| Proofig | web | AI检测科研图像是否造假抄袭 | [官网](https://www.proofig.com/) |
+| Writecream AI Content Detector | web | Writecream推出的AI内容检测工具 | [官网](https://www.writecream.com/ai-content-detector) |
+| Smodin AI Content Detector | web | 多语种AI内容检测工具 | [官网](https://smodin.io/ai-content-detector) |
+| Sapling AI Content Detector | web | Sapling.ai推出的免费在线AI内容检测工具 | [官网](https://sapling.ai/utilities/ai-content-detector) |
+| 睿信论文检测 | web | 中科睿鉴推出的一站式学术诚信检测系统 | [官网](https://rx.ruijianai.com/login) |
+| 挖错网 | web | AI内容审核校对平台，一键检测内容自动纠错 | [官网](https://wacuowang.com) |
+| 团象 | web | AI内容检测与优化平台 | [官网](https://xueshu.tuanxiang.com/) |
+| AI Content Detector | web | Writer推出的AI内容检测工具 | [官网](https://writer.com/ai-content-detector) |
+| Originality.AI | web | 原创度和AI内容检测 | [官网](https://originality.ai) |
+| CopyLeaks | web | AI内容检测和分级 | [官网](https://copyleaks.com) |
+| Winston AI | web | 强大的AI内容检测解决方案 | [官网](https://gowinston.ai) |
+
+---
+
+### 29. 学习网站
+| 名称    | 类型 | 描述       | 链接             |
+| ------- | ---- | -------- | ---------------- |
+| AI大学堂 | web | 科大讯飞推出的在线AI学习平台 | [官网](https://www.aidaxue.com/?ch=daxue_collection_1) |
+| 堆友AI学习 | web | 堆友AI推出的AI设计知识学习网站 | [官网](https://d.design/study) |
+| AI分享圈 | web | 最好最全的AI免费资源分享网站 | [官网](https://aisharenet.com) |
+| Day of AI | web | 麻省理工学院（MIT）推出的免费AI学习平台 | [官网](https://dayofai.org/) |
+| fast.ai | web | 免费开源的深度学习和AI学习网站，让每个人都参与到AI！ | [官网](https://www.fast.ai) |
+| 学吧导航 | web | 学习爱好者首选的学霸导航网站 | [官网](https://www.xue8nav.com/) |
+| LearnBuddy | web | 腾讯推出的专家同行的AI自主学习平台 | [官网](https://learningbuddy.tencent.com/) |
+| Lynote | web | 面向学生、研究者和职场人士的 AI 学习助手 | [官网](https://lynote.ai/zh) |
+| Coursera | web | 知名MOOC平台，提供众多人工智能和机器学习课程 | [官网](https://www.coursera.org/collections/best-machine-learning-ai) |
+| Elements of AI | web | 免费在线AI通识学习课程 | [官网](https://www.elementsofai.com/) |
+| DeepLearning.AI | web | 深度学习和人工智能学习平台 | [官网](https://www.deeplearning.ai/) |
+| 动手学深度学习 | web | 结合理论与实践的深度学习教材和课程 | [官网](https://zh.d2l.ai/) |
+| MachineLearningMastery | web | 免费在线的机器学习平台，提供从基础到高级全面教程 | [官网](https://machinelearningmastery.com/) |
+| Generative AI for Beginners | web | 微软推出的面向初学者的免费生成式人工智能课程 | [官网](https://microsoft.github.io/generative-ai-for-beginners/) |
+| ML for Beginners | web | 微软推出的免费开源的机器学习课程，GitHub标星7万+ | [官网](https://microsoft.github.io/ML-For-Beginners/) |
+| Kaggle | web | 机器学习和数据科学社区 | [官网](https://www.kaggle.com) |
+| 神经网络入门 | web | Brilliant推出的Introduction to Neural Networks课程 | [官网](https://brilliant.org/courses/intro-neural-networks/) |
+| Trancy | web | AI驱动的语言学习工具 | [官网](https://trancy.org/zh-cn) |
+| Reading Coach | web | 微软推出的免费个性化AI阅读学习教练 | [官网](https://coach.microsoft.com/) |
+| 飞桨AI Studio | web | 百度推出的AI学习与实训社区 | [官网](https://aistudio.baidu.com) |
+| 腾讯扣叮 | web | 腾讯推出的青少年编程教育平台 | [官网](https://coding.qq.com/) |
+| 阿里云AI学习路线 | web | 阿里云推出的人工智能学习路线（学+测） | [官网](https://developer.aliyun.com/learning/roadmap/ai) |
+| Udacity AI学院 | web | Udacity推出的School of AI，从入门到高级 | [官网](https://www.udacity.com/school/artificial-intelligence) |
+| Google AI | web | Google AI学习平台 | [官网](https://ai.google) |
+| ShowMeAI知识社区 | web | 人工智能领域的资料库和学习社区 | [官网](https://www.showmeai.tech/) |
+| OpenAI Academy | web | OpenAI Academy是OpenAI推出的免费AI学习平台，提供免费的AI课程帮助普通人掌握AI技能。 | [官网](https://academy.openai.com/) |
+
+---
 
 ---
 
