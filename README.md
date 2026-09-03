@@ -1,17 +1,19 @@
-# 🚀 Awesome AI Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🚀 Awesome AI Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/Rvelamen/Awesome-AI-Tools?style=social)](https://github.com/Rvelamen/Awesome-AI-Tools)
 
 ![example](./assets/img.png)
 > 一个持续更新的AI工具全景图，涵盖大语言模型（LLM）、Agent框架、开发工具等资源
 
+> ⭐ 如果这份清单对你有帮助，欢迎在 GitHub 右上角点一个 **Star**，让更多人和 Agent 发现它。
+
 ---
 
 ## 📖 目录
-- [🎯 项目目标](-🎯项目目标)
-- [🗂️ 工具分类](-🗂️工具分类)
-- [🧭 快速导航](-🧭快速导航)
-- [👥 贡献指南](-👥贡献指南)
-- [📜 声明](-📜声明)
-- [🤝 License](-🤝License)
+- [🎯 项目目标](#-项目目标)
+- [🗂️ 工具分类](#️-工具分类)
+- [🧭 快速导航](#-快速导航)
+- [👥 贡献指南](#-贡献指南)
+- [📜 声明](#-声明)
+- [🤝 License](#-license)
 
 ---
 
@@ -29,6 +31,7 @@
 | 名称    | 类型 | 描述       | 链接             |
 | ------- | ---- | -------- | ---------------- |
 | 豆包 | web | 字节跳动推出的免费AI智能助手 | [官网](https://www.doubao.com/chat) |
+| [Auferet](https://auferet.com) | AI game master that remembers your world: persistent memory for characters, places, and lore you upload; solo or multiplayer, 5e & Pathfinder 2e | — | — |
 | 讯飞星火 | web | 科大讯飞推出的AI智能助手 | [官网](https://xinghuo.xfyun.cn/desk) |
 | ChatGPT | web | OpenAI旗下AI对话工具 | [官网](https://chat.openai.com) |
 | Claude | web | ChatGPT的最为有力的竞争对手之一 | [官网](https://claude.ai) |
@@ -90,6 +93,7 @@
 | 360智脑 | web | 360搜索最新推出的AI对话聊天机器人 | [官网](https://ai.360.com) |
 | 对话写作猫 | web | 秘塔写作猫推出的AI对话聊天工具 | [官网](https://xiezuocat.com) |
 | 海螺AI | web | MiniMax推出的AI对话助理，已免费开放 | [官网](https://hailuoai.com) |
+| StudyArena | web | 免费比较同一学习问题的三个匿名 AI 回答，投票后揭示模型名称 | [官网](https://studyarena.com) |
 
 ---
 ### 2. 图像工具
@@ -99,12 +103,14 @@
 | 绘蛙 | web | AI电商营销工具，免费生成商品图和种草文案 | [官网](https://ihuiwa.paluai.com) |
 | 稿定AI | web | 一站式设计工具集，免费AI绘图、图片转AI绘画、AI抠图消除 | [官网](https://www.gaoding.com) |
 | 笔魂AI | web | 设计工具，支持AI抠图、消除、无损放大 | [官网](https://ibihun.com) |
+| ImageChanger | web | 浏览器端AI图片编辑器，提供38个背景、人物、物体、修复和创意转换工作流 | [官网](https://aiimagechanger.app/) |
 | 吐司AI | web | AI绘画模型社区和在线生图平台 | [官网](https://tusiart.com) |
 | 美间AI抠图 | web | 美间AI推出的免费智能抠图工具 | [官网](https://www.meijian.com/mj-box/ai-pic-matting-intro) |
 | 即梦 | web | 抖音旗下免费AI图片创作工具 | [官网](https://jimeng.jianying.com/ai-tool/home) |
 | 阿贝智能 | web | 一站式AI绘本创作平台，副业变现必备 | [官网](https://abeiai.com) |
 | Midjourney | web | AI图像和插画生成工具 | [官网](https://www.midjourney.com/home) |
 | 炉米Lumi | web | 字节跳动推出的AIGC图像创作平台 | [官网](https://artistrylab.net) |
+| Seedream AI Studio | web | 字节跳动出品多模型AI图像生成平台，搭载Seedream 5.0/4.5/4.0，AI图像竞技场排名第一，支持10张参考图一键生成视频 | [官网](https://seedream4.video/) |
 | Civitai | web | 免费的AI图像绘画作品和模型分享平台和社区 | [官网](https://civitai.com/) |
 | 堆友AI反应堆 | web | 阿里旗下堆友推出的多风格AI绘画生成器 | [官网](https://d.design) |
 | 通义万相 | web | 阿里最新推出的AI绘画创作模型 | [官网](https://tongyi.aliyun.com/wanxiang) |
@@ -116,7 +122,10 @@
 | 可灵AI | web | 快手推出的AI图像和视频创作平台 | [官网](https://klingai.kuaishou.com) |
 | AI改图神器 | web | AI万能图片在线编辑器 | [官网](https://img.logosc.cn) |
 | Krea AI | web | 实时AI图像、视频生成和编辑平台 | [官网](https://www.krea.ai) |
+| Rao Edits | web | 浏览器端AI图像生成和参考图编辑工具，可用于社交视觉、产品图和创意工作流 | [官网](https://raoedits.top/) |
+| YingTu | web | 浏览器端 AI 图像与视频路由测试平台，支持提示词、参考图、尺寸与下载结果对比 | [官网](https://yingtu.ai/en) |
 | Photoroom | web | 在线AI图片编辑工具 | [官网](https://www.photoroom.com/zh) |
+| HairWow | web | AI发型试戴和护发建议工具，支持预览发型、发色、刘海、层次和胡须造型 | [官网](https://www.gohairwow.com) |
 | Ribbet.ai | web | 免费的多功能AI图片处理工具箱 | [官网](https://ribbet.ai/) |
 | 万相营造 | web | 阿里旗下推出的多模态AI创意生成平台 | [官网](https://agi.taobao.com) |
 | 悟空图像PhotoSir | web | 新一代专业图像处理软件，更智能、更高效、更好用 | [官网](https://www.photosir.com) |
@@ -364,6 +373,8 @@
 | 腾讯文档智能助手 | web | 腾讯推出的AI文档生成和辅助工具 | [官网](https://docs.qq.com) |
 | Cubox | web | 高效的AI阅读学习助手和信息收集管理工具 | [官网](https://cubox.pro) |
 | Quivr | web | 开源的知识库搭建工具，构建你的第二大脑 | [官网](https://www.quivr.app) |
+| Remio | web | 本地优先的AI记忆和知识库，支持文件、网页、录音、邮件、消息、图片和笔记的索引与语义检索 | [官网](https://remio.ai/) |
+| WizGenerator Story Generator | web | 免费AI故事生成工具，可根据主题、类型、语气和篇幅生成故事草稿，无需注册 | [官网](https://wizgenerator.com/tools/story-generator/) |
 | Coda AI | web | 在线协作平台Coda推出的AI写作和文档助手，类似于Notion AI | [官网](https://coda.io/product/ai) |
 | 有道速读 | web | 网易有道推出的AI论文和文档阅读助手 | [官网](https://read.youdao.com) |
 | 腾讯问卷 | web | 腾讯推出的AI生成调查问卷的免费工具 | [官网](https://wj.qq.com/ai/generate.html) |
@@ -543,6 +554,9 @@
 | ------- | ---- | -------- | ---------------- |
 | 飞书多维表格 | web | 表格形态的 AI 工作流搭建工具 | [官网](https://www.feishu.cn/paid/ai-register) |
 | Manus | web | Monica团队推出的全球首款通用型 AI Agent | [官网](https://manus.im) |
+| IdeaHunter | web | 基于公开需求信号发现并验证应用与微型 SaaS 创业想法 | [官网](https://ideahunter.today) |
+| AnswerLens | web | 审计 B2B SaaS 官网公开证据，检查定价、证明、文档、对比、信任、schema 和 llms.txt 缺口 | [官网](https://app.sfdj.net/) |
+| AISO Tools | web | 检测 ChatGPT、Perplexity 等 AI 助手是否会推荐你的产品，并给出影响被引用的差距 | [官网](https://aisotools.com) |
 | TinyWow | web | 免费在线AI工具箱 | [官网](https://tinywow.com/) |
 | ima.copilot | web | 腾讯推出的AI智能工作台产品，基于混元大模型 | [官网](https://ima.qq.com) |
 | 飞书知识问答 | web | 飞书智能办公推出的AI知识库工具 | [官网](https://ask.feishu.cn/topic) |
@@ -590,6 +604,7 @@
 | 花生图像 | web | AI电商产品图生成和背景抠图工具 | [官网](https://www.hsphoto.cn) |
 | 图生生 | web | 专为电商设计的AI商拍工具 | [官网](https://tushengsheng.com/home) |
 | WeShop唯象 | web | 蘑菇街推出的AI商拍工具 | [官网](https://www.weshop.com) |
+| PixGT | web | 跨境电商AI商拍工具，服装试穿、模特替换、配饰试戴 | [官网](https://www.pixgt.cn) |
 
 ---
 ### 15. 设计工具
@@ -678,6 +693,10 @@
 | 文心快码 | plugin | 百度推出的AI编程助手，基于文心大模型 | [官网](https://comate.baidu.com) |
 | CodeWhisperer | web | 亚马逊推出的免费AI编程助手 | [官网](https://aws.amazon.com/codewhisperer/) |
 | GitHub Copilot | web | GitHub推出的编程工具 | [官网](https://github.com/features/copilot) |
+| Agent QA | app | 用自然语言编写、运行和排查网页及移动应用测试，提供 CLI、仪表板和 MCP 服务器 | [官网](https://github.com/vostride/agent-qa) |
+| codex-profiles | web | 切换命名的 Codex CLI 配置，并在 macOS 上启动具有独立本地状态的 ChatGPT 桌面窗口 | [官网](https://github.com/Ducksss/codex-profiles) |
+| Better Agent | app | 本地AI编程代理工作区，统一运行Claude、Codex和Gemini会话，支持并行分叉、任务委派与重启恢复 | [官网](https://github.com/ofekron/better-agent) |
+| Orkas | app | 开源本地优先的多智能体桌面工作区，支持并行和串行协作 | [官网](https://orkas.ai/?source=gh_rvelamen) |
 | 豆包AI编程 | web | 豆包推出的AI编程新功能 | [官网](https://www.doubao.com/chat/coding) |
 | Firebase Studio | app | 谷歌推出的编程工具，一站式开发全栈应用 | [官网](https://firebase.studio) |
 | Cursor | app | AI代码编辑器，快速进行编程和软件开发 | [官网](https://www.cursor.com) |
@@ -702,6 +721,7 @@
 | Sketch2Code | web | 微软AI Lab推出的将手绘草图转换成HTML代码工具 | [官网](https://sketch2code.azurewebsites.net/) |
 | CodeFuse | web | 蚂蚁集团推出的AI代码编程助手 | [官网](https://codefuse.alipay.com) |
 | Tabby | web | 免费开源的自托管AI编程助手 | [官网](https://tabby.tabbyml.com) |
+| TeamoRouter | web | Claude Code/Codex LLM API 智能路由网关，一个Key接入所有主流模型，微信支付宝充值 | [官网](https://teamorouter.com?utm_source=github&utm_medium=issue&utm_campaign=round3&utm_content=awesome-ai-tools-cn) |
 | C知道 | web | CSDN推出的AI技术问答工具 | [官网](https://so.csdn.net/chat) |
 | 驭码CodeRider | web | 极狐GitLab推出的AI编程与软件智能研发助手 | [官网](https://coderider.gitlab.cn) |
 | Duo Chat | web | GitLab推出的AI编程助手 | [官网](https://about.gitlab.com/gitlab-duo) |
@@ -709,6 +729,7 @@
 | Augment Code | web | AI编程辅助工具，专为大型代码库设计 | [官网](https://www.augmentcode.com) |
 | Devin | web | 首个全自主的AI软件工程师智能体 | [官网](https://preview.devin.ai) |
 | Plandex | web | 免费开源的基于终端的AI编程引擎 | [官网](https://plandex.ai) |
+| Tree Ring Memory | web | 本地优先的AI智能体记忆生命周期层，提供Rust CLI/TUI、SQLite/FTS召回、审计、遗忘和整合 | [官网](https://terminallylazy.github.io/Tree-Ring-Memory/) |
 | Fitten Code | web | 非十科技推出的免费AI代码助手 | [官网](https://code.fittentech.com) |
 | BLACKBOX AI | web | 黑箱AI编程助理，快速代码生成 | [官网](https://www.useblackbox.io) |
 | Solo | web | Mozilla推出的零编程无代码AI网站建设工具 | [官网](https://soloist.ai) |
@@ -716,6 +737,7 @@
 | CodeArts Snap | web | 华为云推出的智能编程助手 | [官网](https://www.huaweicloud.com/product/codeartside/snap.html) |
 | AskCodi | web | 你的个人AI编程助手 | [官网](https://www.askcodi.com/) |
 | v0.dev | web | AI生成前端React/UI组件，由Vercel推出 | [官网](https://v0.dev) |
+| Roblox GUI Maker | web | 输入提示词生成Roblox Studio GUI布局和Lua入门代码 | [官网](https://robloxguimaker.dev/) |
 | Boxy | web | CodeSandbox推出的AI编程助手 | [官网](https://codesandbox.io/blog/meet-boxy-ai-coding-assistant) |
 | Quest AI | web | AI将设计稿生成React代码，支持JavaScript和TypeScript | [官网](https://www.quest.ai) |
 | 天工智码Skycode | web | AI智能编程助手，轻松生成各种代码 | [官网](https://sky-code.singularity-ai.com/index.html#/) |
@@ -792,6 +814,7 @@
 | Cutout.Pro | web | AI在线处理图片 | [官网](https://www.cutout.pro/) |
 | 白日梦 | web | AI视频创作平台，最长可生成六分钟的视频 | [官网](https://aibrm.paluai.com/bairimeng) |
 | 绘蛙AI视频 | web | 绘蛙推出的AI图生视频工具 | [官网](https://www.ihuiwa.com/workspace/ai-video/custom-action) |
+| ImagineClip | web | AI 视频生成工具，可从提示词、图片和效果生成头像短片、风格化场景和社交视频 | [官网](https://imagineclip.com) |
 | 讯飞绘镜 | web | 科大讯飞推出的AI短视频创作平台 | [官网](https://typemovie.art) |
 | Vidu | web | 生数科技推出的AI视频生成大模型 | [官网](https://www.vidu.cn) |
 | SoundView | web | AI视频本地化工具，支持视频配音和翻译 | [官网](https://soundviewai.com) |
@@ -806,6 +829,7 @@
 | Runway | web | AI视频工具，绿幕抠除、视频生成、动态捕捉等功能 | [官网](https://runwayml.com) |
 | PVID | web | 免费AI视频生成器，聚合Kling 3.0、Sora 2、Veo 3.1 | [官网](https://pvid.app/) |
 | Pika | web | Pika Labs推出的AI视频生成和编辑工具 | [官网](https://pika.art/) |
+| ImagineClip | web | AI视频生成工具，支持社交短片、头像视频和风格化场景创作 | [官网](https://imagineclip.com?ref=awesome-ai-tools) |
 | Dream Machine | web | Luma AI推出的AI视频生成工具 | [官网](https://lumalabs.ai/dream-machine) |
 | 通义万相AI视频 | web | 通义万相AI视频是阿里推出的... | [官网](https://tongyi.aliyun.com/wanxiang/wanxvideo) |
 | Sora | web | OpenAI推出的AI视频生成模型 | [官网](https://openai.com/sora) |
@@ -868,6 +892,7 @@
 | 闪剪 | web | AI数字人短视频创作工具 | [官网](https://shanjian.tv/) |
 | Wonder Studio | web | AI自动为CG角色制作动画、打光并将其合成到真人场景中 | [官网](https://wonderdynamics.com/) |
 | Magicam | web | 实时的AI直播/视频换脸工具 | [官网](https://magicam.ai/) |
+| LiveFaceSwap AI换脸 | web | 提供网页体验和Windows客户端的实时AI换脸工具，支持变装、风格重绘与虚拟摄像头输出 | [官网](https://livefaceswap.ai/zh) |
 | LTX Studio | web | AI电影制作和视频短片生成平台 | [官网](https://ltx.studio/) |
 | Clipfly | web | 一站式AI长视频制作和编辑平台 | [官网](https://www.clipfly.ai/) |
 | Captions | web | AI驱动的视频剪辑和制作平台 | [官网](https://www.captions.ai/) |
@@ -875,6 +900,7 @@
 | GoEnhance | web | AI视频风格转换和画质增强工具 | [官网](https://www.goenhance.ai/) |
 | InVideo AI | web | 人工智能视频创作和剪辑工具 | [官网](https://invideo.io/) |
 | Unscreen | web | AI智能视频背景移除工具 | [官网](https://www.unscreen.com/) |
+| SEELE TV | web | 浏览器端AI视频创作工作室 | [官网](https://seele.tv/) |
 | EbSynth | web | AI将真人视频转化为油画风动画 | [官网](https://ebsynth.com/) |
 | Artflow | web | AI创建生成视频动画 | [官网](https://app.artflow.ai/) |
 | Kaiber | web | 图片文字转视频的AI引擎 | [官网](https://www.kaiber.ai/superstudio/) |
@@ -890,6 +916,7 @@
 | DeepBrain | web | AI口播视频生成工具 | [官网](https://www.aistudios.com/) |
 | Synthesia | web | AI视频生成平台 | [官网](https://www.synthesia.io/) |
 | Lumen5 | web | AI将博客文章转换成视频 | [官网](https://lumen5.com/) |
+| videos.social | web | 博客/PDF/提示词转为可编辑无脸视频 | [官网](https://videos.social/?utm_source=rvelamen-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d) |
 | Rephrase.ai | web | AI文字到视频生成 | [官网](https://ahrefs.com/writing-tools/paraphrasing-tool) |
 | 万彩微影 | web | AI智能自动生成动画短视频 | [官网](https://www.animiz.cn/microvideo/) |
 | 录咖 | web | 一站式AI音视频总结和转录处理工具 | [官网](https://reccloud.cn/) |
@@ -929,6 +956,7 @@
 | Cutout.Pro老照片上色 | web | Cutout.Pro推出的黑白图片上色 | [官网](https://www.cutout.pro/zh-CN/photo-colorizer-black-and-white) |
 | Palette | web | AI图片调色上色 | [官网](https://palette.fm/) |
 | Playground AI | web | AI图片生成和修图 | [官网](https://playgroundai.com/) |
+| ArtImageHub | web | AI老照片修复——去划痕、降噪、黑白上色，在线处理，免费预览，$4.99下载 | [官网](https://artimagehub.com) |
 
 ---
 ### 21. 图片无损放大
@@ -1006,6 +1034,7 @@
 | Bg Eraser | web | 图片物体抹除和清理 | [官网](https://bgeraser.com/) |
 | SnapEdit | web | AI移除图片中的任何物体 | [官网](https://snapedit.app/) |
 | Cleanup.pictures | web | 智能移除图片中的物体、文本、污迹、人物或任何不想要的东西 | [官网](https://cleanup.pictures/) |
+| ClearCrowds | web | AI照片清理和图片编辑工具，可移除人群、物体、文字、眼镜眩光等画面干扰，并支持预设与提示词编辑 | [官网](https://www.clearcrowds.com) |
 | Cutout.Pro Retouch | web | Cutout.Pro推出的AI图片物体涂抹去除工具 | [官网](https://www.cutout.pro/zh-CN/image-retouch-remove-unwanted-objects) |
 | 蜜蜂剪辑 | web | AI去水印工具，支持图片和30+流行短视频平台 | [官网](https://beecut.cn/online-watermark-remover) |
 | HitPaw Watermark Remover | web | AI图片和视频去水印工具 | [官网](https://www.hitpaw.com/remove-watermark.html) |
@@ -1021,6 +1050,7 @@
 | Hitems | web | 数美万物推出的AI创意物品生成社区 | [官网](https://hitems.ai) |
 | VoxCraft | web | AI生成3D模型的工具 | [官网](https://voxcraft.ai) |
 | Meshy | web | AI快速从文本或图像生成3D模型 | [官网](https://www.meshy.ai) |
+| Luphra | web | Prompt-to-matter：文本/草图转可编辑3D并制造实体产品 | [官网](https://www.luphra.com/) |
 
 ---
 
@@ -1060,7 +1090,7 @@ git clone https://github.com/Rvelamen/Awesome-AI-Tools.git
 
 ## 📜 声明
 
-以下站点列表来源于网络收集，若有侵权请提 [Issues](https://github.com/lzwme/chatgpt-nav/issues) 处理。
+以下站点列表来源于网络收集，若有侵权请提 [Issues](https://github.com/Rvelamen/Awesome-AI-Tools/issues) 处理。
 
 
 
@@ -1068,4 +1098,4 @@ git clone https://github.com/Rvelamen/Awesome-AI-Tools.git
 
 ## 🤝 License
 
-MIT License | © 2025
+MIT License | © 2025–2026
