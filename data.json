@@ -2568,6 +2568,17 @@
     "id": "f37a1fc2-9c56-4af3-aa86-719c5b247a05"
   },
   {
+    "url": "https://withresumeai.com/",
+    "title": "ResumeAI",
+    "description": "AI简历生成与ATS简历检测工具",
+    "image": "https://withresumeai.com/favicon.ico",
+    "category": [
+      "招聘求职求职"
+    ],
+    "type": "web",
+    "id": "813b18d7-fb72-4522-90c3-657e29da3669"
+  },
+  {
     "url": "https://www.feishu.cn/paid/ai-register",
     "title": "飞书多维表格",
     "description": "表格形态的 AI 工作流搭建工具",
@@ -6782,6 +6793,17 @@
     ],
     "type": "web",
     "id": "6240da2b-ab81-4343-a017-409c8a84e21f"
+  },
+  {
+    "url": "https://luna-lisa.art",
+    "title": "Lunalisa",
+    "description": "AI创意工作台，13种图像模型+22种视频模型生成商品图、营销海报和白底listing图",
+    "image": "https://luna-lisa.art/lunalisa-mark.png",
+    "category": [
+      "商品图生成"
+    ],
+    "type": "web",
+    "id": "0af217ce-1db6-4a31-918c-209acb82a03c"
   },
   {
     "url": "https://www.tripo3d.ai",
