@@ -931,7 +931,7 @@
 | CodeFuse | web | 蚂蚁集团推出的AI代码编程助手 | [官网](https://codefuse.alipay.com) |
 | Tabby | web | 免费开源的自托管AI编程助手 | [官网](https://tabby.tabbyml.com) |
 | TeamoRouter | web | Claude Code/Codex LLM API 智能路由网关，一个Key接入所有主流模型，微信支付宝充值 | [官网](https://teamorouter.com?utm_source=github&utm_medium=issue&utm_campaign=round3&utm_content=awesome-ai-tools-cn) |
-| LuckyAPI | web | 多模型 API 网关，一个 Key 接入 OpenAI、Anthropic、Google 和 xAI 兼容接口，并提供实时模型目录与定价 | [官网](https://luckyapi.online/zh-cn) |
+| LuckyAPI | web | 多模型 API 网关，一个 Key 接入 OpenAI、Anthropic、Google 和 xAI 兼容接口，并提供实时模型目录与定价 | [官网](https://argolink.io/zh-cn) |
 | C知道 | web | CSDN推出的AI技术问答工具 | [官网](https://so.csdn.net/chat) |
 | 驭码CodeRider | web | 极狐GitLab推出的AI编程与软件智能研发助手 | [官网](https://coderider.gitlab.cn) |
 | Duo Chat | web | GitLab推出的AI编程助手 | [官网](https://about.gitlab.com/gitlab-duo) |
