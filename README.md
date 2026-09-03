@@ -605,6 +605,7 @@
 | 图生生 | web | 专为电商设计的AI商拍工具 | [官网](https://tushengsheng.com/home) |
 | WeShop唯象 | web | 蘑菇街推出的AI商拍工具 | [官网](https://www.weshop.com) |
 | PixGT | web | 跨境电商AI商拍工具，服装试穿、模特替换、配饰试戴 | [官网](https://www.pixgt.cn) |
+| Lunalisa | web | AI创意工作台，13种图像模型+22种视频模型生成商品图、营销海报和白底listing图 | [官网](https://luna-lisa.art) |
 
 ---
 ### 15. 设计工具

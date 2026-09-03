@@ -9324,5 +9324,16 @@
     "id": "071a3525-cc75-4508-a307-7368d8727dcf",
     "title": "WizGenerator Story Generator",
     "type": "web"
+  },
+  {
+    "url": "https://luna-lisa.art",
+    "description": "AI creative workspace for product photos, marketing posters, and white-background listing images across 13 image models and 22 video models",
+    "image": "https://luna-lisa.art/lunalisa-mark.png",
+    "category": [
+      "商品图生成"
+    ],
+    "id": "0af217ce-1db6-4a31-918c-209acb82a03c",
+    "title": "Lunalisa",
+    "type": "web"
   }
 ]
