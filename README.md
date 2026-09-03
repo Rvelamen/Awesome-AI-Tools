@@ -547,6 +547,7 @@
 | 蓝字典AI求职 | web | AI求职工具，提供AI简历生成、AI模拟面试服务 | [官网](https://www.lanzidian.com) |
 | 神笔简历 | web | AI简历云平台，专为求职者提供一站式求职服务 | [官网](https://jianli.jiuyeqiao.cn/#/index/index) |
 | YOO简历 | web | 必优科技推出的AI简历生成工具 | [官网](https://www.yoojober.com) |
+| ResumeAI | web | AI简历与免费ATS检测（匿名3次/天，免费账号10次/天）；State of ATS 2026（738家大雇主，704门户核实；Workday 37.9%） | [官网](https://withresumeai.com/) |
 
 ---
 ### 13. 效能工具
