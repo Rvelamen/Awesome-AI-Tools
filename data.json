@@ -17244,5 +17244,16 @@
     "id": "743532ba-b724-4c51-9475-cc733275df88",
     "title": "Pippit",
     "type": "web"
+  },
+  {
+    "url": "https://llmpulse.ai/",
+    "description": "AI搜索可见性分析平台，追踪品牌提及、引用、情感和竞品声量份额",
+    "image": "https://llmpulse.ai/assets/favicon/android-chrome-512x512-45fbd51c.png",
+    "category": [
+      "搜索引擎"
+    ],
+    "id": "390a4411-cedc-4243-be82-eb2911bf5a61",
+    "title": "LLM Pulse",
+    "type": "web"
   }
 ]
