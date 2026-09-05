@@ -51,6 +51,7 @@ for (const tool of tools) {
             image={resolveIcon(tool, base)}
             type={tool.type}
             badge={`#${i + 1}`}
+            added={addedDates[tool.id]}
             compact
           />
         ))

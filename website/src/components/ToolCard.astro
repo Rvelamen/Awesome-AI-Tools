@@ -13,6 +13,10 @@ interface Props {
 
 const { title, description, url, image, type, badge, added, compact, shot } = Astro.props;
 const letter = title.trim().charAt(0).toUpperCase();
+const d = added ? new Date(added * 1000) : null;
+const addedStr = d
+  ? `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
+  : '';
 ---
 
 <a
@@ -40,6 +44,7 @@ const letter = title.trim().charAt(0).toUpperCase();
     <span class="meta">
       <strong>{title}</strong>
       <span class="desc">{description}</span>
+      {addedStr && <span class="added">收录于 {addedStr}</span>}
     </span>
     {badge && (compact || !shot) && <span class="badge">{badge}</span>}
     {type && <span class="type">{type}</span>}

@@ -19,6 +19,7 @@
     shot?: string;
     type?: string;
     category: string[];
+    added?: number;
   }
 
   const input = document.getElementById('tool-search') as HTMLInputElement;
@@ -43,11 +44,17 @@
       ? `<span class="thumb"><img src="${esc(tool.shot)}" alt="" loading="lazy" onerror="this.parentElement.remove()" /></span>`
       : '';
     const type = tool.type ? `<span class="type">${esc(tool.type)}</span>` : '';
+    let addedStr = '';
+    if (tool.added) {
+      const d = new Date(tool.added * 1000);
+      addedStr = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+    }
+    const added = addedStr ? `<span class="added">收录于 ${addedStr}</span>` : '';
     return `<a class="card" href="${esc(tool.url)}" target="_blank" rel="noopener">
       ${thumb}
       <span class="body">
         <span class="icon"><span class="fallback">${letter}</span>${img}</span>
-        <span class="meta"><strong>${esc(tool.title)}</strong><span class="desc">${esc(tool.description)}</span></span>
+        <span class="meta"><strong>${esc(tool.title)}</strong><span class="desc">${esc(tool.description)}</span>${added}</span>
         ${type}</span></a>`;
   }
 
