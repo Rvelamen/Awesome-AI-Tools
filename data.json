@@ -17255,5 +17255,16 @@
     "id": "390a4411-cedc-4243-be82-eb2911bf5a61",
     "title": "LLM Pulse",
     "type": "web"
+  },
+  {
+    "url": "https://wsupai.app/",
+    "title": "WSUP AI",
+    "type": "web",
+    "description": "浏览器内 AI 角色聊天，无需注册，仅限 SFW",
+    "image": "https://wsupai.app/apple-touch-icon.png",
+    "category": [
+      "聊天助手"
+    ],
+    "id": "a3fef073-05af-4c8e-9d5f-4232b5e51eec"
   }
 ]
