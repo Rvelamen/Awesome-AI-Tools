@@ -17266,5 +17266,16 @@
       "聊天助手"
     ],
     "id": "a3fef073-05af-4c8e-9d5f-4232b5e51eec"
+  },
+  {
+    "url": "https://github.com/yylo-dev/yylo",
+    "description": "命令行编码代理编排器，编排Pi与Codex编码代理：类型化任务、验证、合并与发布就绪边界，每个任务运行在专用分支/worktree中，合并队列执行基于风险的审查",
+    "image": "https://raw.githubusercontent.com/yylo-dev/yylo/main/yylo-icon.png",
+    "category": [
+      "编程工具"
+    ],
+    "id": "e875064d-d0de-4157-a0cc-87249d2325e7",
+    "title": "YYLO CLI",
+    "type": "app"
   }
 ]
