@@ -17299,5 +17299,38 @@
     "id": "57d1bb75-240f-40f5-a1f4-6b3105430c3a",
     "title": "YYLO Benchmark",
     "type": "app"
+  },
+  {
+    "url": "https://innercanvas.app",
+    "title": "InnerCanvas",
+    "type": "web",
+    "description": "AI引导的绘画反思报告工具，基于房树人、树木、雨中人等绘画提示生成私密的自我觉察与日记反思报告，非诊断性工具",
+    "image": "",
+    "category": [
+      "效能工具"
+    ],
+    "id": "f6e29ae6-2ca8-47ee-8663-9a07745f30e9"
+  },
+  {
+    "url": "https://skillhub.cn",
+    "title": "TANCO SkillHub",
+    "type": "web",
+    "description": "可复用AI工作流Skill平台，提供证据审查、模块化交付、链式执行、上下文交接与执行护栏等代理工作流技能与运营模板",
+    "image": "",
+    "category": [
+      "智能体"
+    ],
+    "id": "c630aa5a-0f9a-4597-ad52-55c82b980657"
+  },
+  {
+    "url": "https://www.socialecho.cn/",
+    "title": "SocialEcho",
+    "type": "web",
+    "description": "AI驱动的社交媒体工作区，整合多平台内容创作与发布、互动管理、社媒聆听、数据分析与自动化",
+    "image": "",
+    "category": [
+      "效能工具"
+    ],
+    "id": "e8708d39-8a79-437e-b084-65fcbafbe0ce"
   }
 ]
