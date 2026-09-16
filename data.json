@@ -17288,5 +17288,16 @@
     "id": "e875064d-d0de-4157-a0cc-87249d2325e7",
     "title": "YYLO CLI",
     "type": "app"
+  },
+  {
+    "url": "https://github.com/yylo-dev/yylo-benchmark",
+    "description": "编码代理评测基准工具：隔离v2通道在私有全新仓库工作区中执行任务提示与工作流，治理通道经审查边界执行生产工作流并逐步盲评；负责用例规范化、尝试隔离、证据留存、评测来源与报告，命令行为yylo-benchmark",
+    "image": "https://raw.githubusercontent.com/yylo-dev/yylo-benchmark/main/assets/yylo-logo-square-neon-green.png",
+    "category": [
+      "编程工具"
+    ],
+    "id": "57d1bb75-240f-40f5-a1f4-6b3105430c3a",
+    "title": "YYLO Benchmark",
+    "type": "app"
   }
 ]
