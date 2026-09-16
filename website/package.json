@@ -1,0 +1,21 @@
+{
+  "name": "awesome-ai-tools-site",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "predev": "cp ../data.json ./data.json && bash scripts/fetch-icons.sh && node scripts/gen-dates.mjs",
+    "dev": "astro dev",
+    "prebuild": "cp ../data.json ./data.json && bash scripts/fetch-icons.sh && node scripts/gen-dates.mjs",
+    "build": "astro build",
+    "preview": "astro preview",
+    "shots": "node scripts/fetch-shots.mjs"
+  },
+  "dependencies": {
+    "astro": "^5.0.0",
+    "fuse.js": "^7.0.0"
+  },
+  "devDependencies": {
+    "playwright": "^1.62.1"
+  }
+}

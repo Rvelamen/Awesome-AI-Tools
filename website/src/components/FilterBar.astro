@@ -1,0 +1,54 @@
+---
+// Type filter chips + sort select for the surrounding .filterable section's
+// card grid. Cards must carry data-type / data-added / data-title (ToolCard
+// does this).
+interface Props {
+  types: string[];
+}
+
+const { types } = Astro.props;
+---
+
+<div class="filter-bar">
+  <div class="chips">
+    <button class="chip on" data-type="all" type="button">全部</button>
+    {types.map((t) => <button class="chip" data-type={t} type="button">{t}</button>)}
+  </div>
+  <select class="sort" aria-label="排序方式">
+    <option value="new">最新收录</option>
+    <option value="name">名称排序</option>
+  </select>
+</div>
+
+<script>
+  const bar = document.querySelector('.filter-bar');
+  if (bar) {
+    const scope = bar.closest('.filterable')!;
+    const grid = scope.querySelector('.grid')!;
+    const cards = [...grid.querySelectorAll<HTMLElement>('.card')];
+    const chips = [...bar.querySelectorAll<HTMLButtonElement>('.chip')];
+    const sortSel = bar.querySelector<HTMLSelectElement>('.sort')!;
+    let type = 'all';
+
+    function apply() {
+      const sorted = [...cards].sort((a, b) =>
+        sortSel.value === 'name'
+          ? a.dataset.title!.localeCompare(b.dataset.title!, 'zh')
+          : Number(b.dataset.added) - Number(a.dataset.added),
+      );
+      for (const card of sorted) {
+        card.hidden = type !== 'all' && card.dataset.type !== type;
+        grid.appendChild(card);
+      }
+    }
+
+    chips.forEach((chip) =>
+      chip.addEventListener('click', () => {
+        type = chip.dataset.type!;
+        chips.forEach((c) => c.classList.toggle('on', c === chip));
+        apply();
+      }),
+    );
+    sortSel.addEventListener('change', apply);
+  }
+</script>
