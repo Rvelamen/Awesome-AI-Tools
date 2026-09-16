@@ -17332,5 +17332,16 @@
       "效能工具"
     ],
     "id": "e8708d39-8a79-437e-b084-65fcbafbe0ce"
+  },
+  {
+    "url": "https://github.com/yylo-dev/yylo-ledger",
+    "description": "Git原生任务与记录存储，提供shell友好的命令行：面向开发者、自动化作者与编码代理工作流，提供可审查的当前状态、仅追加历史、依赖感知与有界查询，无需数据库作为事实来源；负责记录与任务历史，命令行为yylo-ledger",
+    "image": "https://raw.githubusercontent.com/yylo-dev/yylo-ledger/main/assets/yylo-logo-square-neon-green.png",
+    "category": [
+      "效能工具"
+    ],
+    "id": "6cfb47a2-30f4-406a-bc26-a9170177df04",
+    "title": "YYLO Ledger",
+    "type": "app"
   }
 ]
