@@ -255,6 +255,7 @@
 | 心流 | web | 阿里旗下推出的AI搜索助手 | [官网](https://iflow.cn) |
 | 秘塔AI搜索 | web | 最好用的AI搜索工具，没有广告，直达结果 | [官网](https://metaso.cn) |
 | Perplexity | web | 强大的对话式搜索引擎 | [官网](https://www.perplexity.ai) |
+| AI Tools Radar | web | AI工具导航与每日AI产业资讯站，帮助发现和跟踪AI产品 | [官网](https://aitoolsradar.com) |
 | SearchGPT | web | OpenAI最新推出的搜索引擎，内测开放 | [官网](https://chatgpt.com/) |
 | Flowith | web | 节点交互式AI搜索和对话工具 | [官网](https://flowith.net/blank) |
 | Genspark | web | 基于智能体的搜索引擎 | [官网](https://www.genspark.ai) |
