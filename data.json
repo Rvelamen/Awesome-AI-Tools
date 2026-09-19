@@ -17343,5 +17343,17 @@
     "id": "6cfb47a2-30f4-406a-bc26-a9170177df04",
     "title": "YYLO Ledger",
     "type": "app"
+  },
+  {
+    "url": "https://www.workforcewave.com/",
+    "title": "Workforce Wave",
+    "type": "web",
+    "description": "面向企业电话接听、预约和线索捕获的AI语音接待员",
+    "image": "https://www.workforcewave.com/favicon.ico",
+    "category": [
+      "智能体",
+      "音频工具"
+    ],
+    "id": "9ca1309e-0db9-4fcd-8b77-7a6fd43435bc"
   }
 ]
