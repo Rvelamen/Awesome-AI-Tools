@@ -17343,5 +17343,16 @@
     "id": "6cfb47a2-30f4-406a-bc26-a9170177df04",
     "title": "YYLO Ledger",
     "type": "app"
+  },
+  {
+    "url": "https://magichour.ai/",
+    "description": "AI视频创作与编辑平台，提供文本生成视频、图像生成视频、人脸替换、口型同步和动画工具",
+    "image": "https://magichour.ai/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "e8219d01-d9c7-4868-9503-22b238ee9dc5",
+    "title": "Magic Hour",
+    "type": "web"
   }
 ]
