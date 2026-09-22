@@ -17343,5 +17343,17 @@
     "id": "6cfb47a2-30f4-406a-bc26-a9170177df04",
     "title": "YYLO Ledger",
     "type": "app"
+  },
+  {
+    "url": "https://screenpipe.com",
+    "title": "Screenpipe",
+    "type": "app",
+    "description": "在本地采集屏幕文字与音频历史，支持搜索回顾、会议笔记和工作总结，并通过本地API与MCP为AI助手提供上下文。源码采用Screenpipe商业许可证；配置的云端AI、转写、同步或集成可将上下文传出设备。",
+    "image": "https://screenpipe.com/favicon.ico",
+    "category": [
+      "效能工具",
+      "会议工具"
+    ],
+    "id": "051156ad-7933-47f5-9040-ffe7e82c0a99"
   }
 ]
