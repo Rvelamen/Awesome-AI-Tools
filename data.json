@@ -17343,5 +17343,16 @@
     "id": "6cfb47a2-30f4-406a-bc26-a9170177df04",
     "title": "YYLO Ledger",
     "type": "app"
+  },
+  {
+    "url": "https://threadfox.vip",
+    "description": "面向 Claude Desktop、Claude Code 和 Codex 的 Reddit 推广工具：先读取每个子版块的规则，起草帖子和回复供用户批准，从用户自己的 Chrome 发布并复查每篇帖子；提供一次性付费工具包、代运营服务，以及开源免费的只读研究工具 ThreadFox Lite（MIT）。",
+    "image": "https://raw.githubusercontent.com/amflimited/threadfox-lite/main/icon.png",
+    "category": [
+      "智能体"
+    ],
+    "id": "d39a87dd-4025-469f-b397-f6b2b6a94262",
+    "title": "ThreadFox",
+    "type": "app"
   }
 ]
