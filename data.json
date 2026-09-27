@@ -17343,5 +17343,16 @@
     "id": "6cfb47a2-30f4-406a-bc26-a9170177df04",
     "title": "YYLO Ledger",
     "type": "app"
+  },
+  {
+    "url": "https://muse-me-avatar-beta.zhangwei798879.chatgpt.site/",
+    "title": "Muse Me",
+    "type": "web",
+    "description": "将一张本人或获授权照片转换为原创动漫风社交头像，提供无需注册的公开测试体验",
+    "image": "",
+    "category": [
+      "图片插画生成"
+    ],
+    "id": "bd338f3d-629f-4f61-8738-6e7373169ffb"
   }
 ]
