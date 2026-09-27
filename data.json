@@ -17343,5 +17343,16 @@
     "id": "6cfb47a2-30f4-406a-bc26-a9170177df04",
     "title": "YYLO Ledger",
     "type": "app"
+  },
+  {
+    "url": "https://kdpbook.io",
+    "title": "kdpbook.io",
+    "type": "web",
+    "description": "面向亚马逊 KDP 的 AI 图书工作室：在对话中描述一本书或导入自己的书稿，自动完成写作、插图和排版，导出内页 PDF、全包封面 PDF、Kindle EPUB 和上架信息表，支持绘本、涂色书、小说、非虚构等 36 种图书类型",
+    "image": "https://kdpbook.io/brand/kdpbook-icon-512.png",
+    "category": [
+      "写作工具"
+    ],
+    "id": "f1197088-b1b7-48a0-af87-fe1420520198"
   }
 ]
