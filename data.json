@@ -16344,6 +16344,17 @@
     "type": "web"
   },
   {
+    "url": "https://www.shortshort.io",
+    "title": "shortshort",
+    "type": "web",
+    "description": "将演讲、播客、课程等长视频剪成9:16竖屏短视频，按完整句子选取15至90秒片段，跟踪画面中的人脸重新构图，并添加逐词字幕",
+    "image": "https://www.shortshort.io/press/shortshort-logo.png",
+    "category": [
+      "视频工具"
+    ],
+    "id": "a750c024-33be-4a98-b97a-68d29ae8af93"
+  },
+  {
     "url": "https://www.meyo.life/skill",
     "description": "Agent 技能发现与安装平台",
     "image": "https://ai-bot.cn/wp-content/uploads/2026/08/DeepSkill-logo2.png",
