@@ -17343,5 +17343,16 @@
     "id": "6cfb47a2-30f4-406a-bc26-a9170177df04",
     "title": "YYLO Ledger",
     "type": "app"
+  },
+  {
+    "url": "https://github.com/Continuum-AI-Corp/OrcaReplay",
+    "description": "录制编码代理运行时与模型之间的请求与响应字节，之后可离线重放同一次运行而不再调用模型，也可从任意步骤起换另一个模型重跑并保持对话前缀不变，支持 Claude Code、Codex 等多种代理",
+    "image": "https://raw.githubusercontent.com/Continuum-AI-Corp/OrcaReplay/main/ORCAREPLAYLOGO.png",
+    "category": [
+      "编程工具"
+    ],
+    "id": "8679dd3b-9a54-4791-9e00-fd9fdc7372f2",
+    "title": "OrcaReplay",
+    "type": "app"
   }
 ]
