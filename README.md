@@ -70,6 +70,7 @@
 | Copilot | web | 微软推出的网页版Copilot助手 | [官网](https://copilot.microsoft.com/) |
 | Cursor | app | AI代码编辑器，快速进行编程和软件开发 | [官网](https://www.cursor.com) |
 | Midjourney | web | AI图像和插画生成工具 | [官网](https://www.midjourney.com/home) |
+| Raphael | web | 免费 AI 图像生成工具，支持文本生成图片 | [官网](https://raphael.app) |
 | 可灵AI | web | 快手推出的AI图像和视频创作平台 | [官网](https://klingai.kuaishou.com) |
 | 即梦AI | web | 字节跳动推出的一站式AI创作平台 | [官网](http://dis.csqixiang.cn/unpo/jimeng_1.html) |
 | Suno | web | 高质量的AI音乐创作平台 | [官网](https://www.suno.ai) |
