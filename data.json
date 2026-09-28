@@ -17389,5 +17389,49 @@
     "id": "e8219d01-d9c7-4868-9503-22b238ee9dc5",
     "title": "Magic Hour",
     "type": "web"
+  },
+  {
+    "url": "https://poe.com/DeployReview",
+    "description": "AI 代码审查机器人：粘贴代码或 diff，获得侧重安全、正确性与性能的高级工程师级审查，附带严重性分级与修复建议。",
+    "image": "https://poe.com/favicon.ico",
+    "category": [
+      "编程工具"
+    ],
+    "id": "a886c137-fcf8-4b12-be60-d71f9aa8ebd8",
+    "title": "DeployReview",
+    "type": "web"
+  },
+  {
+    "url": "https://poe.com/DiffExplainerHQ",
+    "description": "用通俗语言解释代码 diff 的 AI 机器人；可生成提交信息与事故可读的变更摘要。",
+    "image": "https://poe.com/favicon.ico",
+    "category": [
+      "编程工具"
+    ],
+    "id": "5996b9a0-c66e-45b9-853a-86f327f0e84d",
+    "title": "DiffExplainerHQ",
+    "type": "web"
+  },
+  {
+    "url": "https://poe.com/LLMAuditor",
+    "description": "面向开发者与 SEO 的 AI 审计机器人：检查网站的 llms.txt 与 agent-discovery 文件。",
+    "image": "https://poe.com/favicon.ico",
+    "category": [
+      "编程工具"
+    ],
+    "id": "b07b90d7-0d80-4eb4-a55a-f46d157f742f",
+    "title": "LLMAuditor",
+    "type": "web"
+  },
+  {
+    "url": "https://x402-extract-service.onrender.com",
+    "description": "面向编码 agent 的预部署审计 API：链接检查、llms.txt 审计与 HTTPS 迁移审计，每次运行最多 25 个 URL。",
+    "image": "https://x402-extract-service.onrender.com/favicon.ico",
+    "category": [
+      "编程工具"
+    ],
+    "id": "495f5de8-243c-4e3a-9614-7cefd432030e",
+    "title": "DeployCheck",
+    "type": "web"
   }
 ]
