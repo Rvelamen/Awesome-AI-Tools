@@ -17466,5 +17466,16 @@
     "id": "8679dd3b-9a54-4791-9e00-fd9fdc7372f2",
     "title": "OrcaReplay",
     "type": "app"
+  },
+  {
+    "url": "https://raphael.app",
+    "title": "Raphael",
+    "type": "web",
+    "description": "AI图像生成工具，支持文本描述生成图片",
+    "image": "https://raphael.app/favicon.ico",
+    "category": [
+      "图片插画生成"
+    ],
+    "id": "1f578d05-e5a0-4b97-bde4-dc5e55a0ef0c"
   }
 ]
