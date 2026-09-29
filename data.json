@@ -17477,5 +17477,16 @@
       "图片插画生成"
     ],
     "id": "1f578d05-e5a0-4b97-bde4-dc5e55a0ef0c"
+  },
+  {
+    "url": "https://summarizai.ink",
+    "title": "SummarizAI",
+    "type": "web",
+    "description": "Chrome extension for on-page YouTube AI summary, chapters, chat, and Study flashcards",
+    "image": "",
+    "category": [
+      "效能工具"
+    ],
+    "id": "fff7400b-29db-4911-bf00-340d6537d28c"
   }
 ]
