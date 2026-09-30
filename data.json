@@ -3446,10 +3446,11 @@
     "description": "用自然语言编写、运行和排查网页及移动应用测试，提供 CLI、仪表板和 MCP 服务器",
     "image": "https://raw.githubusercontent.com/vostride/agent-qa/main/packages/dashboard-ui/public/favicon.svg",
     "category": [
-      "编程工具"
+      "CLI 工具"
     ],
-    "type": "app",
-    "id": "56adbf4a-0b6a-4baa-8f0f-52ba91a6ef20"
+    "type": "cli",
+    "id": "56adbf4a-0b6a-4baa-8f0f-52ba91a6ef20",
+    "kind": "project"
   },
   {
     "url": "https://github.com/Ducksss/codex-profiles",
@@ -3457,10 +3458,11 @@
     "description": "切换命名的 Codex CLI 配置，并在 macOS 上启动具有独立本地状态的 ChatGPT 桌面窗口",
     "image": "https://raw.githubusercontent.com/Ducksss/codex-profiles/main/media/codex-profile-parallel-instances.png",
     "category": [
-      "编程工具"
+      "CLI 工具"
     ],
-    "type": "web",
-    "id": "45a28423-5399-47bc-9ddc-09b36fd00070"
+    "type": "cli",
+    "id": "45a28423-5399-47bc-9ddc-09b36fd00070",
+    "kind": "project"
   },
   {
     "url": "https://github.com/ofekron/better-agent",
@@ -3468,10 +3470,11 @@
     "description": "本地AI编程代理工作区，统一运行Claude、Codex和Gemini会话，支持并行分叉、任务委派与重启恢复",
     "image": "https://raw.githubusercontent.com/ofekron/better-agent/dev/frontend/public/icon-512.png",
     "category": [
-      "编程工具"
+      "代理应用"
     ],
     "type": "app",
-    "id": "3b0f1f28-7974-4bad-ba6c-1e0b0e9016f2"
+    "id": "3b0f1f28-7974-4bad-ba6c-1e0b0e9016f2",
+    "kind": "project"
   },
   {
     "url": "https://orkas.ai/?source=gh_rvelamen",
@@ -4403,10 +4406,11 @@
     "description": "",
     "image": "https://cdn.fanquanpintuan.cn/deepopen/avatar/d826544b-360f-44dc-b03a-8dd327f3038d.png",
     "category": [
-      "提示词工程"
+      "插件与扩展"
     ],
-    "type": "web",
-    "id": "eefc6d37-e358-4030-8204-3e982ce04c87"
+    "type": "plugin",
+    "id": "eefc6d37-e358-4030-8204-3e982ce04c87",
+    "kind": "project"
   },
   {
     "url": "https://promptbase.com",
@@ -16381,11 +16385,12 @@
     "description": "Vue 核心团队推出的 AI Agent 技能库",
     "image": "https://ai-bot.cn/wp-content/uploads/2026/06/vue-skills-logo.png",
     "category": [
-      "编程工具"
+      "Agent 技能"
     ],
     "id": "8b72f84c-4a44-4192-8d95-df12c1b6646b",
     "title": "vue-skills",
-    "type": "web"
+    "type": "skill",
+    "kind": "project"
   },
   {
     "url": "https://creator.xiaohongshu.com/login",
@@ -16425,22 +16430,24 @@
     "description": "\"Prompt之神\"李继刚开源的 AI 技能集",
     "image": "https://ai-bot.cn/wp-content/uploads/2026/06/ljg-skills-logo.png",
     "category": [
-      "编程工具"
+      "Agent 技能"
     ],
     "id": "a7aeaf22-31fa-4804-841e-6875d0c1934d",
     "title": "ljg-skills",
-    "type": "web"
+    "type": "skill",
+    "kind": "project"
   },
   {
     "url": "https://github.com/thedotmack/claude-mem",
     "description": "为Claude Code等AI编程助手提供持久化记忆能力的开源插件",
     "image": "https://ai-bot.cn/wp-content/uploads/2026/04/Claude-Mem-icon.png",
     "category": [
-      "编程工具"
+      "插件与扩展"
     ],
     "id": "47c086eb-92b5-4d0f-a565-b52fb11248a3",
     "title": "Claude-Mem",
-    "type": "web"
+    "type": "plugin",
+    "kind": "project"
   },
   {
     "url": "https://web-access.eze.is/",
@@ -16458,11 +16465,12 @@
     "description": "Jesse Vincent开源的 Agentic 技能框架与软件开发方法插件",
     "image": "https://ai-bot.cn/wp-content/uploads/2026/04/Superpowers-icon.png",
     "category": [
-      "编程工具"
+      "Agent 技能"
     ],
     "id": "9d948893-058d-492d-a886-d082e47f8d9f",
     "title": "Superpowers",
-    "type": "web"
+    "type": "skill",
+    "kind": "project"
   },
   {
     "url": "https://agent-browser.dev/",
@@ -16491,11 +16499,12 @@
     "description": "Matt Pocock推出的 AI Agent 技能库",
     "image": "https://ai-bot.cn/wp-content/uploads/2026/06/Skills-For-Real-Engineers-logo.png",
     "category": [
-      "编程工具"
+      "Agent 技能"
     ],
     "id": "34702e8c-517d-4888-ba16-e8bc5eb25303",
     "title": "Skills For Real Engineers",
-    "type": "web"
+    "type": "skill",
+    "kind": "project"
   },
   {
     "url": "https://www.tasteskill.dev/",
@@ -16535,33 +16544,36 @@
     "description": "数字生命卡兹克开源的 AI Skills 合集",
     "image": "https://ai-bot.cn/wp-content/uploads/2026/04/Khazix-Skills-logo.png",
     "category": [
-      "编程工具"
+      "Agent 技能"
     ],
     "id": "1f05bbd9-d518-43a1-9683-3997b0c29e47",
     "title": "卡兹克.skill",
-    "type": "web"
+    "type": "skill",
+    "kind": "project"
   },
   {
     "url": "https://github.com/anthropics/skills/tree/main/skills/frontend-design",
     "description": "Anthropic推出的前端设计Skill",
     "image": "https://ai-bot.cn/wp-content/uploads/2026/05/frontend-design-logo.png",
     "category": [
-      "编程工具"
+      "Agent 技能"
     ],
     "id": "59cf3e50-f3b1-4f82-af4a-6bfc304fe868",
     "title": "frontend-design",
-    "type": "web"
+    "type": "skill",
+    "kind": "project"
   },
   {
     "url": "https://github.com/virgiliojr94/book-to-skill",
     "description": "开源的结构化 AI 资料转换技能库",
     "image": "https://ai-bot.cn/wp-content/uploads/2026/06/book-to-skill-icon.png",
     "category": [
-      "编程工具"
+      "Agent 技能"
     ],
     "id": "bd8d94b0-0761-4039-b1bd-8530e98c1465",
     "title": "book-to-skill",
-    "type": "web"
+    "type": "skill",
+    "kind": "project"
   },
   {
     "url": "https://nv-wa-skill.lol/zh",
@@ -16579,22 +16591,24 @@
     "description": "微软官方推出的自动化工具集合",
     "image": "https://ai-bot.cn/wp-content/uploads/2026/06/Azure-Skills-logo.png",
     "category": [
-      "编程工具"
+      "Agent 技能"
     ],
     "id": "db5da5ff-ebf8-450a-ab35-17326c13195d",
     "title": "Azure skills",
-    "type": "web"
+    "type": "skill",
+    "kind": "project"
   },
   {
     "url": "https://github.com/OpenSenseNova/SenseNova-Skills",
     "description": "商汤科技开源的模块化 AI 办公技能库",
     "image": "https://ai-bot.cn/wp-content/uploads/2026/06/SenseNova-Skills-icon.png",
     "category": [
-      "编程工具"
+      "Agent 技能"
     ],
     "id": "c4880523-2117-400b-be0c-d4da606924f5",
     "title": "SenseNova-Skills",
-    "type": "web"
+    "type": "skill",
+    "kind": "project"
   },
   {
     "url": "https://aigcarena.com/",
@@ -17294,22 +17308,24 @@
     "description": "命令行编码代理编排器，编排Pi与Codex编码代理：类型化任务、验证、合并与发布就绪边界，每个任务运行在专用分支/worktree中，合并队列执行基于风险的审查",
     "image": "https://raw.githubusercontent.com/yylo-dev/yylo/main/yylo-icon.png",
     "category": [
-      "编程工具"
+      "CLI 工具"
     ],
     "id": "e875064d-d0de-4157-a0cc-87249d2325e7",
     "title": "YYLO CLI",
-    "type": "app"
+    "type": "cli",
+    "kind": "project"
   },
   {
     "url": "https://github.com/yylo-dev/yylo-benchmark",
     "description": "编码代理评测基准工具：隔离v2通道在私有全新仓库工作区中执行任务提示与工作流，治理通道经审查边界执行生产工作流并逐步盲评；负责用例规范化、尝试隔离、证据留存、评测来源与报告，命令行为yylo-benchmark",
     "image": "https://raw.githubusercontent.com/yylo-dev/yylo-benchmark/main/assets/yylo-logo-square-neon-green.png",
     "category": [
-      "编程工具"
+      "CLI 工具"
     ],
     "id": "57d1bb75-240f-40f5-a1f4-6b3105430c3a",
     "title": "YYLO Benchmark",
-    "type": "app"
+    "type": "cli",
+    "kind": "project"
   },
   {
     "url": "https://innercanvas.app",
@@ -17349,11 +17365,12 @@
     "description": "Git原生任务与记录存储，提供shell友好的命令行：面向开发者、自动化作者与编码代理工作流，提供可审查的当前状态、仅追加历史、依赖感知与有界查询，无需数据库作为事实来源；负责记录与任务历史，命令行为yylo-ledger",
     "image": "https://raw.githubusercontent.com/yylo-dev/yylo-ledger/main/assets/yylo-logo-square-neon-green.png",
     "category": [
-      "效能工具"
+      "CLI 工具"
     ],
     "id": "6cfb47a2-30f4-406a-bc26-a9170177df04",
     "title": "YYLO Ledger",
-    "type": "app"
+    "type": "cli",
+    "kind": "project"
   },
   {
     "url": "https://www.workforcewave.com/",
@@ -17461,11 +17478,12 @@
     "description": "录制编码代理运行时与模型之间的请求与响应字节，之后可离线重放同一次运行而不再调用模型，也可从任意步骤起换另一个模型重跑并保持对话前缀不变，支持 Claude Code、Codex 等多种代理",
     "image": "https://raw.githubusercontent.com/Continuum-AI-Corp/OrcaReplay/main/ORCAREPLAYLOGO.png",
     "category": [
-      "编程工具"
+      "CLI 工具"
     ],
     "id": "8679dd3b-9a54-4791-9e00-fd9fdc7372f2",
     "title": "OrcaReplay",
-    "type": "app"
+    "type": "cli",
+    "kind": "project"
   },
   {
     "url": "https://raphael.app",
@@ -17492,23 +17510,25 @@
   {
     "url": "https://github.com/runapi-ai/mcp",
     "title": "RunAPI MCP Server",
-    "type": "app",
+    "type": "mcp",
     "description": "面向AI代理的MCP服务器，可发现RunAPI模型并执行图像、视频、音乐、音频及其他模型API任务",
-    "image": "",
+    "image": "https://github.com/runapi-ai.png",
     "category": [
-      "编程工具"
+      "MCP 服务"
     ],
-    "id": "3ba85d13-cf55-4c2e-92c7-05507b53b82c"
+    "id": "3ba85d13-cf55-4c2e-92c7-05507b53b82c",
+    "kind": "project"
   },
   {
     "url": "https://github.com/louis030195/hyperconsciousness",
     "title": "Hyperconsciousness",
     "description": "开发者 Alpha 阶段的加密追加式知识库，提供 Rust CLI、MCP 服务、设备同步及有范围和时效限制的访问授权",
-    "image": "https://opengraph.githubassets.com/1/louis030195/hyperconsciousness",
+    "image": "https://github.com/louis030195.png",
     "category": [
-      "编程工具"
+      "开发库"
     ],
-    "type": "app",
-    "id": "ff5f6474-9434-4ed2-8880-716314aff603"
+    "type": "library",
+    "id": "ff5f6474-9434-4ed2-8880-716314aff603",
+    "kind": "project"
   }
 ]
