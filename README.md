@@ -1,6 +1,6 @@
 # 🚀 Awesome AI Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/Rvelamen/Awesome-AI-Tools?style=social)](https://github.com/Rvelamen/Awesome-AI-Tools)
 
-> 一个持续更新的AI工具全景图，涵盖大语言模型（LLM）、Agent框架、开发工具等资源，目前收录 **1563** 个工具、**29** 个分类
+> 一个持续更新的AI工具全景图，涵盖大语言模型（LLM）、Agent框架、开发工具等资源，目前收录 **1587** 个工具、**29** 个分类
 
 > ⭐ 如果这份清单对你有帮助，欢迎在 GitHub 右上角点一个 **Star**，让更多人和 Agent 发现它。
 
@@ -38,20 +38,20 @@
 
 | 分类 | 数量 | | 分类 | 数量 |
 | --- | ---: | --- | --- | ---: |
-| [编程工具](https://rvelamen.github.io/Awesome-AI-Tools/category/编程工具/) | 208 | | [商品图生成](https://rvelamen.github.io/Awesome-AI-Tools/category/商品图生成/) | 35 |
-| [视频工具](https://rvelamen.github.io/Awesome-AI-Tools/category/视频工具/) | 197 | | [背景消除](https://rvelamen.github.io/Awesome-AI-Tools/category/背景消除/) | 33 |
+| [编程工具](https://rvelamen.github.io/Awesome-AI-Tools/category/编程工具/) | 217 | | [商品图生成](https://rvelamen.github.io/Awesome-AI-Tools/category/商品图生成/) | 35 |
+| [视频工具](https://rvelamen.github.io/Awesome-AI-Tools/category/视频工具/) | 199 | | [背景消除](https://rvelamen.github.io/Awesome-AI-Tools/category/背景消除/) | 33 |
 | [图像工具](https://rvelamen.github.io/Awesome-AI-Tools/category/图像工具/) | 94 | | [招聘求职求职](https://rvelamen.github.io/Awesome-AI-Tools/category/招聘求职求职/) | 31 |
 | [设计工具](https://rvelamen.github.io/Awesome-AI-Tools/category/设计工具/) | 94 | | [提示词工程](https://rvelamen.github.io/Awesome-AI-Tools/category/提示词工程/) | 30 |
-| [智能体](https://rvelamen.github.io/Awesome-AI-Tools/category/智能体/) | 93 | | [内容检测](https://rvelamen.github.io/Awesome-AI-Tools/category/内容检测/) | 28 |
-| [音频工具](https://rvelamen.github.io/Awesome-AI-Tools/category/音频工具/) | 93 | | [学习网站](https://rvelamen.github.io/Awesome-AI-Tools/category/学习网站/) | 26 |
-| [写作工具](https://rvelamen.github.io/Awesome-AI-Tools/category/写作工具/) | 81 | | [翻译](https://rvelamen.github.io/Awesome-AI-Tools/category/翻译/) | 26 |
-| [图片插画生成](https://rvelamen.github.io/Awesome-AI-Tools/category/图片插画生成/) | 78 | | [图片无损放大](https://rvelamen.github.io/Awesome-AI-Tools/category/图片无损放大/) | 25 |
-| [效能工具](https://rvelamen.github.io/Awesome-AI-Tools/category/效能工具/) | 75 | | [表格](https://rvelamen.github.io/Awesome-AI-Tools/category/表格/) | 25 |
-| [聊天助手](https://rvelamen.github.io/Awesome-AI-Tools/category/聊天助手/) | 71 | | [思维导图](https://rvelamen.github.io/Awesome-AI-Tools/category/思维导图/) | 21 |
+| [智能体](https://rvelamen.github.io/Awesome-AI-Tools/category/智能体/) | 95 | | [内容检测](https://rvelamen.github.io/Awesome-AI-Tools/category/内容检测/) | 28 |
+| [音频工具](https://rvelamen.github.io/Awesome-AI-Tools/category/音频工具/) | 94 | | [学习网站](https://rvelamen.github.io/Awesome-AI-Tools/category/学习网站/) | 26 |
+| [写作工具](https://rvelamen.github.io/Awesome-AI-Tools/category/写作工具/) | 82 | | [翻译](https://rvelamen.github.io/Awesome-AI-Tools/category/翻译/) | 26 |
+| [图片插画生成](https://rvelamen.github.io/Awesome-AI-Tools/category/图片插画生成/) | 80 | | [图片无损放大](https://rvelamen.github.io/Awesome-AI-Tools/category/图片无损放大/) | 25 |
+| [效能工具](https://rvelamen.github.io/Awesome-AI-Tools/category/效能工具/) | 80 | | [表格](https://rvelamen.github.io/Awesome-AI-Tools/category/表格/) | 25 |
+| [聊天助手](https://rvelamen.github.io/Awesome-AI-Tools/category/聊天助手/) | 72 | | [思维导图](https://rvelamen.github.io/Awesome-AI-Tools/category/思维导图/) | 21 |
 | [PPT](https://rvelamen.github.io/Awesome-AI-Tools/category/PPT/) | 48 | | [图片优化修复](https://rvelamen.github.io/Awesome-AI-Tools/category/图片优化修复/) | 20 |
-| [搜索引擎](https://rvelamen.github.io/Awesome-AI-Tools/category/搜索引擎/) | 46 | | [图片物体擦除](https://rvelamen.github.io/Awesome-AI-Tools/category/图片物体擦除/) | 18 |
+| [搜索引擎](https://rvelamen.github.io/Awesome-AI-Tools/category/搜索引擎/) | 48 | | [图片物体擦除](https://rvelamen.github.io/Awesome-AI-Tools/category/图片物体擦除/) | 18 |
 | [训练模型](https://rvelamen.github.io/Awesome-AI-Tools/category/训练模型/) | 42 | | [3D模型生成](https://rvelamen.github.io/Awesome-AI-Tools/category/3D模型生成/) | 15 |
-| [文档工具](https://rvelamen.github.io/Awesome-AI-Tools/category/文档工具/) | 37 | | [会议工具](https://rvelamen.github.io/Awesome-AI-Tools/category/会议工具/) | 13 |
+| [文档工具](https://rvelamen.github.io/Awesome-AI-Tools/category/文档工具/) | 37 | | [会议工具](https://rvelamen.github.io/Awesome-AI-Tools/category/会议工具/) | 14 |
 | | | | [法律助手](https://rvelamen.github.io/Awesome-AI-Tools/category/法律助手/) | 13 |
 
 ---
