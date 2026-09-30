@@ -17499,5 +17499,16 @@
       "编程工具"
     ],
     "id": "3ba85d13-cf55-4c2e-92c7-05507b53b82c"
+  },
+  {
+    "url": "https://github.com/louis030195/hyperconsciousness",
+    "title": "Hyperconsciousness",
+    "description": "开发者 Alpha 阶段的加密追加式知识库，提供 Rust CLI、MCP 服务、设备同步及有范围和时效限制的访问授权",
+    "image": "https://opengraph.githubassets.com/1/louis030195/hyperconsciousness",
+    "category": [
+      "编程工具"
+    ],
+    "type": "app",
+    "id": "ff5f6474-9434-4ed2-8880-716314aff603"
   }
 ]
