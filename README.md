@@ -1,6 +1,6 @@
 # 🚀 Awesome AI Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/Rvelamen/Awesome-AI-Tools?style=social)](https://github.com/Rvelamen/Awesome-AI-Tools)
 
-> 一个持续更新的AI工具全景图，涵盖大语言模型（LLM）、Agent框架、开发工具等资源，目前收录 **1587** 个工具、**29** 个分类
+> 一个持续更新的AI工具全景图，涵盖大语言模型（LLM）、Agent框架、开发工具等资源，目前收录 **1567** 个 AI 工具与 **20** 个开源项目、**35** 个分类
 
 > ⭐ 如果这份清单对你有帮助，欢迎在 GitHub 右上角点一个 **Star**，让更多人和 Agent 发现它。
 
@@ -54,6 +54,17 @@
 | [文档工具](https://rvelamen.github.io/Awesome-AI-Tools/category/文档工具/) | 37 | | [会议工具](https://rvelamen.github.io/Awesome-AI-Tools/category/会议工具/) | 14 |
 | | | | [法律助手](https://rvelamen.github.io/Awesome-AI-Tools/category/法律助手/) | 13 |
 
+网站另设独立的 [开源项目栏目](https://rvelamen.github.io/Awesome-AI-Tools/projects/)，收录优秀的开源项目（Agent 技能、CLI 工具、插件等），卡片自动展示 star 数、语言与 license：
+
+| 项目分类 | 数量 |
+| --- | ---: |
+| [Agent 技能](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/Agent%20技能/) | 9 |
+| [CLI 工具](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/CLI%20工具/) | 6 |
+| [插件与扩展](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/插件与扩展/) | 2 |
+| [代理应用](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/代理应用/) | 1 |
+| [MCP 服务](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/MCP%20服务/) | 1 |
+| [开发库](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/开发库/) | 1 |
+
 ---
 
 ## ⭐ 精选工具
@@ -105,6 +116,7 @@
     "image": "",
     "category": [
     ],
+    "kind": "",	// 可选：开源项目设为 "project"，缺省为工具
     "id": ""	// uuid
 }
 ```
@@ -114,6 +126,7 @@
 - 描述保持客观，避免无法核实的宣传性表述
 - `id` 必须是目录中未使用过的 UUID
 - `category` 请优先使用已有的分类名称（见上方分类概览）
+- 开源项目条目请设置 `"kind": "project"`，并使用项目侧分类（Agent 技能 / CLI 工具 / 插件与扩展 / 代理应用 / MCP 服务 / 开发库）；GitHub 仓库的 star 数、语言、license 由网站构建时自动获取，无需写入条目
 - 提交前运行 `jq empty data.json` 确认 JSON 合法
 
 ---
