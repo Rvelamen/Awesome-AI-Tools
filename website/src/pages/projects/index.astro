@@ -1,0 +1,87 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ProjectCard from '../../components/ProjectCard.astro';
+import FilterBar from '../../components/FilterBar.astro';
+import { projects, catCounts } from '../../lib/catalog';
+import { resolveIcon } from '../../lib/icons';
+import { resolveShot } from '../../lib/shots';
+import { addedDates } from '../../lib/dates';
+import { loadRepoMeta } from '../../lib/github';
+
+const base = import.meta.env.BASE_URL;
+
+const featuredTitles = [
+  'Superpowers', 'vue-skills', 'ljg-skills', 'Claude-Mem',
+  '卡兹克.skill', 'frontend-design', 'Azure skills', 'SenseNova-Skills',
+];
+const featured = featuredTitles
+  .map((t) => projects.find((p) => p.title === t))
+  .filter((p): p is (typeof projects)[number] => Boolean(p));
+
+const recent = [...projects]
+  .filter((p) => addedDates[p.id])
+  .sort((a, b) => addedDates[b.id] - addedDates[a.id])
+  .slice(0, 12);
+
+const recentTypes = [...new Set(recent.map((p) => p.type).filter(Boolean))] as string[];
+
+const metas = await loadRepoMeta([...featured, ...recent].map((p) => p.url));
+const categories = catCounts(projects);
+---
+
+<Layout
+  title="开源项目 - Awesome AI Tools"
+  description="精选开源 AI 项目：Agent 技能、CLI 工具、插件与扩展、MCP 服务和开发库"
+  active="__projects"
+>
+  <div class="page-head" data-default-content>
+    <h1>优秀开源项目</h1>
+    <p>收录 {projects.length} 个开源项目，覆盖 {categories.length} 个分类，持续更新</p>
+  </div>
+
+  <section class="featured" data-default-content>
+    <div class="sec-head">
+      <h2 class="section-title">精选项目</h2>
+    </div>
+    <div class="strip">
+      {
+        featured.map((project, i) => (
+          <ProjectCard
+            title={project.title}
+            description={project.description}
+            url={project.url}
+            image={resolveIcon(project, base)}
+            type={project.type}
+            badge={`#${i + 1}`}
+            added={addedDates[project.id]}
+            compact
+            meta={metas.get(project.url)}
+          />
+        ))
+      }
+    </div>
+  </section>
+
+  <section class="filterable" data-default-content>
+    <div class="sec-head">
+      <h2 class="section-title">最近收录</h2>
+    </div>
+    <FilterBar types={recentTypes} />
+    <div class="grid">
+      {
+        recent.map((project) => (
+          <ProjectCard
+            title={project.title}
+            description={project.description}
+            url={project.url}
+            image={resolveIcon(project, base)}
+            type={project.type}
+            added={addedDates[project.id]}
+            shot={resolveShot(project, base)}
+            meta={metas.get(project.url)}
+          />
+        ))
+      }
+    </div>
+  </section>
+</Layout>

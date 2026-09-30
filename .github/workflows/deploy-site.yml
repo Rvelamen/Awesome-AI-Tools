@@ -36,6 +36,7 @@ jobs:
         env:
           SITE_URL: https://rvelamen.github.io
           SITE_BASE: /Awesome-AI-Tools/
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # star/language/license lookups in src/lib/github.ts
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

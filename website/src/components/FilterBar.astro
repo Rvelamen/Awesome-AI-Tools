@@ -1,18 +1,36 @@
 ---
-// Type filter chips + sort select for the surrounding .filterable section's
-// card grid. Cards must carry data-type / data-added / data-title (ToolCard
-// does this).
+// Optional kind chips (工具/开源项目) + type filter chips + sort select for
+// the surrounding .filterable section's card grid. Cards must carry
+// data-type / data-kind / data-added / data-title (ToolCard and ProjectCard
+// do this). Kind chips render only when `kinds` has more than one entry.
 interface Props {
   types: string[];
+  kinds?: string[];
 }
 
-const { types } = Astro.props;
+const { types, kinds } = Astro.props;
+const kindLabels: Record<string, string> = { tool: '工具', project: '开源项目' };
+const showKinds = !!kinds && kinds.length > 1;
 ---
 
 <div class="filter-bar">
-  <div class="chips">
-    <button class="chip on" data-type="all" type="button">全部</button>
-    {types.map((t) => <button class="chip" data-type={t} type="button">{t}</button>)}
+  <div class="chips-rows">
+    {
+      showKinds && (
+        <div class="chips kind-chips">
+          <button class="chip on" data-kind="all" type="button">全部</button>
+          {kinds!.map((k) => (
+            <button class="chip" data-kind={k} type="button">
+              {kindLabels[k] ?? k}
+            </button>
+          ))}
+        </div>
+      )
+    }
+    <div class="chips type-chips">
+      <button class="chip on" data-type="all" type="button">全部</button>
+      {types.map((t) => <button class="chip" data-type={t} type="button">{t}</button>)}
+    </div>
   </div>
   <select class="sort" aria-label="排序方式">
     <option value="new">最新收录</option>
@@ -26,9 +44,11 @@ const { types } = Astro.props;
     const scope = bar.closest('.filterable')!;
     const grid = scope.querySelector('.grid')!;
     const cards = [...grid.querySelectorAll<HTMLElement>('.card')];
-    const chips = [...bar.querySelectorAll<HTMLButtonElement>('.chip')];
+    const typeChips = [...bar.querySelectorAll<HTMLButtonElement>('.type-chips .chip')];
+    const kindChips = [...bar.querySelectorAll<HTMLButtonElement>('.kind-chips .chip')];
     const sortSel = bar.querySelector<HTMLSelectElement>('.sort')!;
     let type = 'all';
+    let kind = 'all';
 
     function apply() {
       const sorted = [...cards].sort((a, b) =>
@@ -36,19 +56,28 @@ const { types } = Astro.props;
           ? a.dataset.title!.localeCompare(b.dataset.title!, 'zh')
           : Number(b.dataset.added) - Number(a.dataset.added),
       );
+      let visible = 0;
       for (const card of sorted) {
-        card.hidden = type !== 'all' && card.dataset.type !== type;
+        const typeOk = type === 'all' || card.dataset.type === type;
+        const kindOk = kind === 'all' || card.dataset.kind === kind;
+        card.hidden = !(typeOk && kindOk);
+        if (!card.hidden) visible++;
         grid.appendChild(card);
       }
+      grid.classList.toggle('all-hidden', visible === 0);
     }
 
-    chips.forEach((chip) =>
-      chip.addEventListener('click', () => {
-        type = chip.dataset.type!;
-        chips.forEach((c) => c.classList.toggle('on', c === chip));
-        apply();
-      }),
-    );
+    function bindChips(chips: HTMLButtonElement[], set: (v: string) => void) {
+      chips.forEach((chip) =>
+        chip.addEventListener('click', () => {
+          set(chip.dataset.type ?? chip.dataset.kind!);
+          chips.forEach((c) => c.classList.toggle('on', c === chip));
+          apply();
+        }),
+      );
+    }
+    bindChips(typeChips, (v) => (type = v));
+    bindChips(kindChips, (v) => (kind = v));
     sortSel.addEventListener('change', apply);
   }
 </script>

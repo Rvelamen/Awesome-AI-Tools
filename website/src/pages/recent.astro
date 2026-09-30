@@ -1,19 +1,27 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import ToolCard from '../components/ToolCard.astro';
+import ProjectCard from '../components/ProjectCard.astro';
 import FilterBar from '../components/FilterBar.astro';
-import tools from '../../data.json';
+import { entries, isProject } from '../lib/catalog';
 import { resolveIcon } from '../lib/icons';
 import { resolveShot } from '../lib/shots';
 import { addedDates } from '../lib/dates';
+import { loadRepoMeta } from '../lib/github';
 
 const base = import.meta.env.BASE_URL;
 
-const recent = [...tools]
+const recent = [...entries]
   .filter((t) => addedDates[t.id])
   .sort((a, b) => addedDates[b.id] - addedDates[a.id]);
 
 const types = [...new Set(recent.map((t) => t.type).filter(Boolean))] as string[];
+const projectMetas = await loadRepoMeta(
+  recent.filter(isProject).map((t) => t.url),
+);
+
+const toolCount = recent.filter((t) => !isProject(t)).length;
+const projectCount = recent.length - toolCount;
 
 const DAY = 86400;
 const formatDate = (ts: number) => {
@@ -32,27 +40,41 @@ const formatDate = (ts: number) => {
 };
 ---
 
-<Layout title="最近新增 - Awesome AI Tools" description="最新收录的 AI 工具" active="__recent">
+<Layout title="最近新增 - Awesome AI Tools" description="最新收录的 AI 工具与开源项目" active="__recent">
   <div class="page-head" data-default-content>
     <h1>最新收录</h1>
-    <p>按收录时间排序，共 {recent.length} 个工具</p>
+    <p>按收录时间排序，共 {recent.length} 条（工具 {toolCount} · 开源项目 {projectCount}）</p>
   </div>
   <section class="filterable" data-default-content>
-    <FilterBar types={types} />
+    <FilterBar types={types} kinds={['tool', 'project']} />
     <div class="grid">
       {
-        recent.map((tool) => (
-          <ToolCard
-            title={tool.title}
-            description={tool.description}
-            url={tool.url}
-            image={resolveIcon(tool, base)}
-            type={tool.type}
-            badge={formatDate(addedDates[tool.id])}
-            added={addedDates[tool.id]}
-            shot={resolveShot(tool, base)}
-          />
-        ))
+        recent.map((entry) =>
+          isProject(entry) ? (
+            <ProjectCard
+              title={entry.title}
+              description={entry.description}
+              url={entry.url}
+              image={resolveIcon(entry, base)}
+              type={entry.type}
+              badge={formatDate(addedDates[entry.id])}
+              added={addedDates[entry.id]}
+              shot={resolveShot(entry, base)}
+              meta={projectMetas.get(entry.url)}
+            />
+          ) : (
+            <ToolCard
+              title={entry.title}
+              description={entry.description}
+              url={entry.url}
+              image={resolveIcon(entry, base)}
+              type={entry.type}
+              badge={formatDate(addedDates[entry.id])}
+              added={addedDates[entry.id]}
+              shot={resolveShot(entry, base)}
+            />
+          ),
+        )
       }
     </div>
   </section>

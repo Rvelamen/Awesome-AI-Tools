@@ -2,14 +2,13 @@
 import Layout from '../../layouts/Layout.astro';
 import ToolCard from '../../components/ToolCard.astro';
 import FilterBar from '../../components/FilterBar.astro';
-import tools from '../../../data.json';
+import { tools, catCounts } from '../../lib/catalog';
 import { resolveIcon } from '../../lib/icons';
 import { resolveShot } from '../../lib/shots';
 import { addedDates } from '../../lib/dates';
 
 export function getStaticPaths() {
-  const categories = [...new Set(tools.flatMap((t) => t.category))];
-  return categories.map((category) => ({
+  return catCounts(tools).map(([category]) => ({
     params: { category },
     props: {
       category,

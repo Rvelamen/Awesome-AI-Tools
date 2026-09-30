@@ -1,0 +1,107 @@
+---
+interface RepoMeta {
+  stars?: number;
+  language?: string;
+  license?: string;
+}
+
+interface Props {
+  title: string;
+  description: string;
+  url: string;
+  image?: string;
+  type?: string;
+  badge?: string;
+  added?: number;
+  compact?: boolean; // no repo screenshot (for curated/ranked strips)
+  shot?: string; // resolved thumbnail URL (local public/shots or mshots fallback)
+  meta?: RepoMeta; // build-time GitHub API metadata (stars/language/license)
+}
+
+const { title, description, url, image, type, badge, added, compact, shot, meta } = Astro.props;
+const letter = title.trim().charAt(0).toUpperCase();
+const d = added ? new Date(added * 1000) : null;
+const addedStr = d
+  ? `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
+  : '';
+
+// github.com/linguist colors for the languages that actually appear here;
+// anything else falls back to the dim text color.
+const LANG_COLORS: Record<string, string> = {
+  TypeScript: '#3178c6',
+  JavaScript: '#f1e05a',
+  Python: '#3572A5',
+  Rust: '#dea584',
+  Go: '#00ADD8',
+  Vue: '#41b883',
+  Shell: '#89e051',
+  Java: '#b07219',
+  'C++': '#f34b7d',
+  C: '#555555',
+  'C#': '#178600',
+  Ruby: '#701516',
+  Swift: '#F05138',
+  Kotlin: '#A97BFF',
+  Zig: '#ec915c',
+  Lua: '#000080',
+  HTML: '#e34c26',
+  CSS: '#563d7c',
+  MDX: '#fcb32c',
+  Astro: '#ff5a03',
+  Svelte: '#ff3e00',
+  Nix: '#7e7eff',
+  PowerShell: '#012456',
+};
+const langColor = meta?.language ? (LANG_COLORS[meta.language] ?? 'var(--text-dim)') : '';
+const stars =
+  meta?.stars == null
+    ? ''
+    : meta.stars >= 1000
+      ? `${(meta.stars / 1000).toFixed(meta.stars >= 10000 ? 0 : 1).replace(/\.0$/, '')}k`
+      : String(meta.stars);
+---
+
+<a
+  class="card"
+  href={url}
+  target="_blank"
+  rel="noopener"
+  data-type={type ?? ''}
+  data-kind="project"
+  data-added={added ?? 0}
+  data-title={title}
+>
+  {
+    !compact && shot && (
+      <span class="thumb">
+        <img src={shot} alt="" loading="lazy" onerror="this.parentElement.remove()" />
+        {badge && <span class="thumb-badge">{badge}</span>}
+      </span>
+    )
+  }
+  <span class="body">
+    <span class="icon">
+      <span class="fallback">{letter}</span>
+      {image && <img src={image} alt="" width="40" height="40" loading="lazy" onerror="this.remove()" />}
+    </span>
+    <span class="meta">
+      <strong>{title}</strong>
+      <span class="desc">{description}</span>
+      {(langColor || stars || meta?.license) && (
+        <span class="repo-meta">
+          {meta?.language && (
+            <span class="lang">
+              <i style={`background:${langColor}`} />
+              {meta.language}
+            </span>
+          )}
+          {stars && <span class="stars">★ {stars}</span>}
+          {meta?.license && <span class="license">{meta.license}</span>}
+        </span>
+      )}
+      {addedStr && <span class="added">收录于 {addedStr}</span>}
+    </span>
+    {badge && (compact || !shot) && <span class="badge">{badge}</span>}
+    {type && <span class="type">{type}</span>}
+  </span>
+</a>

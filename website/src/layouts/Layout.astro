@@ -1,24 +1,19 @@
 ---
 import '../styles/global.css';
 import Search from '../components/Search.astro';
-import tools from '../../data.json';
+import { tools, projects, catCounts } from '../lib/catalog';
 
 interface Props {
   title: string;
   description?: string;
-  active?: string; // category name, '__home' or '__recent'
+  active?: string; // category name, '__home', '__recent' or '__projects'
 }
 
 const { title, description = 'Awesome AI Tools - AI 工具导航', active } = Astro.props;
 const base = import.meta.env.BASE_URL;
 
-const counts = new Map<string, number>();
-for (const tool of tools) {
-  for (const cat of tool.category) {
-    counts.set(cat, (counts.get(cat) ?? 0) + 1);
-  }
-}
-const sorted = [...counts.entries()].sort((a, b) => b[1] - a[1]);
+const toolCats = catCounts(tools);
+const projectCats = catCounts(projects);
 ---
 
 <!doctype html>
@@ -49,14 +44,31 @@ const sorted = [...counts.entries()].sort((a, b) => b[1] - a[1]);
         <a class:list={['side-link', { on: active === '__recent' }]} href={`${base}recent/`}>
           <span>最新收录</span>
         </a>
+        <a class:list={['side-link', { on: active === '__projects' }]} href={`${base}projects/`}>
+          <span>开源项目</span>
+        </a>
       </nav>
-      <p class="side-head">分类</p>
       <div class="side-cats">
+        <p class="side-head">分类</p>
         {
-          sorted.map(([name, count]) => (
+          toolCats.map(([name, count]) => (
             <a
               class:list={['side-link', { on: name === active }]}
               href={`${base}category/${encodeURIComponent(name)}/`}
+            >
+              <span>{name}</span>
+              <span class="n">{count}</span>
+            </a>
+          ))
+        }
+        {
+          projectCats.length > 0 && <p class="side-head side-head--in">开源项目</p>
+        }
+        {
+          projectCats.map(([name, count]) => (
+            <a
+              class:list={['side-link', { on: name === active }]}
+              href={`${base}projects/category/${encodeURIComponent(name)}/`}
             >
               <span>{name}</span>
               <span class="n">{count}</span>
@@ -94,7 +106,7 @@ const sorted = [...counts.entries()].sort((a, b) => b[1] - a[1]);
         <a href="https://github.com/Rvelamen/Awesome-AI-Tools" target="_blank" rel="noopener">
           Rvelamen/Awesome-AI-Tools
         </a>
-        同步 · 共收录 {tools.length} 个 AI 工具
+        同步 · 共收录 {tools.length} 个 AI 工具 · {projects.length} 个开源项目
       </footer>
     </div>
 

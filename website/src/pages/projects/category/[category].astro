@@ -1,0 +1,58 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import ProjectCard from '../../../components/ProjectCard.astro';
+import FilterBar from '../../../components/FilterBar.astro';
+import { projects, catCounts } from '../../../lib/catalog';
+import { resolveIcon } from '../../../lib/icons';
+import { resolveShot } from '../../../lib/shots';
+import { addedDates } from '../../../lib/dates';
+import { loadRepoMeta } from '../../../lib/github';
+
+export function getStaticPaths() {
+  return catCounts(projects).map(([category]) => ({
+    params: { category },
+    props: {
+      category,
+      entries: projects.filter((p) => p.category.includes(category)),
+    },
+  }));
+}
+
+const { category, entries } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const sortedEntries = [...entries].sort(
+  (a, b) => (addedDates[b.id] ?? 0) - (addedDates[a.id] ?? 0),
+);
+const types = [...new Set(entries.map((t) => t.type).filter(Boolean))] as string[];
+const metas = await loadRepoMeta(entries.map((t) => t.url));
+---
+
+<Layout
+  title={`${category} - 开源项目 - Awesome AI Tools`}
+  description={`${category}分类下的开源项目`}
+  active={category}
+>
+  <div class="page-head" data-default-content>
+    <h1>{category}</h1>
+    <p>共 {entries.length} 个开源项目</p>
+  </div>
+  <section class="filterable" data-default-content>
+    <FilterBar types={types} />
+    <div class="grid">
+      {
+        sortedEntries.map((project) => (
+          <ProjectCard
+            title={project.title}
+            description={project.description}
+            url={project.url}
+            image={resolveIcon(project, base)}
+            type={project.type}
+            added={addedDates[project.id]}
+            shot={resolveShot(project, base)}
+            meta={metas.get(project.url)}
+          />
+        ))
+      }
+    </div>
+  </section>
+</Layout>

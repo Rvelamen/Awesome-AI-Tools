@@ -129,6 +129,12 @@ a {
   flex: 0 0 auto;
 }
 
+.side-head--in {
+  margin-top: 22px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+}
+
 .side-cats {
   flex: 1;
   overflow-y: auto;
@@ -342,6 +348,16 @@ html[data-theme='light'] .icon-moon {
   margin-top: 18px;
 }
 
+/* shown when kind+type filters hide every card */
+.grid.all-hidden::after {
+  content: '没有匹配的内容，换个筛选条件试试';
+  grid-column: 1 / -1;
+  padding: 40px 0;
+  text-align: center;
+  font-size: 13.5px;
+  color: var(--text-dim);
+}
+
 .card {
   display: flex;
   flex-direction: column;
@@ -467,6 +483,44 @@ html[data-theme='light'] .icon-moon {
   text-overflow: ellipsis;
 }
 
+/* open-source project meta row: language dot / stars / license */
+.card .repo-meta {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 11.5px;
+  color: var(--text-dim);
+  margin-top: 5px;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.card .repo-meta .lang {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  min-width: 0;
+}
+
+.card .repo-meta .lang i {
+  flex: 0 0 auto;
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.card .repo-meta .stars {
+  font-weight: 600;
+  color: var(--text);
+  opacity: 0.85;
+}
+
+.card .type.kind {
+  background: linear-gradient(135deg, var(--accent-from), var(--accent-to));
+  color: #fff;
+}
+
 .card .badge {
   flex: 0 0 auto;
   font-size: 11px;
@@ -541,6 +595,14 @@ html[data-theme='light'] .icon-moon {
   gap: 14px;
   flex-wrap: wrap;
   margin-top: 14px;
+}
+
+.chips-rows {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1;
+  min-width: 0;
 }
 
 .chips {
