@@ -17490,6 +17490,17 @@
     "id": "fff7400b-29db-4911-bf00-340d6537d28c"
   },
   {
+    "url": "https://github.com/runapi-ai/mcp",
+    "title": "RunAPI MCP Server",
+    "type": "app",
+    "description": "面向AI代理的MCP服务器，可发现RunAPI模型并执行图像、视频、音乐、音频及其他模型API任务",
+    "image": "",
+    "category": [
+      "编程工具"
+    ],
+    "id": "3ba85d13-cf55-4c2e-92c7-05507b53b82c"
+  },
+  {
     "url": "https://github.com/louis030195/hyperconsciousness",
     "title": "Hyperconsciousness",
     "description": "开发者 Alpha 阶段的加密追加式知识库，提供 Rust CLI、MCP 服务、设备同步及有范围和时效限制的访问授权",
