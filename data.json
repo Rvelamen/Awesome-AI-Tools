@@ -17530,5 +17530,17 @@
     "type": "library",
     "id": "ff5f6474-9434-4ed2-8880-716314aff603",
     "kind": "project"
+  },
+  {
+    "url": "https://teslawrapgenerator.com/",
+    "title": "Tesla Wrap Generator",
+    "type": "web",
+    "description": "AI 特斯拉车衣生成器：一句话或一张照片生成可导入车机 Paint Shop 的车衣，按车型年份匹配官方模板，支持 3D 预览与 PNG 导出",
+    "image": "https://teslawrapgenerator.com/favicon.ico",
+    "category": [
+      "图片插画生成",
+      "设计工具"
+    ],
+    "id": "f7f6d5d4-3804-41ab-8a9a-a1d187d59de2"
   }
 ]
