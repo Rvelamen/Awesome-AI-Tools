@@ -17530,5 +17530,17 @@
     "type": "library",
     "id": "ff5f6474-9434-4ed2-8880-716314aff603",
     "kind": "project"
-  }
+  },
+    {
+        "url": "https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899",
+        "title": "Clarity",
+        "type": "web",
+        "description": "Base x402 AI research gateway — pay-per-use USDC research report ($2) and chat ($0.001)",
+        "image": "https://www.google.com/s2/favicons?domain=agent-tools.cloud&sz=128",
+        "category": [
+            "智能体",
+            "搜索引擎"
+        ],
+        "id": "9bd7bf6c-cd75-4fa4-ac97-698f29d2f4dc"
+    }
 ]
