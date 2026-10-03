@@ -17530,5 +17530,16 @@
     "type": "library",
     "id": "ff5f6474-9434-4ed2-8880-716314aff603",
     "kind": "project"
+  },
+  {
+    "url": "https://lognorm.com",
+    "title": "LogNorm",
+    "type": "web",
+    "description": "SEO 与 GEO 增长待办平台：抓取网站、按优先级排序问题与内容缺口，通过 MCP 交给 Claude Code、Codex、Cursor 等 AI 智能体处理，并在线上验证修复",
+    "image": "",
+    "category": [
+      "智能体"
+    ],
+    "id": "bb80a554-4abb-4987-94b4-8f45e9ebd0d0"
   }
 ]
