@@ -17530,5 +17530,16 @@
     "type": "library",
     "id": "ff5f6474-9434-4ed2-8880-716314aff603",
     "kind": "project"
+  },
+  {
+    "url": "https://xoner4.github.io/",
+    "title": "Honer AI",
+    "type": "app",
+    "description": "HONER 的 Android AI 助手，支持俄语和英语界面、聊天写作、带来源链接的网页搜索及照片和文档分析；稳定版本 10.57.0，AI 功能需要联网。",
+    "image": "https://github.com/XONER4/honer-ai-downloads/releases/download/android-v10.57.0-105700/icon-512.png",
+    "category": [
+      "聊天助手"
+    ],
+    "id": "cf09927f-0427-42e2-9681-63f87710b005"
   }
 ]
