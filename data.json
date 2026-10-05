@@ -17530,5 +17530,16 @@
     "type": "library",
     "id": "ff5f6474-9434-4ed2-8880-716314aff603",
     "kind": "project"
+  },
+  {
+    "url": "https://www.imagineyourbook.com/",
+    "title": "ImagineYourBook",
+    "type": "web",
+    "description": "AI 长篇图书写作工具：按章节规划并起草完整书稿，用系列故事设定集保持多卷连续性，支持书稿改写与润色、封面和书名生成，可导出 Word、EPUB 和 Markdown",
+    "image": "https://www.imagineyourbook.com/assets/favicon-48.png",
+    "category": [
+      "写作工具"
+    ],
+    "id": "2652a360-9b83-4759-8c0b-ae777be23d76"
   }
 ]
