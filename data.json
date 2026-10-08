@@ -17575,5 +17575,17 @@
       "图像工具"
     ],
     "id": "f5c7c2cd-6941-422f-85e0-3927ab83727a"
+  },
+  {
+    "url": "https://github.com/tale-project/tale",
+    "title": "Tale",
+    "description": "面向团队的开源项目工作区，可将任务交给 Claude Code、Codex 等编程代理，在持久化沙箱中执行，并共同审阅报告与交付成果；支持自托管。",
+    "image": "https://avatars.githubusercontent.com/u/125105899?s=128&v=4",
+    "category": [
+      "代理应用"
+    ],
+    "type": "app",
+    "id": "ae819bbc-4094-49ae-bc09-b0dac4a0812a",
+    "kind": "project"
   }
 ]
