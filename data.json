@@ -17563,5 +17563,17 @@
       "聊天助手"
     ],
     "id": "cf09927f-0427-42e2-9681-63f87710b005"
+  },
+  {
+    "url": "https://tryclout.ai/",
+    "title": "Clout",
+    "type": "web",
+    "description": "浏览器端 AI 创作套件：创建身份一致的 AI 角色，生成图片与视频，并制作无露脸社交媒体内容；付费服务",
+    "image": "https://www.tryclout.ai/clout_i_newl.png",
+    "category": [
+      "视频工具",
+      "图像工具"
+    ],
+    "id": "f5c7c2cd-6941-422f-85e0-3927ab83727a"
   }
 ]
