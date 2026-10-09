@@ -17575,5 +17575,16 @@
       "图像工具"
     ],
     "id": "f5c7c2cd-6941-422f-85e0-3927ab83727a"
+  },
+  {
+    "url": "https://stunna-app.com/",
+    "title": "Stunna",
+    "type": "app",
+    "description": "适用于 iPhone 和 Android 的 AI 照片编辑应用，提供相机风格效果、光线编辑和姿势参考；免费下载，部分功能及无水印导出需付费 Pro，AI 效果因照片而异。",
+    "image": "https://stunna-app.com/stunna-icon.png",
+    "category": [
+      "图像工具"
+    ],
+    "id": "9f76a710-13ff-4443-81d9-c473aa2014d9"
   }
 ]
