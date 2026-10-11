@@ -17655,5 +17655,17 @@
       "音频工具"
     ],
     "id": "4c91e5dd-42a6-47a2-89dd-7d4e36482c78"
+  },
+  {
+    "url": "https://github.com/ateymoori/oh-my-android",
+    "title": "Oh My Android",
+    "type": "mcp",
+    "description": "macOS 原生应用内置 MCP 服务器，让 AI 编程代理查看并操控 Android 模拟器和真机：截图与 dp 布局树、点击、日志、深色模式、字号、RTL",
+    "image": "https://github.com/ateymoori.png",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "e50cd05f-9396-4955-94b2-97d7a9c83d3e",
+    "kind": "project"
   }
 ]
