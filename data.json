@@ -17575,5 +17575,40 @@
       "图像工具"
     ],
     "id": "f5c7c2cd-6941-422f-85e0-3927ab83727a"
+  },
+  {
+    "url": "https://kamplyapp.com",
+    "title": "Kamply",
+    "type": "app",
+    "description": "Mac 桌面应用，内置营销智能体团队，可按品牌风格生成社交帖子、轮播图、视频短片、广告和演示文稿；智能体运行在用户自己的 Claude Code 或 Codex 套餐上；付费应用",
+    "image": "",
+    "category": [
+      "设计工具",
+      "智能体"
+    ],
+    "id": "74c99c23-41a4-46b6-8f8a-6e184597098c"
+  },
+  {
+    "url": "https://stunna-app.com/",
+    "title": "Stunna",
+    "type": "app",
+    "description": "适用于 iPhone 和 Android 的 AI 照片编辑应用，提供相机风格效果、光线编辑和姿势参考；免费下载，部分功能及无水印导出需付费 Pro，AI 效果因照片而异",
+    "image": "https://stunna-app.com/stunna-icon.png",
+    "category": [
+      "图像工具"
+    ],
+    "id": "9f76a710-13ff-4443-81d9-c473aa2014d9"
+  },
+  {
+    "url": "https://github.com/tale-project/tale",
+    "title": "Tale",
+    "description": "面向团队的开源项目工作区，可将任务交给 Claude Code、Codex 等编程代理，在持久化沙箱中执行，并共同审阅报告与交付成果；支持自托管",
+    "image": "https://avatars.githubusercontent.com/u/125105899?s=128&v=4",
+    "category": [
+      "代理应用"
+    ],
+    "type": "app",
+    "id": "ae819bbc-4094-49ae-bc09-b0dac4a0812a",
+    "kind": "project"
   }
 ]
