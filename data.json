@@ -17610,5 +17610,16 @@
     "type": "app",
     "id": "ae819bbc-4094-49ae-bc09-b0dac4a0812a",
     "kind": "project"
+  },
+  {
+    "url": "https://falcoscan.com",
+    "title": "FalcoScan",
+    "type": "web",
+    "description": "AI 产品目录与市场情报平台，收录 8000 多款 AI 工具并追踪 29 个市场，可比较同类产品、查看上升趋势及已关停或被收购产品的 AI Graveyard；浏览免费，数据服务付费",
+    "image": "https://falcoscan.com/apple-icon.png",
+    "category": [
+      "搜索引擎"
+    ],
+    "id": "2aa789b6-353d-46fe-9598-ed8d2fab3000"
   }
 ]
