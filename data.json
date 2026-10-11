@@ -17575,5 +17575,17 @@
       "图像工具"
     ],
     "id": "f5c7c2cd-6941-422f-85e0-3927ab83727a"
+  },
+  {
+    "url": "https://kamplyapp.com",
+    "title": "Kamply",
+    "type": "app",
+    "description": "Mac desktop app with a marketing crew of agents that makes social posts, carousels, video reels, ads and decks in a brand's own style; runs on the user's own Claude Code or Codex plan. Paid.",
+    "image": "",
+    "category": [
+      "设计工具",
+      "智能体"
+    ],
+    "id": "74c99c23-41a4-46b6-8f8a-6e184597098c"
   }
 ]
