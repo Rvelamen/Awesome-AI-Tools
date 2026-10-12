@@ -17621,5 +17621,28 @@
       "搜索引擎"
     ],
     "id": "2aa789b6-353d-46fe-9598-ed8d2fab3000"
+  },
+  {
+    "url": "https://oranoai.com",
+    "title": "ORANO",
+    "type": "app",
+    "description": "将收藏的 Reels、TikTok、YouTube 视频、文章和 PDF 整理成可搜索的摘要、要点和分步计划，支持 iOS、Android 和网页；免费下载，另有可选 Pro 订阅",
+    "image": "",
+    "category": [
+      "效能工具"
+    ],
+    "id": "4c674b6f-4701-40c0-bc3e-f7398b403615"
+  },
+  {
+    "url": "https://github.com/infotik/orano-mcp-server",
+    "title": "ORANO MCP Server",
+    "type": "mcp",
+    "description": "个人只读 MCP 服务器，让用户自己的 AI 助手（如 ChatGPT、Claude、Cursor）搜索并读取其 ORANO 已保存内容库；远程 Streamable HTTP 端点，使用个人 API Key（Bearer）认证；MIT 许可",
+    "image": "https://github.com/infotik.png",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "ae9b96a4-3f76-4bc2-b2cb-e0e5b86a1ddc",
+    "kind": "project"
   }
 ]
