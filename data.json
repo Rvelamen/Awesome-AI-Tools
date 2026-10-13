@@ -17452,10 +17452,10 @@
     "type": "web"
   },
   {
-    "url": "https://muse-me-avatar-beta.zhangwei798879.chatgpt.site/",
-    "title": "Muse Me",
+    "url": "https://muse-me-avatar-beta.zhangwei798879.chatgpt.site/create?utm_source=rvelamen&utm_campaign=studio_round2&utm_content=github_directory",
+    "title": "Muse Studio",
     "type": "web",
-    "description": "将一张本人或获授权照片转换为原创动漫风社交头像，提供无需注册的公开测试体验",
+    "description": "输入一句创意生成原创海报；当前开放限额文字公测，需要 ChatGPT 登录，无需付款",
     "image": "",
     "category": [
       "图片插画生成"
