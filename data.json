@@ -17644,5 +17644,16 @@
     ],
     "id": "ae9b96a4-3f76-4bc2-b2cb-e0e5b86a1ddc",
     "kind": "project"
+  },
+  {
+    "url": "https://noiseremover.site/",
+    "title": "QuietTake",
+    "type": "web",
+    "description": "浏览器本地人声降噪工具，使用 RNNoise/WASM 处理短录音，可对比原音与降噪结果并导出单声道 WAV；单文件须同时不超过 50 MB 和 5 分钟，无需注册或上传音频",
+    "image": "https://noiseremover.site/logo.png",
+    "category": [
+      "音频工具"
+    ],
+    "id": "4c91e5dd-42a6-47a2-89dd-7d4e36482c78"
   }
 ]
