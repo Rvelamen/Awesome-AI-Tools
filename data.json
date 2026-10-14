@@ -17655,5 +17655,17 @@
       "音频工具"
     ],
     "id": "4c91e5dd-42a6-47a2-89dd-7d4e36482c78"
+  },
+  {
+    "url": "https://github.com/loootai/looot-mcp",
+    "title": "looot MCP",
+    "type": "mcp",
+    "description": "面向AI代理的MCP服务器，连接托管的 looot 数据网关（api.looot.ai/mcp），提供人员与公司信息补全、工作邮箱查找与验证、SERP 与网页搜索、网页读取等按次预付费的商业数据接口；MIT 许可",
+    "image": "",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "587c0396-506b-4aa9-bd2f-035a53a27573",
+    "kind": "project"
   }
 ]
