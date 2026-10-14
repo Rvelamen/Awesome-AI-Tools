@@ -17452,11 +17452,11 @@
     "type": "web"
   },
   {
-    "url": "https://muse-me-avatar-beta.zhangwei798879.chatgpt.site/create?utm_source=rvelamen&utm_campaign=studio_round2&utm_content=github_directory",
+    "url": "https://muse-me-avatar-beta.zhangwei798879.chatgpt.site/create?utm_source=rvelamen&utm_campaign=ad_recovery&utm_content=rvelamen_directory",
     "title": "Muse Studio",
     "type": "web",
-    "description": "输入一句创意生成原创海报；当前开放限额文字公测，需要 ChatGPT 登录，无需付款",
-    "image": "",
+    "description": "从文字需求生成新品、促销或活动广告概念，可编辑标题、优惠与行动文案并导出 PNG；限额公测需 ChatGPT 登录，无需付款，不支持实物包装精确复刻",
+    "image": "https://muse-me-avatar-beta.zhangwei798879.chatgpt.site/studio/ad-example-citrus.png",
     "category": [
       "图片插画生成"
     ],
