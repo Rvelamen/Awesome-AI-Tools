@@ -17655,5 +17655,16 @@
       "音频工具"
     ],
     "id": "4c91e5dd-42a6-47a2-89dd-7d4e36482c78"
+  },
+  {
+    "url": "https://aident.ai",
+    "title": "Aident Loadout",
+    "type": "web",
+    "description": "通过一次 MCP 配置，将 AI 智能体连接到各类应用和 400+ 个专家构建的 Skills",
+    "image": "",
+    "category": [
+      "智能体"
+    ],
+    "id": "c35b3370-ea36-4311-9598-6e2b69737a6d"
   }
 ]
