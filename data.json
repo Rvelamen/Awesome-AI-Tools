@@ -17713,5 +17713,17 @@
       "写作工具"
     ],
     "id": "97a4dca9-0e75-4707-be96-b85c8a42cce7"
+  },
+  {
+    "url": "https://github.com/SergiuPogor/curlshot-mcp",
+    "title": "CurlShot MCP",
+    "type": "mcp",
+    "description": "CurlShot 网页截图 API 的托管 MCP 服务器（curlshot.com/api/mcp），让 AI 代理截取任意公开网页：整页截图、设备预设、深色模式、单元素截图，可输出图片、PDF 或滚动视频；需要 API 密钥",
+    "image": "https://github.com/SergiuPogor.png",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "3299e064-830b-4248-98f9-0252a23af61c",
+    "kind": "project"
   }
 ]
