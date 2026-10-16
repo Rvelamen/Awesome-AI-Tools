@@ -17713,5 +17713,28 @@
       "写作工具"
     ],
     "id": "97a4dca9-0e75-4707-be96-b85c8a42cce7"
+  },
+  {
+    "url": "https://github.com/SergiuPogor/curlshot-mcp",
+    "title": "CurlShot MCP",
+    "type": "mcp",
+    "description": "CurlShot 网页截图 API 的托管 MCP 服务器（curlshot.com/api/mcp），让 AI 代理截取任意公开网页：整页截图、设备预设、深色模式、单元素截图，可输出图片、PDF 或滚动视频；需要 API 密钥",
+    "image": "https://github.com/SergiuPogor.png",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "3299e064-830b-4248-98f9-0252a23af61c",
+    "kind": "project"
+  },
+  {
+    "url": "https://carejobs.now",
+    "title": "CareJobs.Now",
+    "type": "web",
+    "description": "面向美国医疗行业从业者的免费求职网站，每日读取270家医院和医疗机构官网的17万多个在招职位，并显示雇主公布的薪资（仅限美国）",
+    "image": "",
+    "category": [
+      "招聘求职求职"
+    ],
+    "id": "4ac94fdc-b742-4a92-ab55-87fa25e80f86"
   }
 ]
