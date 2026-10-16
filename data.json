@@ -17713,5 +17713,16 @@
       "写作工具"
     ],
     "id": "97a4dca9-0e75-4707-be96-b85c8a42cce7"
+  },
+  {
+    "url": "https://carejobs.now",
+    "title": "CareJobs.Now",
+    "type": "web",
+    "description": "面向美国医疗行业从业者的免费求职网站，每日读取270家医院和医疗机构官网的17万多个在招职位，并显示雇主公布的薪资（仅限美国）",
+    "image": "",
+    "category": [
+      "招聘求职求职"
+    ],
+    "id": "4ac94fdc-b742-4a92-ab55-87fa25e80f86"
   }
 ]
