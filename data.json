@@ -17655,5 +17655,40 @@
       "音频工具"
     ],
     "id": "4c91e5dd-42a6-47a2-89dd-7d4e36482c78"
+  },
+  {
+    "url": "https://aident.ai",
+    "title": "Aident Loadout",
+    "type": "web",
+    "description": "通过一次 MCP 配置，将 AI 智能体连接到各类应用和 400+ 个专家构建的 Skills",
+    "image": "",
+    "category": [
+      "智能体"
+    ],
+    "id": "c35b3370-ea36-4311-9598-6e2b69737a6d"
+  },
+  {
+    "url": "https://github.com/loootai/looot-mcp",
+    "title": "looot MCP",
+    "type": "mcp",
+    "description": "面向AI代理的MCP服务器，连接托管的 looot 数据网关（api.looot.ai/mcp），提供人员与公司信息补全、工作邮箱查找与验证、SERP 与网页搜索、网页读取等按次预付费的商业数据接口；MIT 许可",
+    "image": "",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "587c0396-506b-4aa9-bd2f-035a53a27573",
+    "kind": "project"
+  },
+  {
+    "url": "https://github.com/ateymoori/oh-my-android",
+    "title": "Oh My Android",
+    "type": "mcp",
+    "description": "macOS 原生应用内置 MCP 服务器，让 AI 编程代理查看并操控 Android 模拟器和真机：截图与 dp 布局树、点击、日志、深色模式、字号、RTL",
+    "image": "https://github.com/ateymoori.png",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "e50cd05f-9396-4955-94b2-97d7a9c83d3e",
+    "kind": "project"
   }
 ]
