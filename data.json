@@ -17690,5 +17690,17 @@
     ],
     "id": "e50cd05f-9396-4955-94b2-97d7a9c83d3e",
     "kind": "project"
+  },
+  {
+    "url": "https://www.mangatranslate.com/zh/ai-manga-translator/",
+    "title": "AI Manga Translator",
+    "type": "web",
+    "description": "漫画图片翻译工具，支持 100 多种语言的批量与自定义翻译，提供在线 Photoshop 风格编辑器和 API 接入；每日签到有有限免费额度，额外额度和订阅付费",
+    "image": "https://www.mangatranslate.com/apple-touch-icon.png?v=257",
+    "category": [
+      "翻译",
+      "图像工具"
+    ],
+    "id": "4f9bb9e6-f146-4957-bd81-1315cc3a39f9"
   }
 ]
