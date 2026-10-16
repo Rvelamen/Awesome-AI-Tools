@@ -17702,5 +17702,16 @@
       "图像工具"
     ],
     "id": "4f9bb9e6-f146-4957-bd81-1315cc3a39f9"
+  },
+  {
+    "url": "https://www.recopyfa.st/",
+    "title": "ReCopyFast",
+    "type": "web",
+    "description": "面向代理商和自由职业者的客户网站文案就地编辑工具；添加一段脚本后，可直接修改现有页面文字并获取 AI 改写建议",
+    "image": "",
+    "category": [
+      "写作工具"
+    ],
+    "id": "97a4dca9-0e75-4707-be96-b85c8a42cce7"
   }
 ]
