@@ -17736,5 +17736,16 @@
       "招聘求职求职"
     ],
     "id": "4ac94fdc-b742-4a92-ab55-87fa25e80f86"
+  },
+  {
+    "url": "https://vocalseparator.com/",
+    "title": "VocalSeparator",
+    "type": "web",
+    "description": "在线人声与音轨分离工具，支持双轨或四轨、WAV 下载及循环、变速和变调练习；匿名免费额度为每浏览器每 UTC 日 5 次、单文件不超过 10 分钟和 100 MB，受共享容量限制，可选付费处理额度，结果临时保存。",
+    "image": "https://vocalseparator.com/brand/mark.svg",
+    "category": [
+      "音频工具"
+    ],
+    "id": "730053d8-d430-4f56-b18b-4bc3648397c3"
   }
 ]
