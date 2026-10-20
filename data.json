@@ -17783,5 +17783,16 @@
       "图像工具"
     ],
     "id": "5b43d256-2f0a-4922-b3d3-f8db34dece26"
+  },
+  {
+    "url": "https://wan-3.studio/",
+    "title": "Wan 3.0",
+    "type": "web",
+    "description": "在线 AI 视频生成工具，支持文字生成视频、图片生成视频和多模态参考视频，可生成最长约 30 秒、带对白、音乐和音效的视频；站内还提供 Wan 2.6、Wan 2.5、Seedance 2.5 等模型页面，提供付费套餐",
+    "image": "https://wan-3.studio/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "654b8876-7b98-47b2-aca5-6930d5b4c863"
   }
 ]
