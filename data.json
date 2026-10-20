@@ -17759,5 +17759,17 @@
     ],
     "id": "763ef43d-dbbe-48f4-ad76-f6ab13c60b86",
     "kind": "project"
+  },
+  {
+    "url": "https://pixwit.ai/",
+    "title": "Pixwit",
+    "type": "web",
+    "description": "AI 视频与图片生成平台：支持文生视频、图生视频和 AI 图片生成，可选择多种视频与图像模型",
+    "image": "https://pixwit.ai/og-image.png",
+    "category": [
+      "视频工具",
+      "图像工具"
+    ],
+    "id": "716d0be3-ec14-413a-8505-1b203ce81da4"
   }
 ]
