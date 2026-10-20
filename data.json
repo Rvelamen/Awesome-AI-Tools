@@ -17736,5 +17736,17 @@
       "招聘求职求职"
     ],
     "id": "4ac94fdc-b742-4a92-ab55-87fa25e80f86"
+  },
+  {
+    "url": "https://github.com/voygr-tech/placecall",
+    "title": "PlaceCall",
+    "type": "mcp",
+    "description": "让 AI 代理给美国商家拨打真实电话（订位、预约、询价）的托管 MCP 服务器（api.voygr.tech/mcp）与 REST API：能处理语音菜单、等待和转接，通话中可把问题转回给用户，结束后返回结构化结果、文字记录和录音；仅限美国号码，需要 API 密钥或 OAuth 登录，每个新 API 密钥含 250 次免费通话，之后按通话结果计费；客户端（Skill 与插件）MIT 许可",
+    "image": "https://github.com/voygr-tech.png",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "763ef43d-dbbe-48f4-ad76-f6ab13c60b86",
+    "kind": "project"
   }
 ]
