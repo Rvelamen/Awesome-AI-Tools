@@ -17830,5 +17830,38 @@
     "id": "efa7d36f-fcdd-408d-bbc8-b10da9edf58e",
     "title": "GrokVideo Studio",
     "type": "web"
+  },
+  {
+    "url": "https://alorsondansevideo.com",
+    "description": "独立 AI 视频工具：两张人像照生成 13 秒 480p 双人摄影棚舞蹈短片；纯付费，非官方",
+    "image": "https://alorsondansevideo.com/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "39f6fe51-c21f-480a-80a6-0e0f5e1580ba",
+    "title": "Alors On Danse Video Maker",
+    "type": "web"
+  },
+  {
+    "url": "https://badtimesai.dev",
+    "description": "独立 AI 工具：从照片合成跳舞特效视频；一次性付费起 $7.99，非官方",
+    "image": "https://badtimesai.dev/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "97109e72-0f10-4b82-b284-865ea0a7f3f1",
+    "title": "Bad Times AI",
+    "type": "web"
+  },
+  {
+    "url": "https://ifoundyouinthecrowdai.com",
+    "description": "独立 AI 工具：从照片合成人群中相遇特效视频；付费起 $7.99，非官方",
+    "image": "https://ifoundyouinthecrowdai.com/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "35efb83b-b74f-4be7-8358-078085eee1d7",
+    "title": "I Found You in the Crowd AI",
+    "type": "web"
   }
 ]
