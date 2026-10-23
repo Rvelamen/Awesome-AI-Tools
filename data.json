@@ -17794,5 +17794,41 @@
       "视频工具"
     ],
     "id": "654b8876-7b98-47b2-aca5-6930d5b4c863"
+  },
+  {
+    "url": "https://promptimage.cloud",
+    "description": "免费 AI 图片展馆与多模型绘图/视频生成，提示词一键带入，注册送积分无需绑卡",
+    "image": "https://promptimage.cloud/favicon.ico",
+    "category": [
+      "图像工具",
+      "图片插画生成",
+      "视频工具"
+    ],
+    "id": "410882c2-8a88-4fad-ace7-4abd05d2e96d",
+    "title": "PromptImage",
+    "type": "web"
+  },
+  {
+    "url": "https://teslawraps.design",
+    "description": "浏览器内特斯拉数字车衣设计，车型模板与 3D 预览，核心编辑免费，AI 功能可选积分",
+    "image": "https://teslawraps.design/favicon.svg",
+    "category": [
+      "设计工具",
+      "图像工具"
+    ],
+    "id": "00ffe37b-250b-4662-830d-a3a55b62d324",
+    "title": "TeslaWraps",
+    "type": "web"
+  },
+  {
+    "url": "https://grokvideogenerator.dev",
+    "description": "独立运营的文生视频/图生视频工具（接入 Grok Imagine API，非官方），首次登录送试用积分",
+    "image": "https://grokvideogenerator.dev/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "efa7d36f-fcdd-408d-bbc8-b10da9edf58e",
+    "title": "GrokVideo Studio",
+    "type": "web"
   }
 ]
