@@ -17863,5 +17863,38 @@
     "id": "35efb83b-b74f-4be7-8358-078085eee1d7",
     "title": "I Found You in the Crowd AI",
     "type": "web"
+  },
+  {
+    "url": "https://kdafirestarterai.dev",
+    "description": "独立非官方：一张照片生成 13 秒 480p 21:9 独舞视频；一次性付费起 $7.99，不隶属 Riot/KDA",
+    "image": "https://kdafirestarterai.dev/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "36da0ab1-175e-4c3d-ab70-de1c50a1ba4e",
+    "title": "KDA Firestarter AI Dance",
+    "type": "web"
+  },
+  {
+    "url": "https://a2oliteai.org",
+    "description": "独立工具：两张照片生成 15 秒 480p 16:9 双人霓虹舞视频（含参考音轨）；一次性付费起 $7.99",
+    "image": "https://a2oliteai.org/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "f1f6c177-cc2c-4503-8a0c-87edcf00a2a4",
+    "title": "A2O LITE NEON AI Dance",
+    "type": "web"
+  },
+  {
+    "url": "https://dimedimebabyai.dev",
+    "description": "独立工具：一张照片生成约 5 秒 480p 9:16 舞蹈视频（Quince Classic / Party Groove）；一次性付费起 $7.99",
+    "image": "https://dimedimebabyai.dev/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "d1777cf6-9838-48c8-97dd-f1d535184ec3",
+    "title": "dime dime baby ai",
+    "type": "web"
   }
 ]
