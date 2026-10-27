@@ -17943,5 +17943,17 @@
     ],
     "id": "0a91cf1b-c7a1-4873-a34b-2215641c08db",
     "kind": "project"
+  },
+  {
+    "url": "https://ideoy.ai",
+    "title": "Ideoy",
+    "type": "web",
+    "description": "用一张照片或自拍重制热门短视频模板",
+    "image": "https://ideoy.ai/apple-touch-icon.png",
+    "category": [
+      "视频工具",
+      "图像工具"
+    ],
+    "id": "17ddf7ca-3003-49c1-bee4-7735dbab246b"
   }
 ]
