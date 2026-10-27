@@ -17955,5 +17955,16 @@
       "图像工具"
     ],
     "id": "17ddf7ca-3003-49c1-bee4-7735dbab246b"
+  },
+  {
+    "url": "https://jvlangai.com/",
+    "title": "巨浪 AI",
+    "type": "web",
+    "description": "按模型查询API服务商公开报价与原始来源，附Codex第三方API接入及401排查资料；查询与指南免费，无需登录，不提供模型推理。",
+    "image": "",
+    "category": [
+      "学习网站"
+    ],
+    "id": "7d2a4db3-8c5f-4e25-bab0-376158838d60"
   }
 ]
