@@ -17978,5 +17978,17 @@
     ],
     "id": "972ef441-a1fc-4b91-a674-7284805db7c1",
     "kind": "project"
+  },
+  {
+    "url": "https://neverapply.co/features/mcp",
+    "title": "NeverApply",
+    "type": "mcp",
+    "description": "面向求职的托管 MCP 服务器：让 Claude、Cursor、Cline 等 MCP 客户端搜索并匹配职位、定制简历、回答筛选问题、准备面试，并在用户确认后投递申请；Streamable HTTP 端点 https://neverapply.co/mcp，OAuth 2.1 登录，15 个工具，提供免费版与付费订阅",
+    "image": "https://github.com/kasovy.png",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "81913a5b-2ec5-4d9f-b44b-b6fd841ac2e7",
+    "kind": "project"
   }
 ]
