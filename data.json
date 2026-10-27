@@ -17896,5 +17896,16 @@
     "id": "d1777cf6-9838-48c8-97dd-f1d535184ec3",
     "title": "dime dime baby ai",
     "type": "web"
+  },
+  {
+    "url": "https://t.me/Tar0_Astral_bot?start=gh_rvelamen",
+    "title": "Tarot Astral",
+    "type": "web",
+    "description": "Telegram 机器人，提供 AI 塔罗、占星和显化解读，有三位不同风格的解读者，支持英语和俄语；首次解读免费，更多次数通过 Telegram Stars 付费。仅供娱乐",
+    "image": "https://telegram.org/favicon.ico",
+    "category": [
+      "聊天助手"
+    ],
+    "id": "3fa880b4-b2d9-46d3-8bfc-38319bdd295a"
   }
 ]
