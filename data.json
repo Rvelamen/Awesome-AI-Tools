@@ -17907,5 +17907,29 @@
       "聊天助手"
     ],
     "id": "3fa880b4-b2d9-46d3-8bfc-38319bdd295a"
+  },
+  {
+    "id": "a5e37e25-1667-42e2-8790-cf38cf7af8a5",
+    "title": "artgen",
+    "url": "https://artgen.net/en/tools/image-to-pixel-art",
+    "description": "浏览器内免费 AI 图像工具：照片转像素画、ASCII art 与创意变换",
+    "category": [
+      "图像工具",
+      "设计工具"
+    ],
+    "type": "web",
+    "image": "https://artgen.net/favicon.ico"
+  },
+  {
+    "id": "dc62e424-9250-4de3-b39b-70aa1ed63f08",
+    "title": "System One API",
+    "url": "https://system-one.dev/en/api",
+    "description": "统一多供应商 AI API 与开源 SDK，换模型/供应商无需改应用（GitHub stars≈2）",
+    "category": [
+      "编程工具",
+      "智能体"
+    ],
+    "type": "web",
+    "image": "https://system-one.dev/favicon.ico"
   }
 ]
