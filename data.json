@@ -17931,5 +17931,17 @@
     ],
     "type": "web",
     "image": "https://system-one.dev/favicon.ico"
+  },
+  {
+    "url": "https://github.com/f-o-x11/deed-page-skill",
+    "title": "deed.page",
+    "type": "mcp",
+    "description": "面向 AI 编程代理的网页发布服务：托管的远程 MCP 服务器（deed.page/mcp）与 HTTP API，可将生成的 HTML 或静态文件发布为公开 HTTPS 链接（{slug}.deed.page），之后用所有者令牌更新、恢复历史版本或删除；客户端（Skill 与插件）MIT 许可",
+    "image": "https://deed.page/icon.png",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "0a91cf1b-c7a1-4873-a34b-2215641c08db",
+    "kind": "project"
   }
 ]
