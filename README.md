@@ -1,6 +1,6 @@
 # 🚀 Awesome AI Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/Rvelamen/Awesome-AI-Tools?style=social)](https://github.com/Rvelamen/Awesome-AI-Tools)
 
-> 持续更新的 AI 工具收录清单，涵盖大语言模型、Agent、编程、图像、音视频等方向，目前收录 **1598** 个 AI 工具与 **28** 个开源项目、**35** 个分类。
+> 持续更新的 AI 工具收录清单，涵盖大语言模型、Agent、编程、图像、音视频等方向，目前收录 **1629** 个 AI 工具与 **29** 个开源项目、**35** 个分类。
 
 > ⭐ 如果这份清单对你有帮助，欢迎点一个 **Star**，让更多人和 Agent 发现它。
 
@@ -70,7 +70,7 @@
 
 ### 视频工具
 
-共 211 个 · [查看全部 →](https://rvelamen.github.io/Awesome-AI-Tools/category/视频工具/)
+共 241 个 · [查看全部 →](https://rvelamen.github.io/Awesome-AI-Tools/category/视频工具/)
 
 | 工具 | 简介 |
 | --- | --- |
@@ -345,7 +345,7 @@
 
 ### 招聘求职求职
 
-共 32 个 · [查看全部 →](https://rvelamen.github.io/Awesome-AI-Tools/category/招聘求职求职/)
+共 33 个 · [查看全部 →](https://rvelamen.github.io/Awesome-AI-Tools/category/招聘求职求职/)
 
 | 工具 | 简介 |
 | --- | --- |
@@ -376,7 +376,7 @@
 | 项目分类 | 数量 |
 | --- | ---: |
 | [Agent 技能](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/Agent%20技能/) | 9 |
-| [MCP 服务](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/MCP%20服务/) | 8 |
+| [MCP 服务](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/MCP%20服务/) | 9 |
 | [CLI 工具](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/CLI%20工具/) | 6 |
 | [插件与扩展](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/插件与扩展/) | 2 |
 | [代理应用](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/代理应用/) | 2 |
