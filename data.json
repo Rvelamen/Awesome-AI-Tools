@@ -17979,7 +17979,7 @@
     "id": "7d2a4db3-8c5f-4e25-bab0-376158838d60"
   },
   {
-    "url": "https://github.com/CorpusIQ/corpusiq-docs",
+    "url": "https://www.corpusiq.io/",
     "title": "CorpusIQ",
     "type": "mcp",
     "description": "面向 AI 代理的商业数据 MCP 服务器：通过 40+ 连接器接入 Stripe、GA4、Shopify、QuickBooks、HubSpot 等数据源，让 ChatGPT、Claude 等直接回答营收、订单、客户与指标问题并标注来源；字段过滤的精简响应适配 LLM 上下文，付费订阅制并提供试用",
@@ -17987,8 +17987,7 @@
     "category": [
       "MCP 服务"
     ],
-    "id": "972ef441-a1fc-4b91-a674-7284805db7c1",
-    "kind": "project"
+    "id": "972ef441-a1fc-4b91-a674-7284805db7c1"
   },
   {
     "url": "https://neverapply.co/features/mcp",
@@ -17999,8 +17998,7 @@
     "category": [
       "MCP 服务"
     ],
-    "id": "81913a5b-2ec5-4d9f-b44b-b6fd841ac2e7",
-    "kind": "project"
+    "id": "81913a5b-2ec5-4d9f-b44b-b6fd841ac2e7"
   },
   {
     "url": "https://ai-rap-video.asia",

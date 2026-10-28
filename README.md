@@ -1,6 +1,6 @@
 # 🚀 Awesome AI Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/Rvelamen/Awesome-AI-Tools?style=social)](https://github.com/Rvelamen/Awesome-AI-Tools)
 
-> 持续更新的 AI 工具收录清单，涵盖大语言模型、Agent、编程、图像、音视频等方向，目前收录 **1629** 个 AI 工具与 **29** 个开源项目、**35** 个分类。
+> 持续更新的 AI 工具收录清单，涵盖大语言模型、Agent、编程、图像、音视频等方向，目前收录 **1631** 个 AI 工具与 **27** 个开源项目、**36** 个分类。
 
 > ⭐ 如果这份清单对你有帮助，欢迎点一个 **Star**，让更多人和 Agent 发现它。
 
@@ -8,7 +8,7 @@
 
 ## 目录
 
-[聊天助手](#聊天助手) ｜ [编程工具](#编程工具) ｜ [智能体](#智能体) ｜ [效能工具](#效能工具) ｜ [视频工具](#视频工具)
+[聊天助手](#聊天助手) ｜ [编程工具](#编程工具) ｜ [MCP 服务](#mcp-服务) ｜ [智能体](#智能体) ｜ [效能工具](#效能工具) ｜ [视频工具](#视频工具)
 [图像工具](#图像工具) ｜ [图片插画生成](#图片插画生成) ｜ [音频工具](#音频工具) ｜ [写作工具](#写作工具) ｜ [设计工具](#设计工具)
 [搜索引擎](#搜索引擎) ｜ [PPT](#ppt) ｜ [文档工具](#文档工具) ｜ [训练模型](#训练模型) ｜ [翻译](#翻译)
 [表格](#表格) ｜ [思维导图](#思维导图) ｜ [商品图生成](#商品图生成) ｜ [背景消除](#背景消除) ｜ [图片无损放大](#图片无损放大)
@@ -43,6 +43,15 @@
 | [Trae](https://www.trae.com.cn/) | 字节跳动推出的编程工具，基于 Claude 模型 |
 | [CodeWhisperer](https://aws.amazon.com/codewhisperer/) | 亚马逊推出的 AI 编程助手 |
 | [文心快码](https://comate.baidu.com) | 百度推出的 AI 编程助手，基于文心大模型 |
+
+### MCP 服务
+
+共 2 个 · [查看全部 →](https://rvelamen.github.io/Awesome-AI-Tools/category/MCP 服务/)
+
+| 工具 | 简介 |
+| --- | --- |
+| [NeverApply](https://neverapply.co/features/mcp) | 托管求职 MCP 服务器：职位搜索匹配、简历定制、面试准备，确认后投递申请 |
+| [CorpusIQ](https://www.corpusiq.io/) | 托管商业数据 MCP 服务器：40+ 连接器查询 Stripe、GA4、Shopify 等业务数据 |
 
 ### 智能体
 
@@ -371,12 +380,12 @@
 
 ## 开源项目
 
-除工具外另收录 **28** 个开源项目，卡片自动展示 star 数、语言与 license：[浏览全部 →](https://rvelamen.github.io/Awesome-AI-Tools/projects/)
+除工具外另收录 **27** 个开源项目，卡片自动展示 star 数、语言与 license：[浏览全部 →](https://rvelamen.github.io/Awesome-AI-Tools/projects/)
 
 | 项目分类 | 数量 |
 | --- | ---: |
 | [Agent 技能](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/Agent%20技能/) | 9 |
-| [MCP 服务](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/MCP%20服务/) | 9 |
+| [MCP 服务](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/MCP%20服务/) | 7 |
 | [CLI 工具](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/CLI%20工具/) | 6 |
 | [插件与扩展](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/插件与扩展/) | 2 |
 | [代理应用](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/代理应用/) | 2 |
