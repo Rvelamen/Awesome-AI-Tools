@@ -97,6 +97,7 @@
 | 工具 | 简介 |
 | --- | --- |
 | [Manus](https://manus.im) | Monica 团队推出的通用型 AI Agent |
+| [MeetNewAI](https://meetnewai.com) | 免费双语 AI 工具/游戏/MCP/技能目录，附带 AI 成本计算器 |
 | [Monica](https://monica.cn) | 全能 AI 助手，提供聊天、搜索、写作、翻译等功能 |
 | [ima.copilot](https://ima.qq.com) | 腾讯推出的 AI 智能工作台，基于混元大模型 |
 | [WPS灵犀](https://lingxi.wps.cn) | WPS 推出的 AI 办公助手，支持 PPT 生成、AI 写作 |
