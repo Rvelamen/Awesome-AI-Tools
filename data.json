@@ -18329,5 +18329,16 @@
     "id": "189b39a0-1bb4-42b4-b4ce-0444e0640527",
     "title": "ZombieHug",
     "type": "web"
+  },
+  {
+    "url": "https://vaneform.com/mcp",
+    "title": "Vaneform",
+    "type": "mcp",
+    "description": "面向 AI 代理的网站流量与可见度 MCP 服务器：查询任意公开域名的估算月访问量、流量趋势与来源、关键词与历史快照等公开信号，供 Claude、Cursor 等 MCP 客户端直接调用；托管端点 https://vaneform.com/mcp，开源实现见 GitHub vaneform/vaneform-mcp",
+    "image": "https://vaneform.com/brand/vaneform-logo-512.png",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "942cada7-e19d-4483-842f-0f5fe3d07d0b"
   }
 ]
