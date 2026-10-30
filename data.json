@@ -18329,5 +18329,16 @@
     "id": "189b39a0-1bb4-42b4-b4ce-0444e0640527",
     "title": "ZombieHug",
     "type": "web"
+  },
+  {
+    "url": "https://vivify.video/realtime-face-swap",
+    "title": "Vivify",
+    "description": "???????????????????????????????",
+    "image": "https://vivify.video/og-image.png",
+    "category": [
+      "????"
+    ],
+    "type": "web",
+    "id": "ba8b4214-a748-4a16-9ea0-b26efae6cdd6"
   }
 ]
