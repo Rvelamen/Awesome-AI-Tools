@@ -18329,5 +18329,16 @@
     "id": "189b39a0-1bb4-42b4-b4ce-0444e0640527",
     "title": "ZombieHug",
     "type": "web"
+  },
+  {
+    "url": "https://disconfirmai.com/zh",
+    "description": "AI 投资研究与阅读工具，先找可能推翻观点的反面证据，包含公开信源阅读、财报研究和条件雷达",
+    "image": "https://disconfirmai.com/brand/icon-64.png",
+    "category": [
+      "智能体"
+    ],
+    "id": "10b7201a-cfad-493d-a0c1-4d7a7569407a",
+    "title": "DisconfirmAI",
+    "type": "web"
   }
 ]
