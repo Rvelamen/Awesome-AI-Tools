@@ -67,12 +67,13 @@
 
 ### MCP 服务
 
-共 2 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/MCP 服务/)
+共 3 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/MCP 服务/)
 
 | 工具 | 简介 |
 | --- | --- |
 | [NeverApply](https://neverapply.co/features/mcp) | 托管求职 MCP 服务器：职位搜索匹配、简历定制、面试准备，确认后投递申请 |
 | [CorpusIQ](https://www.corpusiq.io/) | 托管商业数据 MCP 服务器：40+ 连接器查询 Stripe、GA4、Shopify 等业务数据 |
+| [Vaneform](https://vaneform.com/mcp) | 托管网站流量 MCP：查询公开域名的估算访问量、趋势与来源等信号 |
 
 ---
 
@@ -460,7 +461,7 @@
 | 项目分类 | 数量 |
 | --- | ---: |
 | [Agent 技能](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/Agent%20技能/) | 9 |
-| [MCP 服务](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/MCP%20服务/) | 7 |
+| [MCP 服务](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/MCP%20服务/) | 8 |
 | [CLI 工具](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/CLI%20工具/) | 6 |
 | [插件与扩展](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/插件与扩展/) | 2 |
 | [代理应用](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/代理应用/) | 2 |
