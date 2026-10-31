@@ -18329,5 +18329,16 @@
     "id": "189b39a0-1bb4-42b4-b4ce-0444e0640527",
     "title": "ZombieHug",
     "type": "web"
+  },
+  {
+    "url": "https://terastudio.co/zh-hans/",
+    "title": "Tera Studio",
+    "type": "web",
+    "description": "网页端 AI 歌声工具：对着手机唱约 1 分钟（唱满 2 分钟更像你）学会你的声音，再把你上传的歌用你的声音唱出来，支持任何语言；新账号可在网站上试听 2 首完整歌曲，每首最长 4 分钟，无需绑卡",
+    "image": "https://terastudio.co/images/logo-512.png",
+    "category": [
+      "音频工具"
+    ],
+    "id": "7e3d13cd-5ff1-4535-aa0a-5a888ef494bc"
   }
 ]
