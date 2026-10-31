@@ -18329,5 +18329,17 @@
     "id": "189b39a0-1bb4-42b4-b4ce-0444e0640527",
     "title": "ZombieHug",
     "type": "web"
+  },
+  {
+    "url": "https://github.com/OakcoderX/solopup-memory",
+    "title": "SoloPup Memory (public beta)",
+    "type": "plugin",
+    "description": "DeepSeek Harness文本记忆插件，保留原文出处、项目/全局作用域及修正记录。MIT公开测试版0.21.0-beta.2，需Node≥24.9及DSH；词法召回可能遗漏改写，模型API可能收费。",
+    "image": "https://raw.githubusercontent.com/OakcoderX/solopup-memory/main/icon.svg",
+    "category": [
+      "插件与扩展"
+    ],
+    "kind": "project",
+    "id": "96ce56c9-3444-4f8c-903d-e557243aba83"
   }
 ]
