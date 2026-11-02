@@ -18329,5 +18329,16 @@
     "id": "189b39a0-1bb4-42b4-b4ce-0444e0640527",
     "title": "ZombieHug",
     "type": "web"
+  },
+  {
+    "url": "https://danceaigenerator.com/?utm_source=github&utm_medium=github&utm_campaign=Rvelamen_Awesome-AI-Tools",
+    "description": "上传一张人物或宠物照片，生成 6 秒竖屏 9:16 AI 跳舞视频",
+    "image": "https://danceaigenerator.com/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "cd52202d-04a1-4e26-8d26-45ea7b4eea9e",
+    "title": "Dance AI Generator",
+    "type": "web"
   }
 ]
