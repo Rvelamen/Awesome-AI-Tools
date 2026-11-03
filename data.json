@@ -18329,5 +18329,16 @@
     "id": "189b39a0-1bb4-42b4-b4ce-0444e0640527",
     "title": "ZombieHug",
     "type": "web"
+  },
+  {
+    "url": "https://seedancenow.com",
+    "description": "多模型文生视频 / 图生视频工具，可选 Seedance 2.5、Kling 4.0、Wan 3.0（独立工具，与字节跳动无关）",
+    "image": "https://seedancenow.com/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "634dd40b-84d0-456f-b3e8-a24d473d8ce1",
+    "title": "添加 Seedance Now 到视频工具",
+    "type": "web"
   }
 ]
