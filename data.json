@@ -18329,5 +18329,16 @@
     "id": "189b39a0-1bb4-42b4-b4ce-0444e0640527",
     "title": "ZombieHug",
     "type": "web"
+  },
+  {
+    "url": "https://makeimg.ai",
+    "description": "文字或参考图生成图片，可切换 11 个图像模型",
+    "image": "https://makeimg.ai/favicon.ico",
+    "category": [
+      "图像工具"
+    ],
+    "id": "09a3fc70-63de-431c-ad62-6e4ae144fe5e",
+    "title": "添加 MakeImg 到图像工具",
+    "type": "web"
   }
 ]
