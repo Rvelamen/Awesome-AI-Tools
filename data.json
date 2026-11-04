@@ -18396,5 +18396,27 @@
     "id": "cd52202d-04a1-4e26-8d26-45ea7b4eea9e",
     "title": "Dance AI Generator",
     "type": "web"
+  },
+  {
+    "url": "https://cyanvid.com",
+    "title": "Cyanvid",
+    "type": "web",
+    "description": "AI视频生成器，支持文本或图像生成视频，生成前可见精确积分报价",
+    "image": "",
+    "category": [
+      "视频工具"
+    ],
+    "id": "fc1b7b3a-9f27-4d6a-8515-72f6d9023397"
+  },
+  {
+    "url": "https://barzvideo.com",
+    "title": "Barz Studio",
+    "type": "web",
+    "description": "上传曲目生成卡点说唱歌词视频，浏览器内免费使用，无需账号",
+    "image": "",
+    "category": [
+      "视频工具"
+    ],
+    "id": "e090e228-3314-42ed-a2d0-1564275807da"
   }
 ]
