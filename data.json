@@ -18351,5 +18351,16 @@
       "MCP 服务"
     ],
     "id": "942cada7-e19d-4483-842f-0f5fe3d07d0b"
+  },
+  {
+    "url": "https://vivify.video/realtime-face-swap",
+    "title": "Vivify",
+    "description": "???????????????????????????????",
+    "image": "https://vivify.video/og-image.png",
+    "category": [
+      "????"
+    ],
+    "type": "web",
+    "id": "ba8b4214-a748-4a16-9ea0-b26efae6cdd6"
   }
 ]
