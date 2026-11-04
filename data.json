@@ -18451,5 +18451,16 @@
       "效能工具"
     ],
     "id": "93cc0c33-b224-47c3-9d51-ed642f6fd903"
+  },
+  {
+    "url": "https://artigram.cafeboon.com",
+    "title": "ArtiGram",
+    "type": "web",
+    "description": "免费的交互式 HTML 作品图库，用户和 AI 助手都可以发布，并提供远程 MCP 服务器（可免密钥搜索，发布需 API 密钥）",
+    "image": "",
+    "category": [
+      "效能工具"
+    ],
+    "id": "aa9a98cf-e0dd-478b-82bb-6210fe613254"
   }
 ]
