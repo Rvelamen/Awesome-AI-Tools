@@ -18355,10 +18355,10 @@
   {
     "url": "https://vivify.video/realtime-face-swap",
     "title": "Vivify",
-    "description": "???????????????????????????????",
+    "description": "在线实时换脸工具：摄像头画面实时换脸、试穿与风格变换，支持视觉参考图",
     "image": "https://vivify.video/og-image.png",
     "category": [
-      "????"
+      "视频工具"
     ],
     "type": "web",
     "id": "ba8b4214-a748-4a16-9ea0-b26efae6cdd6"
@@ -18387,7 +18387,7 @@
     "id": "96ce56c9-3444-4f8c-903d-e557243aba83"
   },
   {
-    "url": "https://danceaigenerator.com/?utm_source=github&utm_medium=github&utm_campaign=Rvelamen_Awesome-AI-Tools",
+    "url": "https://danceaigenerator.com/",
     "description": "上传一张人物或宠物照片，生成 6 秒竖屏 9:16 AI 跳舞视频",
     "image": "https://danceaigenerator.com/favicon.ico",
     "category": [
@@ -18440,5 +18440,16 @@
     "id": "634dd40b-84d0-456f-b3e8-a24d473d8ce1",
     "title": "Seedance Now",
     "type": "web"
+  },
+  {
+    "url": "https://meetnewai.com",
+    "title": "MeetNewAI",
+    "type": "web",
+    "description": "免费双语 AI 工具/游戏/MCP/技能目录，附带 AI 成本计算器",
+    "image": "",
+    "category": [
+      "效能工具"
+    ],
+    "id": "93cc0c33-b224-47c3-9d51-ed642f6fd903"
   }
 ]
