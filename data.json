@@ -18418,5 +18418,16 @@
       "视频工具"
     ],
     "id": "e090e228-3314-42ed-a2d0-1564275807da"
+  },
+  {
+    "url": "https://makeimg.ai",
+    "description": "文字或参考图生成图片，可切换 11 个图像模型",
+    "image": "https://makeimg.ai/favicon.ico",
+    "category": [
+      "图像工具"
+    ],
+    "id": "09a3fc70-63de-431c-ad62-6e4ae144fe5e",
+    "title": "MakeImg",
+    "type": "web"
   }
 ]
