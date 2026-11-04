@@ -18329,5 +18329,16 @@
     "id": "189b39a0-1bb4-42b4-b4ce-0444e0640527",
     "title": "ZombieHug",
     "type": "web"
+  },
+  {
+    "url": "https://findaiforwork.com",
+    "description": "按工作场景检索、查看和比较 AI 工具的目录，提供只读远程 MCP 服务",
+    "image": "https://findaiforwork.com/android-chrome-512x512.png",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "11227c8d-5536-4bf8-ab3a-48987221d01c",
+    "title": "FindAIforWork",
+    "type": "mcp"
   }
 ]
