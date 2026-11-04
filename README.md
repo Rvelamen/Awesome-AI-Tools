@@ -108,7 +108,7 @@
 
 ### 视频工具
 
-共 241 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/视频工具/)
+共 242 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/视频工具/)
 
 | 工具 | 简介 |
 | --- | --- |
