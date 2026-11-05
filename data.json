@@ -18462,5 +18462,16 @@
       "效能工具"
     ],
     "id": "aa9a98cf-e0dd-478b-82bb-6210fe613254"
+  },
+  {
+    "url": "https://vidney.ai/",
+    "title": "Vidney",
+    "type": "web",
+    "description": "浏览器 AI 视频与图片工作台，支持从文字或参考照片生成内容，多个模型共用积分余额。",
+    "image": "https://vidney.ai/icon.png",
+    "category": [
+      "视频工具"
+    ],
+    "id": "de521549-8d00-4200-b21c-4ae6b0f85580"
   }
 ]
