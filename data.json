@@ -18473,5 +18473,16 @@
       "视频工具"
     ],
     "id": "de521549-8d00-4200-b21c-4ae6b0f85580"
+  },
+  {
+    "url": "https://alternativer.org/",
+    "title": "Alternativer",
+    "type": "web",
+    "description": "编辑策展的 AI 工具替代目录，可一句话对比定价与功能差异",
+    "image": "",
+    "category": [
+      "效能工具"
+    ],
+    "id": "c58d558a-3080-4ad8-9193-58b509a55081"
   }
 ]
