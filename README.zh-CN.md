@@ -7,7 +7,7 @@
 **持续更新的 AI 工具收录清单**
 
 大语言模型 / Agent / 编程 / 图像 / 音视频<br>
-**1644** 个 AI 工具 · **28** 个开源项目 · **36** 个分类
+**1645** 个 AI 工具 · **28** 个开源项目 · **36** 个分类
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/Rvelamen/Awesome-AI-Tools?style=social)](https://github.com/Rvelamen/Awesome-AI-Tools)
 
@@ -152,7 +152,7 @@
 
 ### 音频工具
 
-共 96 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/音频工具/)
+共 97 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/音频工具/)
 
 | 工具 | 简介 |
 | --- | --- |
@@ -161,6 +161,7 @@
 | [魔音工坊](https://www.moyin.com) | AI 配音工具，可配出媲美真人的声音 |
 | [通义听悟](https://tingwu.aliyun.com) | 阿里推出的 AI 会议转录工具 |
 | [Noiz AI](https://noiz.ai/landing) | AI 配音工具，支持文本转语音和声音克隆 |
+| [Transcribe Video: To The Text](https://video2text.ttt.so) | iPhone 应用：视频文件、YouTube/Vimeo 链接与实时语音转文字，支持说话人视图、摘要与 TXT/DOCX 导出 |
 
 ---
 

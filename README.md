@@ -7,7 +7,7 @@
 **A continuously updated, curated list of AI tools**
 
 LLMs / Agents / Coding / Image / Audio & Video<br>
-**1644** AI tools · **28** open-source projects · **36** categories
+**1645** AI tools · **28** open-source projects · **36** categories
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/Rvelamen/Awesome-AI-Tools?style=social)](https://github.com/Rvelamen/Awesome-AI-Tools)
 
@@ -152,7 +152,7 @@ LLMs / Agents / Coding / Image / Audio & Video<br>
 
 ### Audio Tools
 
-96 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/音频工具/)
+97 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/音频工具/)
 
 | Tool | Description |
 | --- | --- |
@@ -161,6 +161,7 @@ LLMs / Agents / Coding / Image / Audio & Video<br>
 | [魔音工坊](https://www.moyin.com) | AI voiceover tool with near-human voices |
 | [通义听悟](https://tingwu.aliyun.com) | Alibaba's AI meeting transcription tool (Tingwu) |
 | [Noiz AI](https://noiz.ai/landing) | AI voiceover with text-to-speech and voice cloning |
+| [Transcribe Video: To The Text](https://video2text.ttt.so) | iPhone app that turns video files, YouTube/Vimeo links, and live voice into text with speaker view, summaries, and TXT/DOCX export |
 
 ---
 

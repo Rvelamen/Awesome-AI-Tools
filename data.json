@@ -18484,5 +18484,16 @@
       "效能工具"
     ],
     "id": "c58d558a-3080-4ad8-9193-58b509a55081"
+  },
+  {
+    "url": "https://video2text.ttt.so",
+    "title": "Transcribe Video: To The Text",
+    "type": "app",
+    "description": "iPhone 应用：将视频文件、YouTube/Vimeo 链接和实时语音转成文字，支持说话人视图、摘要与 TXT/DOCX 导出",
+    "image": "",
+    "category": [
+      "音频工具"
+    ],
+    "id": "82c3c338-ff73-4e02-8774-aa861ca77c64"
   }
 ]
