@@ -7,7 +7,7 @@
 **A continuously updated, curated list of AI tools**
 
 LLMs / Agents / Coding / Image / Audio & Video<br>
-**1643** AI tools · **28** open-source projects · **36** categories
+**1644** AI tools · **28** open-source projects · **36** categories
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/Rvelamen/Awesome-AI-Tools?style=social)](https://github.com/Rvelamen/Awesome-AI-Tools)
 
@@ -95,7 +95,7 @@ LLMs / Agents / Coding / Image / Audio & Video<br>
 
 ### Productivity
 
-82 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/效能工具/)
+83 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/效能工具/)
 
 | Tool | Description |
 | --- | --- |
@@ -105,6 +105,7 @@ LLMs / Agents / Coding / Image / Audio & Video<br>
 | [WPS灵犀](https://lingxi.wps.cn) | WPS's AI office assistant for PPT generation and writing |
 | [TinyWow](https://tinywow.com/) | Free online AI toolbox |
 | [MeetNewAI](https://meetnewai.com) | Bilingual directory of AI tools, games, MCP servers and skills, with an AI cost calculator |
+| [Alternativer](https://alternativer.org/) | Editor-curated directory to find alternatives to AI tools, with one-line pricing and feature diffs |
 
 ---
 

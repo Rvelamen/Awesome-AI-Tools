@@ -7,7 +7,7 @@
 **持续更新的 AI 工具收录清单**
 
 大语言模型 / Agent / 编程 / 图像 / 音视频<br>
-**1643** 个 AI 工具 · **28** 个开源项目 · **36** 个分类
+**1644** 个 AI 工具 · **28** 个开源项目 · **36** 个分类
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/Rvelamen/Awesome-AI-Tools?style=social)](https://github.com/Rvelamen/Awesome-AI-Tools)
 
@@ -95,12 +95,13 @@
 
 ### 效能工具
 
-共 82 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/效能工具/)
+共 83 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/效能工具/)
 
 | 工具 | 简介 |
 | --- | --- |
 | [Manus](https://manus.im) | Monica 团队推出的通用型 AI Agent |
 | [MeetNewAI](https://meetnewai.com) | 免费双语 AI 工具/游戏/MCP/技能目录，附带 AI 成本计算器 |
+| [Alternativer](https://alternativer.org/) | 编辑策展的 AI 工具替代目录，可一句话对比定价与功能差异 |
 | [Monica](https://monica.cn) | 全能 AI 助手，提供聊天、搜索、写作、翻译等功能 |
 | [ima.copilot](https://ima.qq.com) | 腾讯推出的 AI 智能工作台，基于混元大模型 |
 | [WPS灵犀](https://lingxi.wps.cn) | WPS 推出的 AI 办公助手，支持 PPT 生成、AI 写作 |
