@@ -18506,5 +18506,16 @@
       "音频工具"
     ],
     "id": "82c3c338-ff73-4e02-8774-aa861ca77c64"
+  },
+  {
+    "url": "https://refvid.com",
+    "title": "RefVid",
+    "type": "web",
+    "description": "上传几张角色或产品参考图，生成主体在每个镜头里保持一致的 AI 视频",
+    "image": "https://refvid.com/apple-touch-icon.png",
+    "category": [
+      "视频工具"
+    ],
+    "id": "120045c4-5a53-4174-b6bd-5c71f0c7c63a"
   }
 ]
