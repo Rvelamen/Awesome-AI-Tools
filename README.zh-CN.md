@@ -7,7 +7,7 @@
 **持续更新的 AI 工具收录清单**
 
 大语言模型 / Agent / 编程 / 图像 / 音视频<br>
-**1647** 个 AI 工具 · **28** 个开源项目 · **36** 个分类
+**1648** 个 AI 工具 · **28** 个开源项目 · **36** 个分类
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/Rvelamen/Awesome-AI-Tools?style=social)](https://github.com/Rvelamen/Awesome-AI-Tools)
 
