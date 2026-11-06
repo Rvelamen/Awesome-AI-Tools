@@ -18528,5 +18528,16 @@
       "视频工具"
     ],
     "id": "120045c4-5a53-4174-b6bd-5c71f0c7c63a"
+  },
+  {
+    "url": "https://datacircle.dev",
+    "title": "Datacircle",
+    "type": "mcp",
+    "description": "Find the best GTM APIs. Our MCP server is open to anyone, with no key: add https://api.datacircle.dev/mcp to Claude, ChatGPT or Cursor.",
+    "image": "https://datacircle.dev/favicon.png",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "1aeef862-55d3-477a-8283-8f209ee95bfb"
   }
 ]
