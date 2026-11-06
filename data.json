@@ -18506,5 +18506,16 @@
       "音频工具"
     ],
     "id": "82c3c338-ff73-4e02-8774-aa861ca77c64"
+  },
+  {
+    "url": "https://automater.ai",
+    "title": "AUTOMATER.ai",
+    "type": "app",
+    "description": "托盘应用（Windows、macOS、Linux）：集中管理你运行的每个 AI 编程智能体，提供可搜索的历史会话库、智能体等待提醒，以及 9 家服务商的用量统计；提供免费版",
+    "image": "https://automater.ai/media/kit/automater-icon-512.png",
+    "category": [
+      "效能工具"
+    ],
+    "id": "f5557364-998e-45ec-a0bf-63dd2177729c"
   }
 ]
