@@ -105,6 +105,7 @@ LLMs / Agents / Coding / Image / Audio & Video<br>
 | [WPS灵犀](https://lingxi.wps.cn) | WPS's AI office assistant for PPT generation and writing |
 | [TinyWow](https://tinywow.com/) | Free online AI toolbox |
 | [MeetNewAI](https://meetnewai.com) | Bilingual directory of AI tools, games, MCP servers and skills, with an AI cost calculator |
+| [EarlyLore](https://earlylore.com) | AI idea validator: competitors, demand, pricing, and entry angles against real products |
 | [Alternativer](https://alternativer.org/) | Editor-curated directory to find alternatives to AI tools, with one-line pricing and feature diffs |
 
 ---
