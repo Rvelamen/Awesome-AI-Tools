@@ -18552,7 +18552,63 @@
     "id": "debf96a6-c2d7-4594-b0b1-ff4f05ce1a9c"
   },
   {
-    "url": "https://heartbicepai.com/",
+  },
+  {
+    "url": "https://imagera.ai",
+    "title": "Imagera",
+    "type": "web",
+    "description": "AI 创作工作室：在一个工作区里并排使用多种主流图像与视频模型来生成和编辑图片、视频、配音和音乐，每次生成前显示积分价格；Character ID 可在多张图片和视频中保持同一张脸或同一款产品一致；付费积分套餐",
+    "image": "https://cdn.imagera.ai/site/listings/imagera-logo-400-dae936b7de81.png",
+    "category": [
+      "图片插画生成",
+      "视频工具"
+    ],
+    "id": "ee51a89b-c1e7-46c5-ba78-ee56710875b1"
+  },
+  {
+    "url": "https://imagera.ai/code",
+    "title": "Imagera Code",
+    "type": "app",
+    "description": "终端 AI 编程代理（基于 OpenCode）：读写项目代码、运行命令和测试，可无界面运行或通过 ACP、MCP 接入；一个订阅即可使用 Claude、GPT、Gemini 等数百个模型，用量额度每 3 小时重置；npm i -g imagera-code 安装",
+    "image": "https://cdn.imagera.ai/site/listings/imagera-logo-400-dae936b7de81.png",
+    "category": [
+      "编程工具"
+    ],
+    "id": "de0a5b51-85ab-417b-b7d3-c1b30b89ca82"
+  },
+  {
+    "url": "https://imagera.ai/mcp",
+    "title": "Imagera MCP",
+    "type": "mcp",
+    "description": "托管的图像/视频/配音/音乐生成 MCP 服务器（https://mcp.imagera.ai/mcp，OAuth 登录，无需 API Key）：让 Claude、Cursor、ChatGPT 等 AI 助手直接生成和编辑媒体，运行前可估算积分成本；按用户的 Imagera 账户付费",
+    "image": "https://cdn.imagera.ai/site/listings/imagera-logo-400-dae936b7de81.png",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "2ddb04e7-2241-4598-9e4a-de498559f985"
+  },
+  {
+    "url": "https://imagera.ai/glowcam",
+    "title": "GlowCam",
+    "type": "plugin",
+    "description": "Chrome 扩展：为浏览器里的视频会议（Google Meet、Zoom、Teams、Webex、Whereby、Discord）实时添加自然的美颜、妆容和补光效果，在本地设备上处理，视频不离开电脑，无需 OBS 或虚拟摄像头；7 天试用后付费",
+    "image": "https://cdn.imagera.ai/site/listings/glowcam-icon-128-7644c53f7370.png",
+    "category": [
+      "会议工具"
+    ],
+    "id": "1cb47cf7-fde9-4ad7-8081-21f86302a538"
+  },
+  {
+    "url": "https://datacircle.dev",
+    "title": "Datacircle",
+    "type": "mcp",
+    "description": "Find the best GTM APIs. Our MCP server is open to anyone, with no key: add https://api.datacircle.dev/mcp to Claude, ChatGPT or Cursor.",
+    "image": "https://datacircle.dev/favicon.png",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "1aeef862-55d3-477a-8283-8f209ee95bfb"  },
+  {    "url": "https://heartbicepai.com/",
     "description": "上传一张半身照，生成比心（bicep heart）短视频；先看免费静态预览，再按次购买成片（$2.99 / $6.99 / $19.99）。",
     "image": "https://heartbicepai.com/favicon.ico",
     "category": [
