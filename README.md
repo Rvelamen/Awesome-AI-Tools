@@ -7,7 +7,7 @@
 **A continuously updated, curated list of AI tools**
 
 LLMs / Agents / Coding / Image / Audio & Video<br>
-**1648** AI tools · **28** open-source projects · **36** categories
+**1649** AI tools · **28** open-source projects · **36** categories
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/Rvelamen/Awesome-AI-Tools?style=social)](https://github.com/Rvelamen/Awesome-AI-Tools)
 
@@ -105,13 +105,15 @@ LLMs / Agents / Coding / Image / Audio & Video<br>
 | [WPS灵犀](https://lingxi.wps.cn) | WPS's AI office assistant for PPT generation and writing |
 | [TinyWow](https://tinywow.com/) | Free online AI toolbox |
 | [MeetNewAI](https://meetnewai.com) | Bilingual directory of AI tools, games, MCP servers and skills, with an AI cost calculator |
+| [EarlyLore](https://earlylore.com) | AI idea validator: competitors, demand, pricing, and entry angles against real products |
 | [Alternativer](https://alternativer.org/) | Editor-curated directory to find alternatives to AI tools, with one-line pricing and feature diffs |
+| [DisconfirmAI](https://disconfirmai.com/en) | Investment research and reading platform that helps you seek disconfirming evidence before conviction |
 
 ---
 
 ### Video Tools
 
-248 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/视频工具/)
+249 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/视频工具/)
 
 | Tool | Description |
 | --- | --- |
@@ -363,7 +365,7 @@ LLMs / Agents / Coding / Image / Audio & Video<br>
 
 ### 3D Model Generation
 
-15 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/3D模型生成/)
+16 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/3D模型生成/)
 
 | Tool | Description |
 | --- | --- |
