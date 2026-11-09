@@ -106,6 +106,7 @@ LLMs / Agents / Coding / Image / Audio & Video<br>
 | [TinyWow](https://tinywow.com/) | Free online AI toolbox |
 | [MeetNewAI](https://meetnewai.com) | Bilingual directory of AI tools, games, MCP servers and skills, with an AI cost calculator |
 | [Alternativer](https://alternativer.org/) | Editor-curated directory to find alternatives to AI tools, with one-line pricing and feature diffs |
+| [DisconfirmAI](https://disconfirmai.com/en) | Investment research and reading platform that helps you seek disconfirming evidence before conviction |
 
 ---
 
