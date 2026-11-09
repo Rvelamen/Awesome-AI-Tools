@@ -18586,6 +18586,16 @@
     "id": "1cb47cf7-fde9-4ad7-8081-21f86302a538"
   },
   {
+    "url": "https://datacircle.dev",
+    "title": "Datacircle",
+    "type": "mcp",
+    "description": "Find the best GTM APIs. Our MCP server is open to anyone, with no key: add https://api.datacircle.dev/mcp to Claude, ChatGPT or Cursor.",
+    "image": "https://datacircle.dev/favicon.png",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "1aeef862-55d3-477a-8283-8f209ee95bfb"  },
+  {
     "url": "https://heartbicepai.com/",
     "description": "上传一张半身照，生成比心（bicep heart）短视频；先看免费静态预览，再按次购买成片（$2.99 / $6.99 / $19.99）。",
     "image": "https://heartbicepai.com/favicon.ico",
