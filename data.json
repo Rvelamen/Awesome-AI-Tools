@@ -18528,5 +18528,16 @@
       "视频工具"
     ],
     "id": "120045c4-5a53-4174-b6bd-5c71f0c7c63a"
+  },
+  {
+    "url": "https://heartbicepai.com/",
+    "description": "上传一张半身照，生成比心（bicep heart）短视频；先看免费静态预览，再按次购买成片（$2.99 / $6.99 / $19.99）。",
+    "image": "https://heartbicepai.com/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "46b2ad1b-0ef0-4dd0-98e4-5464a04bcf4a",
+    "title": "Heart Bicep AI",
+    "type": "web"
   }
 ]
