@@ -18617,5 +18617,15 @@
     "id": "46b2ad1b-0ef0-4dd0-98e4-5464a04bcf4a",
     "title": "Heart Bicep AI",
     "type": "web"
-  }
+  },
+  {
+    "url": "https://cookllm.com/jobs/match",
+    "title": "CookLLM 简历匹配",
+    "type": "web",
+    "description": "上传一次简历，每天或每周把 1,300 多家 AI 公司官网和招聘团队在 X、领英上发的新岗位按技能、经验、级别打分，只把匹配度 70% 以上的发到邮箱；岗位看板免费浏览，匹配要开通求职会员（每周 9 美元起）",
+    "image": "https://cookllm.com/logo.png",
+    "category": [
+      "招聘求职求职"
+    ],
+    "id": "0cd5f699-84c5-4fc5-8974-a97bedca9636"  }
 ]
