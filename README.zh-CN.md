@@ -363,7 +363,7 @@
 
 ### 3D模型生成
 
-共 15 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/3D模型生成/)
+共 16 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/3D模型生成/)
 
 | 工具 | 简介 |
 | --- | --- |

@@ -9825,6 +9825,17 @@
     "type": "web"
   },
   {
+    "url": "https://objekto.io/en",
+    "title": "objekto.io",
+    "type": "web",
+    "description": "法国的 AI 造物服务：用几句话、一张照片或一张草图描述物品，AI 逐个部件设计可 3D 打印的多部件模型，检查每个部件的可打印性，附爆炸图和装配指南，再由工业 3D 打印工坊制造并配送（目前仅配送至法国）",
+    "image": "https://objekto.io/icon.svg",
+    "category": [
+      "3D模型生成"
+    ],
+    "id": "4dfb2c4a-2cb2-4d42-9398-dcb9b5868332"
+  },
+  {
     "url": "https://www.ihuiwa.com/workspace/partial-redraw?editType=smart-matting",
     "description": "绘蛙推出的AI智能抠图工具",
     "image": "https://ai-bot.cn/wp-content/uploads/2024/03/ihuiwa-icon.png",

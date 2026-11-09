@@ -364,7 +364,7 @@ LLMs / Agents / Coding / Image / Audio & Video<br>
 
 ### 3D Model Generation
 
-15 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/3D模型生成/)
+16 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/3D模型生成/)
 
 | Tool | Description |
 | --- | --- |
