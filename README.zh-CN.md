@@ -8,7 +8,7 @@
 
 大语言模型 / Agent / 编程 / 图像 / 音视频<br>
 **1652** 个 AI 工具 · **28** 个开源项目 · **36** 个分类
-
+**1649** 个 AI 工具 · **28** 个开源项目 · **36** 个分类
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/Rvelamen/Awesome-AI-Tools?style=social)](https://github.com/Rvelamen/Awesome-AI-Tools)
 
 ⭐ 如果这份清单对你有帮助，欢迎 Star，让更多人和 Agent 发现它
@@ -363,7 +363,7 @@
 
 ### 3D模型生成
 
-共 15 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/3D模型生成/)
+共 16 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/3D模型生成/)
 
 | 工具 | 简介 |
 | --- | --- |
