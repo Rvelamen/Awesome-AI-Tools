@@ -18627,5 +18627,17 @@
     "category": [
       "招聘求职求职"
     ],
-    "id": "0cd5f699-84c5-4fc5-8974-a97bedca9636"  }
+    "id": "0cd5f699-84c5-4fc5-8974-a97bedca9636"
+  },
+  {
+    "url": "https://heirloompix.com/",
+    "title": "HeirloomPix",
+    "type": "web",
+    "description": "修复旧照片的划痕与褪色，支持上色和前后对比；下载完整图片需付费",
+    "image": "https://heirloompix.com/favicon.svg",
+    "category": [
+      "图片优化修复"
+    ],
+    "id": "fe1a7c0e-5902-4b50-bd10-a025870663b7"
+  }
 ]
