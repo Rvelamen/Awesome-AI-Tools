@@ -18552,8 +18552,6 @@
     "id": "debf96a6-c2d7-4594-b0b1-ff4f05ce1a9c"
   },
   {
-  },
-  {
     "url": "https://imagera.ai",
     "title": "Imagera",
     "type": "web",
@@ -18607,8 +18605,10 @@
     "category": [
       "MCP 服务"
     ],
-    "id": "1aeef862-55d3-477a-8283-8f209ee95bfb"  },
-  {    "url": "https://heartbicepai.com/",
+    "id": "1aeef862-55d3-477a-8283-8f209ee95bfb"
+  },
+  {
+    "url": "https://heartbicepai.com/",
     "description": "上传一张半身照，生成比心（bicep heart）短视频；先看免费静态预览，再按次购买成片（$2.99 / $6.99 / $19.99）。",
     "image": "https://heartbicepai.com/favicon.ico",
     "category": [
@@ -18616,5 +18616,6 @@
     ],
     "id": "46b2ad1b-0ef0-4dd0-98e4-5464a04bcf4a",
     "title": "Heart Bicep AI",
-    "type": "web"  }
+    "type": "web"
+  }
 ]
