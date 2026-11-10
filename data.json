@@ -18650,5 +18650,16 @@
       "编程工具"
     ],
     "id": "40c9ddd8-1484-411b-a489-ffe5dabae954"
+  },
+  {
+    "url": "https://h3minimax.com/",
+    "title": "MiniMax H3 Video Generator (h3minimax.com)",
+    "type": "web",
+    "description": "在浏览器里用 MiniMax H3 视频模型把文字提示或一张照片生成 4–15 秒短视频，可选 768P 或 2K、6 种画面比例；按积分计费，新账号送试用积分",
+    "image": "https://www.h3minimax.com/h3-social.png",
+    "category": [
+      "视频工具"
+    ],
+    "id": "d15c21ea-1018-4a8a-8ad5-9bf93be093d5"
   }
 ]
