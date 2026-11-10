@@ -7,7 +7,7 @@
 **A continuously updated, curated list of AI tools**
 
 LLMs / Agents / Coding / Image / Audio & Video<br>
-**1652** AI tools · **28** open-source projects · **36** categories
+**1659** AI tools · **28** open-source projects · **36** categories
 **1649** AI tools · **28** open-source projects · **36** categories
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/Rvelamen/Awesome-AI-Tools?style=social)](https://github.com/Rvelamen/Awesome-AI-Tools)
 
@@ -55,7 +55,7 @@ LLMs / Agents / Coding / Image / Audio & Video<br>
 
 ### Coding Tools
 
-201 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/编程工具/)
+202 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/编程工具/)
 
 | Tool | Description |
 | --- | --- |
@@ -69,7 +69,7 @@ LLMs / Agents / Coding / Image / Audio & Video<br>
 
 ### MCP Services
 
-5 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/MCP 服务/)
+6 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/MCP 服务/)
 
 | Tool | Description |
 | --- | --- |
@@ -113,7 +113,7 @@ LLMs / Agents / Coding / Image / Audio & Video<br>
 
 ### Video Tools
 
-249 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/视频工具/)
+251 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/视频工具/)
 
 | Tool | Description |
 | --- | --- |
@@ -337,7 +337,7 @@ LLMs / Agents / Coding / Image / Audio & Video<br>
 
 ### Photo Enhancement
 
-20 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/图片优化修复/)
+21 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/图片优化修复/)
 
 | Tool | Description |
 | --- | --- |
@@ -435,7 +435,7 @@ LLMs / Agents / Coding / Image / Audio & Video<br>
 
 ### Career Tools
 
-33 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/招聘求职求职/)
+34 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/招聘求职求职/)
 
 | Tool | Description |
 | --- | --- |
