@@ -18650,5 +18650,16 @@
       "编程工具"
     ],
     "id": "40c9ddd8-1484-411b-a489-ffe5dabae954"
+  },
+  {
+    "url": "https://seedream55.io/",
+    "title": "Seedream 5.5 Image Generator (seedream55.io)",
+    "type": "web",
+    "description": "网页版 AI 图片生成：文生图、图生图（最多 10 张参考图），8 种画面比例，输出 PNG；现在跑 Seedream 5.0 Pro，5.5 发布后切换；新用户送试用积分，另有订阅和积分包",
+    "image": "https://seedream55.io/sd55-social.png",
+    "category": [
+      "图片插画生成"
+    ],
+    "id": "30bf6182-0ae4-40ac-80ea-57037bd6699a"
   }
 ]
