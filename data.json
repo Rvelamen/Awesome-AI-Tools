@@ -18639,5 +18639,16 @@
       "图片优化修复"
     ],
     "id": "fe1a7c0e-5902-4b50-bd10-a025870663b7"
+  },
+  {
+    "url": "https://teapotrouter.com",
+    "title": "Teapot Router",
+    "type": "web",
+    "description": "面向 Claude Code 等编程客户端的 API 网关：Anthropic+OpenAI 双协议同一个 Key，逐笔计费日志可对账，余额永不过期",
+    "image": "https://teapotrouter.com/icon.svg",
+    "category": [
+      "编程工具"
+    ],
+    "id": "40c9ddd8-1484-411b-a489-ffe5dabae954"
   }
 ]
