@@ -18672,5 +18672,16 @@
       "图片插画生成"
     ],
     "id": "30bf6182-0ae4-40ac-80ea-57037bd6699a"
+  },
+  {
+    "url": "https://trypromptgenerator.com",
+    "title": "Prompt Generator (trypromptgenerator.com)",
+    "type": "web",
+    "description": "按你所选 AI 工具的语法生成提示词，支持 ChatGPT、Claude、Gemini、Midjourney、Nano Banana、Veo、Sora 等，也可上传图片反推提示词；每天 10 次免费，无需注册，另有订阅",
+    "image": "https://trypromptgenerator.com/apple-icon",
+    "category": [
+      "提示词工程"
+    ],
+    "id": "54210ded-48b6-496a-a2ab-1c2672ee3f00"
   }
 ]
