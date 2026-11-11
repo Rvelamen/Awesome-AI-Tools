@@ -1,0 +1,36 @@
+---
+import type { ShowcaseEntry } from '../lib/showcase';
+
+interface Props {
+  entry: ShowcaseEntry;
+}
+
+const { entry } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const likes = entry.likes
+  ? entry.likes >= 1000
+    ? `${(entry.likes / 1000).toFixed(1).replace(/\.0$/, '')}k`
+    : String(entry.likes)
+  : '';
+---
+
+<a class="card" href={entry.url} target="_blank" rel="noopener">
+  {
+    entry.preview && (
+      <span class="thumb">
+        <img src={`${base}${entry.preview}`} alt={entry.title} loading="lazy" onerror="this.parentElement.remove()" />
+      </span>
+    )
+  }
+  <span class="body">
+    <span class="meta">
+      <strong>{entry.title}</strong>
+      <span class="desc">{entry.description}</span>
+      <span class="repo-meta">
+        {entry.author && <span class="lang">by @{entry.author}</span>}
+        {likes && <span class="stars">♥ {likes}</span>}
+      </span>
+    </span>
+    <span class="type">{entry.category}</span>
+  </span>
+</a>

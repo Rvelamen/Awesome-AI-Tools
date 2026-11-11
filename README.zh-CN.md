@@ -471,6 +471,8 @@
 | [代理应用](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/代理应用/) | 2 |
 | [开发库](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/开发库/) | 1 |
 
+网站另设 [AI 作品](https://rvelamen.github.io/Awesome-AI-Tools/showcase/) 栏目：收录用 AI 模型直接生成的游戏、3D 世界与网页作品，每条附 GIF 预览与作者署名。
+
 ## 贡献指南
 
 所有条目统一维护在 [`data.json`](./data.json) 中，README 展示各分类的精选子集，网站会在合并 PR 后自动构建部署。欢迎通过以下方式参与共建：

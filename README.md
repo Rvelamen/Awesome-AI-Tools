@@ -473,6 +473,8 @@ Besides tools, the catalog includes **28** open-source projects, with cards show
 | [Agent Applications](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/代理应用/) | 2 |
 | [Dev Libraries](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/开发库/) | 1 |
 
+The website also has an [AI Works](https://rvelamen.github.io/Awesome-AI-Tools/showcase/) section: games, 3D worlds and web pages generated directly by AI models, each with a GIF preview and creator credit.
+
 ## Contributing
 
 All entries live in [`data.json`](./data.json); the READMEs show a curated subset per category, and the website rebuilds automatically after PRs are merged. Contributions are welcome:

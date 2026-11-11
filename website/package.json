@@ -4,9 +4,9 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "predev": "cp ../data.json ./data.json && bash scripts/fetch-icons.sh && node scripts/gen-dates.mjs",
+    "predev": "cp ../data.json ../showcase.json ./ && bash scripts/fetch-icons.sh && node scripts/gen-dates.mjs",
     "dev": "astro dev",
-    "prebuild": "cp ../data.json ./data.json && bash scripts/fetch-icons.sh && node scripts/gen-dates.mjs",
+    "prebuild": "cp ../data.json ../showcase.json ./ && bash scripts/fetch-icons.sh && node scripts/gen-dates.mjs",
     "build": "astro build",
     "preview": "astro preview",
     "shots": "node scripts/fetch-shots.mjs"

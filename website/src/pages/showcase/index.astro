@@ -1,0 +1,38 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ShowcaseCard from '../../components/ShowcaseCard.astro';
+import { showcaseEntries, showcaseSections } from '../../lib/showcase';
+
+const sections = showcaseSections();
+---
+
+<Layout
+  title="AI 作品 - Awesome AI Tools"
+  description="用 AI 模型直接生成的游戏、3D 世界与网页作品，每条附 GIF 预览与作者署名"
+  active="__showcase"
+>
+  <div class="page-head" data-default-content>
+    <h1>AI 作品</h1>
+    <p>
+      收录 {showcaseEntries.length} 个用 AI 模型直接生成、可直接打开的作品，每条附 GIF 预览与作者署名；
+      数据来自 <a href="https://github.com/fengyiqicoder/awesome-fable-5.2" target="_blank" rel="noopener">awesome-fable-5.2</a>（CC0）
+    </p>
+  </div>
+
+  {
+    sections.map(([category, entries]) => (
+      <section data-default-content>
+        <div class="sec-head">
+          <h2 class="section-title">
+            {category} · {entries.length}
+          </h2>
+        </div>
+        <div class="grid">
+          {entries.map((entry) => (
+            <ShowcaseCard entry={entry} />
+          ))}
+        </div>
+      </section>
+    ))
+  }
+</Layout>
