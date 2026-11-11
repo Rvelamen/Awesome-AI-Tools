@@ -18727,5 +18727,16 @@
       "视频工具"
     ],
     "id": "6c2bcee6-b0a5-4d8b-a5d8-4c65c9cac662"
+  },
+  {
+    "url": "https://cloudalterego.cafeboon.com",
+    "title": "Cloud Alter Ego",
+    "type": "mcp",
+    "description": "面向 AI 对话的远程 MCP 连接器（OAuth），把你的规则、个人资料和工作记录以纯 Markdown 文件存放在你自己的 OneDrive、Google Drive、Dropbox、GitHub 或 Azure DevOps，服务器不保存内容",
+    "image": "",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "1a088e00-1007-4e43-baf8-c859226c2229"
   }
 ]
