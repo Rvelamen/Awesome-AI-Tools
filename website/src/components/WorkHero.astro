@@ -1,0 +1,104 @@
+---
+import type { ShowcaseEntry } from '../lib/showcase';
+
+interface Props {
+  entry: ShowcaseEntry;
+  kicker?: string;
+}
+
+const { entry, kicker = '最受关注' } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const likes = (entry.likes ?? 0) >= 1000
+  ? `${((entry.likes ?? 0) / 1000).toFixed(1).replace(/\.0$/, '')}k`
+  : String(entry.likes);
+---
+
+<section class="work-hero">
+  <a class="hero-preview" href={entry.url} target="_blank" rel="noopener">
+    <img src={`${base}${entry.preview}`} alt={entry.title} />
+  </a>
+  <div class="hero-info">
+    <p class="hero-kicker">{kicker} · ♥ {likes}</p>
+    <h2>{entry.title}</h2>
+    <p class="hero-desc">{entry.description}</p>
+    <p class="hero-author">by @{entry.author}</p>
+    <div class="hero-actions">
+      <a class="hero-btn" href={entry.url} target="_blank" rel="noopener">打开作品</a>
+      {entry.post && (
+        <a class="hero-link" href={entry.post} target="_blank" rel="noopener">原帖视频</a>
+      )}
+    </div>
+  </div>
+</section>
+
+<style>
+  .work-hero {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    gap: 28px;
+    align-items: center;
+    margin-bottom: 36px;
+  }
+  .hero-preview {
+    display: block;
+    border-radius: 14px;
+    overflow: hidden;
+    border: 1px solid var(--border, #2a2a35);
+  }
+  .hero-preview img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+  }
+  .hero-kicker {
+    font-size: 13px;
+    color: #ff7a59;
+    margin: 0 0 10px;
+  }
+  .hero-info h2 {
+    font-size: 26px;
+    line-height: 1.35;
+    margin: 0 0 12px;
+  }
+  .hero-desc {
+    font-size: 14px;
+    line-height: 1.8;
+    color: var(--text-dim, #9a9aa8);
+    margin: 0 0 12px;
+  }
+  .hero-author {
+    font-size: 13px;
+    color: var(--text-dim, #9a9aa8);
+    margin: 0 0 20px;
+  }
+  .hero-actions {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+  }
+  .hero-btn {
+    display: inline-block;
+    padding: 10px 22px;
+    border-radius: 8px;
+    background: #6b4eff;
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+  }
+  .hero-btn:hover {
+    background: #7c62ff;
+  }
+  .hero-link {
+    font-size: 14px;
+  }
+  @media (max-width: 860px) {
+    .work-hero {
+      grid-template-columns: 1fr;
+      gap: 18px;
+    }
+    .hero-info h2 {
+      font-size: 22px;
+    }
+  }
+</style>

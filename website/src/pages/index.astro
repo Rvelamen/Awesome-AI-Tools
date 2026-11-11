@@ -1,15 +1,20 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import ToolCard from '../components/ToolCard.astro';
-import ProjectCard from '../components/ProjectCard.astro';
+import WorkHero from '../components/WorkHero.astro';
 import FilterBar from '../components/FilterBar.astro';
 import { tools, projects, catCounts } from '../lib/catalog';
+import { showcaseEntries } from '../lib/showcase';
 import { resolveIcon } from '../lib/icons';
 import { resolveShot } from '../lib/shots';
 import { addedDates } from '../lib/dates';
-import { loadRepoMeta } from '../lib/github';
 
 const base = import.meta.env.BASE_URL;
+
+const heroWork = [...showcaseEntries]
+  .filter((e) => e.category !== 'video-only')
+  .sort((a, b) => (b.likes ?? 0) - (a.likes ?? 0))[0];
+const workCount = showcaseEntries.filter((e) => e.category !== 'video-only').length;
 
 const featuredTitles = [
   'ChatGPT', 'DeepSeek', 'Claude', 'Midjourney', 'Gemini',
@@ -35,67 +40,28 @@ const recent = [...tools]
 
 const recentTypes = [...new Set(recent.map((t) => t.type).filter(Boolean))] as string[];
 
-const projectMetas = await loadRepoMeta(featuredProjects.map((p) => p.url));
-
 const categories = catCounts(tools);
 ---
 
-<Layout title="Awesome AI Tools - AI 工具导航" active="__home">
+<Layout title="Awesome AI Tools - AI 工具与作品发现" active="__home">
   <div class="page-head" data-default-content>
-    <h1>全球 AI 工具都在这里</h1>
-    <p>收录 {tools.length} 个 AI 工具与 {projects.length} 个开源项目，覆盖 {categories.length} 个分类，持续更新</p>
+    <h1>AI 现在能做什么，一看便知</h1>
+    <p>
+      {workCount} 个可直接打开的 AI 作品 · {tools.length} 个 AI 工具 · {projects.length} 个开源项目，覆盖 {categories.length} 个分类，持续更新
+    </p>
   </div>
 
-  <section class="featured" data-default-content>
-    <div class="sec-head">
-      <h2 class="section-title">精选工具</h2>
-    </div>
-    <div class="strip">
-      {
-        featured.map((tool, i) => (
-          <ToolCard
-            title={tool.title}
-            description={tool.description}
-            url={tool.url}
-            image={resolveIcon(tool, base)}
-            type={tool.type}
-            badge={`#${i + 1}`}
-            added={addedDates[tool.id]}
-            compact
-          />
-        ))
-      }
-    </div>
-  </section>
-
-  <section class="featured" data-default-content>
-    <div class="sec-head">
-      <h2 class="section-title">开源项目精选</h2>
-      <a class="more-link" href={`${base}projects/`}>进入开源项目栏目 →</a>
-    </div>
-    <div class="strip">
-      {
-        featuredProjects.map((project, i) => (
-          <ProjectCard
-            title={project.title}
-            description={project.description}
-            url={project.url}
-            image={resolveIcon(project, base)}
-            type={project.type}
-            badge={`#${i + 1}`}
-            added={addedDates[project.id]}
-            compact
-            meta={projectMetas.get(project.url)}
-          />
-        ))
-      }
-    </div>
-  </section>
+  <div data-default-content>
+    <WorkHero entry={heroWork} kicker="AI 作品 · 最受关注" />
+    <p class="hero-more">
+      更多游戏、3D 世界和网页作品，进 <a href={`${base}showcase/`}>AI 作品栏目</a> 慢慢逛
+    </p>
+  </div>
 
   <section class="filterable" data-default-content>
     <div class="sec-head">
-      <h2 class="section-title">最近收录</h2>
-      <a class="more-link" href={`${base}recent/`}>查看全部 →</a>
+      <h2 class="section-title">最新收录</h2>
+      <a class="more-link" href={`${base}recent/`}>查看全部</a>
     </div>
     <FilterBar types={recentTypes} />
     <div class="grid">
@@ -114,4 +80,120 @@ const categories = catCounts(tools);
       }
     </div>
   </section>
+
+  <section data-default-content>
+    <div class="sec-head">
+      <h2 class="section-title">精选工具</h2>
+    </div>
+    <div class="quiet-grid">
+      {
+        featured.map((tool) => (
+          <a class="quiet-item" href={tool.url} target="_blank" rel="noopener">
+            <span class="quiet-icon">
+              <img src={resolveIcon(tool, base)} alt="" width="26" height="26" loading="lazy" onerror="this.remove()" />
+            </span>
+            <span class="quiet-text">
+              <strong>{tool.title}</strong>
+              <span>{tool.description}</span>
+            </span>
+          </a>
+        ))
+      }
+    </div>
+  </section>
+
+  <section data-default-content>
+    <div class="sec-head">
+      <h2 class="section-title">开源项目精选</h2>
+      <a class="more-link" href={`${base}projects/`}>进入开源项目栏目</a>
+    </div>
+    <div class="quiet-grid">
+      {
+        featuredProjects.map((project) => (
+          <a class="quiet-item" href={project.url} target="_blank" rel="noopener">
+            <span class="quiet-icon">
+              <img src={resolveIcon(project, base)} alt="" width="26" height="26" loading="lazy" onerror="this.remove()" />
+            </span>
+            <span class="quiet-text">
+              <strong>{project.title}</strong>
+              <span>{project.description}</span>
+            </span>
+          </a>
+        ))
+      }
+    </div>
+  </section>
 </Layout>
+
+<style>
+  .hero-more {
+    margin: -18px 0 30px;
+    font-size: 13px;
+    color: var(--text-dim);
+  }
+  .hero-more a {
+    color: var(--accent);
+  }
+
+  .quiet-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 4px 24px;
+    margin-top: 6px;
+  }
+  .quiet-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px 8px;
+    border-radius: 10px;
+    min-width: 0;
+    transition: background 0.15s;
+  }
+  .quiet-item:hover {
+    background: var(--bg-card);
+  }
+  .quiet-icon {
+    flex: 0 0 26px;
+    width: 26px;
+    height: 26px;
+    border-radius: 7px;
+    overflow: hidden;
+    background: var(--bg-card);
+    margin-top: 3px;
+  }
+  .quiet-icon img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .quiet-text {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+  }
+  .quiet-text strong {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.5;
+  }
+  .quiet-text span {
+    font-size: 12.5px;
+    color: var(--text-dim);
+    line-height: 1.5;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  @media (max-width: 1000px) {
+    .quiet-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  @media (max-width: 640px) {
+    .quiet-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

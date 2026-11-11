@@ -1,9 +1,9 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import ShowcaseCard from '../../components/ShowcaseCard.astro';
+import WorkHero from '../../components/WorkHero.astro';
 import { showcaseEntries, showcaseSections } from '../../lib/showcase';
 
-const base = import.meta.env.BASE_URL;
 const live = showcaseEntries.filter((e) => e.category !== 'video-only');
 const videos = showcaseEntries.filter((e) => e.category === 'video-only');
 const hero = [...live].sort((a, b) => (b.likes ?? 0) - (a.likes ?? 0))[0];
@@ -11,7 +11,6 @@ const rest = live.filter((e) => e.id !== hero.id).sort((a, b) => (b.likes ?? 0) 
 const cats = showcaseSections()
   .map(([name]) => name)
   .filter((name) => name !== 'video-only');
-const heroLikes = (hero.likes ?? 0) >= 1000 ? `${((hero.likes ?? 0) / 1000).toFixed(1).replace(/\.0$/, '')}k` : String(hero.likes);
 ---
 
 <Layout
@@ -24,23 +23,7 @@ const heroLikes = (hero.likes ?? 0) >= 1000 ? `${((hero.likes ?? 0) / 1000).toFi
     <p>这些游戏、3D 世界和网页完全由 AI 生成，点开就能玩。共 {live.length} 个可交互作品 + {videos.length} 个视频演示。</p>
   </div>
 
-  <section class="hero" data-default-content>
-    <a class="hero-preview" href={hero.url} target="_blank" rel="noopener">
-      <img src={`${base}${hero.preview}`} alt={hero.title} />
-    </a>
-    <div class="hero-info">
-      <p class="hero-kicker">最受关注 · ♥ {heroLikes}</p>
-      <h2>{hero.title}</h2>
-      <p class="hero-desc">{hero.description}</p>
-      <p class="hero-author">by @{hero.author}</p>
-      <div class="hero-actions">
-        <a class="hero-btn" href={hero.url} target="_blank" rel="noopener">打开作品</a>
-        {hero.post && (
-          <a class="hero-link" href={hero.post} target="_blank" rel="noopener">原帖视频</a>
-        )}
-      </div>
-    </div>
-  </section>
+  <WorkHero entry={hero} />
 
   <div class="chips" data-default-content>
     <button class="chip on" data-cat="*" type="button">全部</button>
@@ -73,76 +56,6 @@ const heroLikes = (hero.likes ?? 0) >= 1000 ? `${((hero.likes ?? 0) / 1000).toFi
 </Layout>
 
 <style>
-  .hero {
-    display: grid;
-    grid-template-columns: 3fr 2fr;
-    gap: 28px;
-    align-items: center;
-    margin-bottom: 36px;
-  }
-  .hero-preview {
-    display: block;
-    border-radius: 14px;
-    overflow: hidden;
-    border: 1px solid var(--border, #2a2a35);
-  }
-  .hero-preview img {
-    display: block;
-    width: 100%;
-    aspect-ratio: 16 / 9;
-    object-fit: cover;
-  }
-  .hero-kicker {
-    font-size: 13px;
-    color: #ff7a59;
-    margin: 0 0 10px;
-  }
-  .hero-info h2 {
-    font-size: 26px;
-    line-height: 1.35;
-    margin: 0 0 12px;
-  }
-  .hero-desc {
-    font-size: 14px;
-    line-height: 1.8;
-    color: var(--text-dim, #9a9aa8);
-    margin: 0 0 12px;
-  }
-  .hero-author {
-    font-size: 13px;
-    color: var(--text-dim, #9a9aa8);
-    margin: 0 0 20px;
-  }
-  .hero-actions {
-    display: flex;
-    align-items: center;
-    gap: 18px;
-  }
-  .hero-btn {
-    display: inline-block;
-    padding: 10px 22px;
-    border-radius: 8px;
-    background: #6b4eff;
-    color: #fff;
-    font-size: 14px;
-    text-decoration: none;
-  }
-  .hero-btn:hover {
-    background: #7c62ff;
-  }
-  .hero-link {
-    font-size: 14px;
-  }
-  @media (max-width: 860px) {
-    .hero {
-      grid-template-columns: 1fr;
-      gap: 18px;
-    }
-    .hero-info h2 {
-      font-size: 22px;
-    }
-  }
-
   .chips {
     display: flex;
     flex-wrap: wrap;
