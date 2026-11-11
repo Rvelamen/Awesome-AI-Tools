@@ -18750,5 +18750,16 @@
     ],
     "id": "fc84ca5b-344d-4618-b5aa-e650484d2be3",
     "kind": "project"
+  },
+  {
+    "url": "https://honeyvid.ai",
+    "title": "HoneyVid",
+    "type": "web",
+    "description": "AI 视频应用：一张照片把人、宠物或角色放进热门视频模板，也可在 Playground 用 Kling、Veo、Seedance 生成视频和图片；按积分付费，每条先报价；另有远程 MCP（https://honeyvid.ai/mcp，OAuth）供 Claude、ChatGPT、Codex 调用",
+    "image": "",
+    "category": [
+      "视频工具"
+    ],
+    "id": "d252d6fb-e040-4f88-95ba-f9925b3b352b"
   }
 ]
