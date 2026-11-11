@@ -3,36 +3,207 @@ import Layout from '../../layouts/Layout.astro';
 import ShowcaseCard from '../../components/ShowcaseCard.astro';
 import { showcaseEntries, showcaseSections } from '../../lib/showcase';
 
-const sections = showcaseSections();
+const base = import.meta.env.BASE_URL;
+const live = showcaseEntries.filter((e) => e.category !== 'video-only');
+const videos = showcaseEntries.filter((e) => e.category === 'video-only');
+const hero = [...live].sort((a, b) => (b.likes ?? 0) - (a.likes ?? 0))[0];
+const rest = live.filter((e) => e.id !== hero.id).sort((a, b) => (b.likes ?? 0) - (a.likes ?? 0));
+const cats = showcaseSections()
+  .map(([name]) => name)
+  .filter((name) => name !== 'video-only');
+const heroLikes = (hero.likes ?? 0) >= 1000 ? `${((hero.likes ?? 0) / 1000).toFixed(1).replace(/\.0$/, '')}k` : String(hero.likes);
 ---
 
 <Layout
   title="AI 作品 - Awesome AI Tools"
-  description="用 AI 模型直接生成的游戏、3D 世界与网页作品，每条附 GIF 预览与作者署名"
+  description="完全由 AI 生成的游戏、3D 世界与网页作品，点开就能玩；每条附 GIF 预览与作者署名"
   active="__showcase"
 >
   <div class="page-head" data-default-content>
     <h1>AI 作品</h1>
-    <p>
-      收录 {showcaseEntries.length} 个用 AI 模型直接生成、可直接打开的作品，每条附 GIF 预览与作者署名；
-      数据来自 <a href="https://github.com/fengyiqicoder/awesome-fable-5.2" target="_blank" rel="noopener">awesome-fable-5.2</a>（CC0）
-    </p>
+    <p>这些游戏、3D 世界和网页完全由 AI 生成，点开就能玩。共 {live.length} 个可交互作品 + {videos.length} 个视频演示。</p>
   </div>
 
-  {
-    sections.map(([category, entries]) => (
-      <section data-default-content>
-        <div class="sec-head">
-          <h2 class="section-title">
-            {category} · {entries.length}
-          </h2>
-        </div>
-        <div class="grid">
-          {entries.map((entry) => (
-            <ShowcaseCard entry={entry} />
-          ))}
-        </div>
-      </section>
-    ))
-  }
+  <section class="hero" data-default-content>
+    <a class="hero-preview" href={hero.url} target="_blank" rel="noopener">
+      <img src={`${base}${hero.preview}`} alt={hero.title} />
+    </a>
+    <div class="hero-info">
+      <p class="hero-kicker">最受关注 · ♥ {heroLikes}</p>
+      <h2>{hero.title}</h2>
+      <p class="hero-desc">{hero.description}</p>
+      <p class="hero-author">by @{hero.author}</p>
+      <div class="hero-actions">
+        <a class="hero-btn" href={hero.url} target="_blank" rel="noopener">打开作品</a>
+        {hero.post && (
+          <a class="hero-link" href={hero.post} target="_blank" rel="noopener">原帖视频</a>
+        )}
+      </div>
+    </div>
+  </section>
+
+  <div class="chips" data-default-content>
+    <button class="chip on" data-cat="*" type="button">全部</button>
+    {cats.map((cat) => (
+      <button class="chip" data-cat={cat} type="button">{cat}</button>
+    ))}
+  </div>
+
+  <div class="gallery" id="gallery" data-default-content>
+    {rest.map((entry) => (
+      <ShowcaseCard entry={entry} />
+    ))}
+  </div>
+
+  <section class="videos" data-default-content>
+    <div class="sec-head">
+      <h2 class="section-title">视频演示 · {videos.length}</h2>
+    </div>
+    <p class="videos-note">只有演示视频，没有可打开的现场版本；点击跳转原帖。</p>
+    <div class="gallery gallery--video">
+      {videos.map((entry) => (
+        <ShowcaseCard entry={entry} video />
+      ))}
+    </div>
+  </section>
+
+  <p class="provenance" data-default-content>
+    数据来自 <a href="https://github.com/fengyiqicoder/awesome-fable-5.2" target="_blank" rel="noopener">awesome-fable-5.2</a>（CC0），持续同步。
+  </p>
 </Layout>
+
+<style>
+  .hero {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    gap: 28px;
+    align-items: center;
+    margin-bottom: 36px;
+  }
+  .hero-preview {
+    display: block;
+    border-radius: 14px;
+    overflow: hidden;
+    border: 1px solid var(--border, #2a2a35);
+  }
+  .hero-preview img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+  }
+  .hero-kicker {
+    font-size: 13px;
+    color: #ff7a59;
+    margin: 0 0 10px;
+  }
+  .hero-info h2 {
+    font-size: 26px;
+    line-height: 1.35;
+    margin: 0 0 12px;
+  }
+  .hero-desc {
+    font-size: 14px;
+    line-height: 1.8;
+    color: var(--text-dim, #9a9aa8);
+    margin: 0 0 12px;
+  }
+  .hero-author {
+    font-size: 13px;
+    color: var(--text-dim, #9a9aa8);
+    margin: 0 0 20px;
+  }
+  .hero-actions {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+  }
+  .hero-btn {
+    display: inline-block;
+    padding: 10px 22px;
+    border-radius: 8px;
+    background: #6b4eff;
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+  }
+  .hero-btn:hover {
+    background: #7c62ff;
+  }
+  .hero-link {
+    font-size: 14px;
+  }
+  @media (max-width: 860px) {
+    .hero {
+      grid-template-columns: 1fr;
+      gap: 18px;
+    }
+    .hero-info h2 {
+      font-size: 22px;
+    }
+  }
+
+  .chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 20px;
+  }
+  .chip {
+    padding: 6px 14px;
+    border-radius: 999px;
+    border: 1px solid var(--border, #2a2a35);
+    background: transparent;
+    color: var(--text-dim, #9a9aa8);
+    font-size: 13px;
+    cursor: pointer;
+  }
+  .chip:hover {
+    color: inherit;
+    border-color: var(--accent, #6b4eff);
+  }
+  .chip.on {
+    background: #6b4eff;
+    border-color: #6b4eff;
+    color: #fff;
+  }
+
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+    gap: 18px;
+  }
+  .gallery--video {
+    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+    gap: 12px;
+  }
+  .gallery .work-card.is-hidden {
+    display: none;
+  }
+  .videos {
+    margin-top: 44px;
+  }
+  .videos-note {
+    font-size: 13px;
+    color: var(--text-dim, #9a9aa8);
+    margin: -4px 0 14px;
+  }
+  .provenance {
+    margin-top: 32px;
+    font-size: 12px;
+    color: var(--text-dim, #9a9aa8);
+  }
+</style>
+
+<script>
+  document.querySelectorAll('.chip').forEach((chip) => {
+    chip.addEventListener('click', () => {
+      document.querySelectorAll('.chip').forEach((c) => c.classList.remove('on'));
+      chip.classList.add('on');
+      const cat = chip.dataset.cat;
+      document.querySelectorAll('#gallery .work-card').forEach((card) => {
+        card.classList.toggle('is-hidden', cat !== '*' && card.dataset.cat !== cat);
+      });
+    });
+  });
+</script>

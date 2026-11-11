@@ -3,9 +3,10 @@ import type { ShowcaseEntry } from '../lib/showcase';
 
 interface Props {
   entry: ShowcaseEntry;
+  video?: boolean;
 }
 
-const { entry } = Astro.props;
+const { entry, video = false } = Astro.props;
 const base = import.meta.env.BASE_URL;
 const likes = entry.likes
   ? entry.likes >= 1000
@@ -14,23 +15,93 @@ const likes = entry.likes
   : '';
 ---
 
-<a class="card" href={entry.url} target="_blank" rel="noopener">
+<a
+  class:list={['work-card', { 'work-card--video': video }]}
+  href={entry.url}
+  target="_blank"
+  rel="noopener"
+  data-cat={entry.category}
+>
   {
     entry.preview && (
-      <span class="thumb">
+      <span class="work-thumb">
         <img src={`${base}${entry.preview}`} alt={entry.title} loading="lazy" onerror="this.parentElement.remove()" />
       </span>
     )
   }
-  <span class="body">
-    <span class="meta">
-      <strong>{entry.title}</strong>
-      <span class="desc">{entry.description}</span>
-      <span class="repo-meta">
-        {entry.author && <span class="lang">by @{entry.author}</span>}
-        {likes && <span class="stars">♥ {likes}</span>}
-      </span>
+  <span class="work-info">
+    <strong class="work-title">{entry.title}</strong>
+    {!video && <span class="work-desc">{entry.description}</span>}
+    <span class="work-meta">
+      {entry.author && <span>@{entry.author}</span>}
+      {likes && <span class="work-likes">♥ {likes}</span>}
     </span>
-    <span class="type">{entry.category}</span>
   </span>
 </a>
+
+<style>
+  .work-card {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    border: 1px solid var(--border, #2a2a35);
+    border-radius: 12px;
+    background: var(--bg-card, #16161d);
+    color: inherit;
+    text-decoration: none;
+    transition:
+      border-color 0.15s,
+      transform 0.15s;
+  }
+  .work-card:hover {
+    border-color: var(--accent, #6b4eff);
+    transform: translateY(-2px);
+  }
+  .work-card.is-hidden {
+    display: none;
+  }
+  .work-thumb {
+    display: block;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    background: #0b0b10;
+  }
+  .work-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .work-info {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding: 12px 14px 14px;
+  }
+  .work-title {
+    font-size: 15px;
+    line-height: 1.4;
+  }
+  .work-desc {
+    font-size: 13px;
+    line-height: 1.6;
+    color: var(--text-dim, #9a9aa8);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .work-meta {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    color: var(--text-dim, #9a9aa8);
+  }
+  .work-likes {
+    color: #ff7a59;
+  }
+  .work-card--video .work-title {
+    font-size: 13px;
+    font-weight: 500;
+  }
+</style>
