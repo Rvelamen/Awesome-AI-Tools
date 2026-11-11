@@ -18694,5 +18694,38 @@
       "提示词工程"
     ],
     "id": "54210ded-48b6-496a-a2ab-1c2672ee3f00"
+  },
+  {
+    "url": "https://gptimages26.com/",
+    "title": "Image26",
+    "type": "web",
+    "description": "独立 GPT Image 2.6 图片生成与编辑工具：文生图、短 GIF（约 9 帧）与 SVG 图标输出，Flare 快速草稿与 Sunburst 一致性编辑两种模式；付费订阅，非 OpenAI 官方",
+    "image": "",
+    "category": [
+      "图片插画生成"
+    ],
+    "id": "a3efe61e-f789-4f09-b895-bb870e6ce7cc"
+  },
+  {
+    "url": "https://aptvideoai.app/",
+    "title": "APT Video AI",
+    "type": "web",
+    "description": "两张照片（鼓手与歌手）生成固定粉色录音棚双人短视频；一次性积分包付费，无免费套餐；独立粉丝工具，与艺人及厂牌无关",
+    "image": "",
+    "category": [
+      "视频工具"
+    ],
+    "id": "ae193e43-8b37-4c27-8004-7d8070064b04"
+  },
+  {
+    "url": "https://fiveapi.ai",
+    "title": "FiveAPI",
+    "type": "web",
+    "description": "面向开发者的图像/视频生成 API：一个 Key 覆盖图生视频、文生视频与文生图，异步任务配合 webhook 或轮询取结果，预付费积分计费",
+    "image": "",
+    "category": [
+      "视频工具"
+    ],
+    "id": "6c2bcee6-b0a5-4d8b-a5d8-4c65c9cac662"
   }
 ]
