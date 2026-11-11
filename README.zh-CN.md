@@ -7,7 +7,7 @@
 **持续更新的 AI 工具收录清单**
 
 大语言模型 / Agent / 编程 / 图像 / 音视频<br>
-**1666** 个 AI 工具 · **28** 个开源项目 · **36** 个分类
+**1666** 个 AI 工具 · **29** 个开源项目 · **36** 个分类
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/Rvelamen/Awesome-AI-Tools?style=social)](https://github.com/Rvelamen/Awesome-AI-Tools)
 
 ⭐ 如果这份清单对你有帮助，欢迎 Star，让更多人和 Agent 发现它
@@ -460,12 +460,12 @@
 
 ## 开源项目
 
-除工具外另收录 **28** 个开源项目，卡片自动展示 star 数、语言与 license：[浏览全部](https://rvelamen.github.io/Awesome-AI-Tools/projects/)
+除工具外另收录 **29** 个开源项目，卡片自动展示 star 数、语言与 license：[浏览全部](https://rvelamen.github.io/Awesome-AI-Tools/projects/)
 
 | 项目分类 | 数量 |
 | --- | ---: |
 | [Agent 技能](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/Agent%20技能/) | 9 |
-| [MCP 服务](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/MCP%20服务/) | 7 |
+| [MCP 服务](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/MCP%20服务/) | 8 |
 | [CLI 工具](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/CLI%20工具/) | 6 |
 | [插件与扩展](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/插件与扩展/) | 3 |
 | [代理应用](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/代理应用/) | 2 |
