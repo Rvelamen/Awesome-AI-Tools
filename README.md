@@ -7,7 +7,7 @@
 **A continuously updated, curated list of AI tools**
 
 LLMs / Agents / Coding / Image / Audio & Video<br>
-**1661** AI tools · **28** open-source projects · **36** categories
+**1662** AI tools · **28** open-source projects · **36** categories
 **1649** AI tools · **28** open-source projects · **36** categories
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/Rvelamen/Awesome-AI-Tools?style=social)](https://github.com/Rvelamen/Awesome-AI-Tools)
 
@@ -393,7 +393,7 @@ LLMs / Agents / Coding / Image / Audio & Video<br>
 
 ### Prompt Engineering
 
-29 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/提示词工程/)
+30 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/提示词工程/)
 
 | Tool | Description |
 | --- | --- |
