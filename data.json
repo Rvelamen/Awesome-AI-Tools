@@ -18672,5 +18672,16 @@
       "图片插画生成"
     ],
     "id": "30bf6182-0ae4-40ac-80ea-57037bd6699a"
+  },
+  {
+    "url": "https://makeaicreator.com/",
+    "title": "MakeAICreator",
+    "type": "web",
+    "description": "AI influencer builder: describe a virtual persona in plain words and generate face-consistent photos, voiceover videos, and product-placement clips you own",
+    "image": "",
+    "category": [
+      "视频工具"
+    ],
+    "id": "9fa43764-1197-45bb-b51e-320eee2dd83b"
   }
 ]
