@@ -18738,5 +18738,17 @@
       "MCP 服务"
     ],
     "id": "1a088e00-1007-4e43-baf8-c859226c2229"
+  },
+  {
+    "url": "https://github.com/mrhy7176/cloudgpu-mcp",
+    "title": "CloudGPU MCP",
+    "type": "mcp",
+    "description": "面向 MCP 客户端的 stdio 服务器，可用于询价、按分钟租用和关闭云端 GPU，运行有限额的任务，并列出 OpenAI 兼容 API 上的模型。",
+    "image": "https://github.com/mrhy7176.png",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "fc84ca5b-344d-4618-b5aa-e650484d2be3",
+    "kind": "project"
   }
 ]
