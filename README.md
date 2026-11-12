@@ -4,10 +4,10 @@
 
 **English** ｜ [中文](./README.zh-CN.md)
 
-**A continuously updated, curated list of AI tools**
+**See what AI can do — a discovery gallery of AI works and tools**
 
 LLMs / Agents / Coding / Image / Audio & Video<br>
-**1667** AI tools · **29** open-source projects · **36** categories
+**57** playable AI works · **1667** AI tools · **29** open-source projects · **36** categories
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/Rvelamen/Awesome-AI-Tools?style=social)](https://github.com/Rvelamen/Awesome-AI-Tools)
 
 ⭐ If this list helps you, please Star it so more people and agents can discover it
@@ -15,6 +15,18 @@ LLMs / Agents / Coding / Image / Audio & Video<br>
 **[Full catalog on the website: search / filters / latest additions](https://rvelamen.github.io/Awesome-AI-Tools/)**
 
 </div>
+
+---
+
+## AI Works
+
+Games, 3D worlds and web pages built entirely by AI — open and play them right in your browser. Full gallery on the [AI Works page](https://rvelamen.github.io/Awesome-AI-Tools/showcase/).
+
+| Work | The story |
+| --- | --- |
+| [Saltline — first-person shooter](https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp) | An Anthropic engineer one-shot prompted an FPS in 8 hours (~$550); models, sounds and textures all generated in code |
+| [Claude App on a Blender laptop](https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa) | One prompt built the whole room in Blender and rendered it in 4K |
+| [What the Water Keeps](https://what-the-water-keeps.vercel.app/) | A boat ride through 8 dreamlike worlds, playable in the browser |
 
 ---
 

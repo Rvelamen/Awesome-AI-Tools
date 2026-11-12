@@ -4,10 +4,10 @@
 
 **中文** ｜ [English](./README.md)
 
-**持续更新的 AI 工具收录清单**
+**AI 现在能做什么，一看便知：作品与工具的发现画廊**
 
 大语言模型 / Agent / 编程 / 图像 / 音视频<br>
-**1667** 个 AI 工具 · **29** 个开源项目 · **36** 个分类
+**57** 个可直接打开的 AI 作品 · **1667** 个 AI 工具 · **29** 个开源项目 · **36** 个分类
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/Rvelamen/Awesome-AI-Tools?style=social)](https://github.com/Rvelamen/Awesome-AI-Tools)
 
 ⭐ 如果这份清单对你有帮助，欢迎 Star，让更多人和 Agent 发现它
@@ -15,6 +15,18 @@
 **[进入网站：完整清单 / 全文搜索 / 类型筛选 / 最新收录](https://rvelamen.github.io/Awesome-AI-Tools/)**
 
 </div>
+
+---
+
+## AI 作品
+
+这些游戏、3D 世界和网页完全由 AI 生成，点开就能玩；完整画廊见 [AI 作品栏目](https://rvelamen.github.io/Awesome-AI-Tools/showcase/)。
+
+| 作品 | 创作故事 |
+| --- | --- |
+| [Saltline 第一人称射击](https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp) | Anthropic 工程师一次性提示、无人工反馈跑 8 小时，约 $550；模型、音效、贴图全部代码生成 |
+| [Blender 房间里的「Claude App」网页](https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa) | 一条提示词建整个房间并渲 4K |
+| [What the Water Keeps 梦境划船](https://what-the-water-keeps.vercel.app/) | 穿过 8 个梦境世界的划船游戏，浏览器里直接玩 |
 
 ---
 
