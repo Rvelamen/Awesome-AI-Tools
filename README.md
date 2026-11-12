@@ -22,11 +22,25 @@ LLMs / Agents / Coding / Image / Audio & Video<br>
 
 Games, 3D worlds and web pages built entirely by AI — open and play them right in your browser. Full gallery on the [AI Works page](https://rvelamen.github.io/Awesome-AI-Tools/showcase/).
 
-| Work | The story |
-| --- | --- |
-| [Saltline — first-person shooter](https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp) | An Anthropic engineer one-shot prompted an FPS in 8 hours (~$550); models, sounds and textures all generated in code |
-| [Claude App on a Blender laptop](https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa) | One prompt built the whole room in Blender and rendered it in 4K |
-| [What the Water Keeps](https://what-the-water-keeps.vercel.app/) | A boat ride through 8 dreamlike worlds, playable in the browser |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp"><img src="./website/public/showcase/gifs/001.gif" alt="Saltline — first-person shooter" width="100%"></a><br>
+      <b><a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline — first-person shooter</a></b><br>
+      <sub>An Anthropic engineer one-shot prompted an FPS in 8 hours (~$550); models, sounds and textures all generated in code</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa"><img src="./website/public/showcase/gifs/023.gif" alt="Claude App on a Blender laptop" width="100%"></a><br>
+      <b><a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa">Claude App on a Blender laptop</a></b><br>
+      <sub>One prompt built the whole room in Blender and rendered it in 4K</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://what-the-water-keeps.vercel.app/"><img src="./website/public/showcase/gifs/008.gif" alt="What the Water Keeps" width="100%"></a><br>
+      <b><a href="https://what-the-water-keeps.vercel.app/">What the Water Keeps</a></b><br>
+      <sub>A boat ride through 8 dreamlike worlds, playable in the browser</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 

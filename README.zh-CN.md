@@ -22,11 +22,25 @@
 
 这些游戏、3D 世界和网页完全由 AI 生成，点开就能玩；完整画廊见 [AI 作品栏目](https://rvelamen.github.io/Awesome-AI-Tools/showcase/)。
 
-| 作品 | 创作故事 |
-| --- | --- |
-| [Saltline 第一人称射击](https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp) | Anthropic 工程师一次性提示、无人工反馈跑 8 小时，约 $550；模型、音效、贴图全部代码生成 |
-| [Blender 房间里的「Claude App」网页](https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa) | 一条提示词建整个房间并渲 4K |
-| [What the Water Keeps 梦境划船](https://what-the-water-keeps.vercel.app/) | 穿过 8 个梦境世界的划船游戏，浏览器里直接玩 |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp"><img src="./website/public/showcase/gifs/001.gif" alt="Saltline 第一人称射击" width="100%"></a><br>
+      <b><a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline 第一人称射击</a></b><br>
+      <sub>Anthropic 工程师一次性提示、无人工反馈跑 8 小时，约 $550；模型、音效、贴图全部代码生成</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa"><img src="./website/public/showcase/gifs/023.gif" alt="Blender 房间里的「Claude App」网页" width="100%"></a><br>
+      <b><a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa">Blender 房间里的「Claude App」网页</a></b><br>
+      <sub>一条提示词建整个房间并渲 4K</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://what-the-water-keeps.vercel.app/"><img src="./website/public/showcase/gifs/008.gif" alt="What the Water Keeps 梦境划船" width="100%"></a><br>
+      <b><a href="https://what-the-water-keeps.vercel.app/">What the Water Keeps 梦境划船</a></b><br>
+      <sub>穿过 8 个梦境世界的划船游戏，浏览器里直接玩</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
