@@ -44,21 +44,6 @@ Games, 3D worlds and web pages built entirely by AI — open and play them right
 
 ---
 
-## Contents
-
-| | | |
-| --- | --- | --- |
-| 💬 [Chat Assistants](#chat-assistants) | 💻 [Coding Tools](#coding-tools) | 🔌 [MCP Services](#mcp-services) |
-| 🤖 [Agents](#agents) | ⚡ [Productivity](#productivity) | 🎬 [Video Tools](#video-tools) |
-| 🖼️ [Image Tools](#image-tools) | 🎨 [Image Generation](#image-generation) | 🎵 [Audio Tools](#audio-tools) |
-| ✍️ [Writing Tools](#writing-tools) | 🎯 [Design Tools](#design-tools) | 🔍 [Search Engines](#search-engines) |
-| 📊 [PPT](#ppt) | 📄 [Document Tools](#document-tools) | 🧠 [Models and Training](#models-and-training) |
-| 🌐 [Translation](#translation) | 📈 [Spreadsheets](#spreadsheets) | 🧩 [Mind Maps](#mind-maps) |
-| 🛍️ [Product Images](#product-images) | ✂️ [Background Removal](#background-removal) | 🔎 [Image Upscaling](#image-upscaling) |
-| 🛠️ [Photo Enhancement](#photo-enhancement) | 🧹 [Object Removal](#object-removal) | 🧊 [3D Model Generation](#3d-model-generation) |
-| 🕵️ [Content Detection](#content-detection) | 💡 [Prompt Engineering](#prompt-engineering) | 📚 [Learning Resources](#learning-resources) |
-| 🎙️ [Meeting Tools](#meeting-tools) | 💼 [Career Tools](#career-tools) | ⚖️ [Legal Assistants](#legal-assistants) |
-
 [Open-Source Projects](#open-source-projects) ｜ [Contributing](#contributing) ｜ [Disclaimer](#disclaimer) ｜ [License](#license)
 
 ---
