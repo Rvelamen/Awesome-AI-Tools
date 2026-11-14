@@ -18761,5 +18761,16 @@
       "视频工具"
     ],
     "id": "d252d6fb-e040-4f88-95ba-f9925b3b352b"
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=pk.sitey.app",
+    "title": "Sitey AI",
+    "type": "app",
+    "description": "面向巴基斯坦用户的安卓 AI 应用：乌尔都语和英语 AI 聊天、文字转语音、AI 照片提示词和设计工具；网页版 https://app.sitey.pk",
+    "image": "",
+    "category": [
+      "聊天助手"
+    ],
+    "id": "fdc61a4b-69d3-4abb-b788-ea59642f7322"
   }
 ]
