@@ -18761,5 +18761,27 @@
       "视频工具"
     ],
     "id": "d252d6fb-e040-4f88-95ba-f9925b3b352b"
+  },
+  {
+    "url": "https://seedream55.io",
+    "title": "Seedream 5.5",
+    "description": "Online AI image generation tool built on the Seedream 5.5 model, text-to-image and image editing",
+    "image": "https://seedream55.io/favicon.ico",
+    "category": [
+      "图片插画生成"
+    ],
+    "type": "web",
+    "id": "ead63390-d011-4261-9593-db3987dc6ff4"
+  },
+  {
+    "url": "https://h3minimax.com",
+    "title": "H3 Video Generator",
+    "description": "Online AI video generation tool built on the MiniMax H3 model, text-to-video and image-to-video",
+    "image": "https://h3minimax.com/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "type": "web",
+    "id": "44d572bc-c97f-47eb-9e8d-0722c9884979"
   }
 ]
