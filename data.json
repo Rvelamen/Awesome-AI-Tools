@@ -18794,5 +18794,16 @@
       "MCP 服务"
     ],
     "id": "1e6c54c3-a76e-4b05-b838-ac5d41b4d7b2"
+  },
+  {
+    "url": "https://remakethat.com/",
+    "title": "RemakeThat",
+    "type": "web",
+    "description": "爆款视频复刻带货工具：粘贴一条 TikTok/Facebook 爆款视频链接，AI 生成原创脚本并由 AI 创作者出镜翻拍，支持系列批量产出",
+    "image": "",
+    "category": [
+      "视频工具"
+    ],
+    "id": "c1162970-57c5-40aa-b8bc-e37ad2cfba9a"
   }
 ]
