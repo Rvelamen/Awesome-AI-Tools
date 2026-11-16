@@ -18761,5 +18761,16 @@
       "视频工具"
     ],
     "id": "d252d6fb-e040-4f88-95ba-f9925b3b352b"
+  },
+  {
+    "url": "https://www.vidmoat.com",
+    "title": "Vidmoat",
+    "type": "web",
+    "description": "托管式 AI 视频剪辑器：用对话描述剪辑需求，在可审阅的多轨时间线上调整，并渲染导出 MP4；支持网页、Telegram（@vidmoat_bot）和 MCP 远程接入（https://api.vidmoat.com/api/mcp），另提供 REST 开放接口",
+    "image": "",
+    "category": [
+      "视频工具"
+    ],
+    "id": "a0891036-73da-4318-841c-69892b1ef5ed"
   }
 ]
