@@ -18783,5 +18783,16 @@
       "聊天助手"
     ],
     "id": "fdc61a4b-69d3-4abb-b788-ea59642f7322"
+  },
+  {
+    "url": "https://everyapp.pro/mcp",
+    "title": "EveryApp",
+    "type": "mcp",
+    "description": "Hosted MCP server (OAuth) that lets Claude, ChatGPT or any MCP client find and run EveryApp's 300+ PDF, image, video and AI tools, such as compressing a PDF, converting a video or making an image, with the credit cost shown before a run",
+    "image": "",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "1e6c54c3-a76e-4b05-b838-ac5d41b4d7b2"
   }
 ]
