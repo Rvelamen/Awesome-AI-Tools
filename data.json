@@ -18794,5 +18794,16 @@
       "MCP 服务"
     ],
     "id": "1e6c54c3-a76e-4b05-b838-ac5d41b4d7b2"
+  },
+  {
+    "url": "https://wavegrain.com/",
+    "title": "Wavegrain",
+    "type": "web",
+    "description": "Writes and designs TikTok slideshows and Instagram carousels for a brand from its own photos, then schedules and posts them; also usable from AI agents through a hosted MCP server",
+    "image": "",
+    "category": [
+      "设计工具"
+    ],
+    "id": "66f76289-f4d6-4ad0-af25-0ecbbbfd3559"
   }
 ]
