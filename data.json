@@ -18794,5 +18794,16 @@
       "MCP 服务"
     ],
     "id": "1e6c54c3-a76e-4b05-b838-ac5d41b4d7b2"
+  },
+  {
+    "url": "https://angrydance.com",
+    "title": "Angry Dance",
+    "type": "web",
+    "description": "AI 图生视频与跳舞特效工作台：单张人像、宠物或爱车照片直出 9:16 无水印短片（内置愤怒之舞、狗狗跳舞、小狗大战美容师、微缩工人洗车等 23 款特效，复杂场景自动串联 Nano Banana 2 定帧与 Kling 2.5 Turbo 运镜），亦提供多模型自由提示词工作台；一次性积分包计费免订阅，生成前报价且失败自动退积分（中文版 https://angrydance.com/zh）",
+    "image": "",
+    "category": [
+      "视频工具"
+    ],
+    "id": "8f4e2a91-6c3d-4b7e-9a15-2d8f0e4b6c19"
   }
 ]
