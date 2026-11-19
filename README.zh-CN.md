@@ -127,7 +127,7 @@
 
 ### MCP 服务
 
-共 8 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/MCP 服务/)
+共 9 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/MCP 服务/)
 
 <table>
   <tr>

@@ -127,7 +127,7 @@ Games, 3D worlds and web pages built entirely by AI — open and play them right
 
 ### MCP Services
 
-8 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/MCP 服务/)
+9 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/MCP 服务/)
 
 <table>
   <tr>

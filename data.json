@@ -18816,5 +18816,16 @@
       "视频工具"
     ],
     "id": "c33bb46b-b2f6-46e9-98a0-425cdc0904b2"
+  },
+  {
+    "url": "https://enhanciar.in/mcp",
+    "title": "Enhanciar",
+    "type": "mcp",
+    "description": "Hosted MCP server for Enhanciar, a company brain. Lets Claude, Cursor or any MCP client ask questions answered from your Slack, Gmail, Drive, Notion, Jira, Linear, GitHub and Zendesk with a link to the source, and propose a reply or ticket for a person to approve. Needs an Enhanciar API key; paid plans, bring your own AI key",
+    "image": "",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "7233bd60-b9cb-47c8-a87e-0f8bd39ec0b9"
   }
 ]
