@@ -18871,5 +18871,17 @@
       "MCP 服务"
     ],
     "id": "a0cf83a6-755e-4f3a-84fb-2548e63b38e9"
+  },
+  {
+    "url": "https://github.com/aleksandrjefimov4-crypto/cheapcarent-mcp",
+    "title": "CheapCarRent",
+    "type": "mcp",
+    "description": "面向 AI 代理的只读远程 MCP 服务器（https://cheapcarent.com/mcp，Streamable HTTP，无需认证），用于搜索租车并列出可取车的城市和机场。",
+    "image": "https://github.com/aleksandrjefimov4-crypto.png",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "8c315a27-1f70-4b43-8742-19e1edfcd1ef",
+    "kind": "project"
   }
 ]
