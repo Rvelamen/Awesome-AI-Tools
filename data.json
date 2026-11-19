@@ -18805,5 +18805,16 @@
       "视频工具"
     ],
     "id": "c1162970-57c5-40aa-b8bc-e37ad2cfba9a"
+  },
+  {
+    "url": "https://twistavo.com",
+    "title": "Twistavo",
+    "type": "web",
+    "description": "AI video studio to replace a person or character in an existing clip (Scene Recast) and run video and image models; monthly plans from $3.99.",
+    "image": "",
+    "category": [
+      "视频工具"
+    ],
+    "id": "c33bb46b-b2f6-46e9-98a0-425cdc0904b2"
   }
 ]
