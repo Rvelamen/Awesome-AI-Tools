@@ -7,7 +7,7 @@
 **See what AI can do — a discovery gallery of AI works and tools**
 
 LLMs / Agents / Coding / Image / Audio & Video<br>
-**57** playable AI works · **1672** AI tools · **29** open-source projects · **36** categories
+**57** playable AI works · **1678** AI tools · **29** open-source projects · **36** categories
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/Rvelamen/Awesome-AI-Tools?style=social)](https://github.com/Rvelamen/Awesome-AI-Tools)
 
 ⭐ If this list helps you, please Star it so more people and agents can discover it
@@ -127,7 +127,7 @@ Games, 3D worlds and web pages built entirely by AI — open and play them right
 
 ### MCP Services
 
-9 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/MCP 服务/)
+10 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/MCP 服务/)
 
 <table>
   <tr>
@@ -245,7 +245,7 @@ Games, 3D worlds and web pages built entirely by AI — open and play them right
 
 ### Video Tools
 
-258 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/视频工具/)
+260 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/视频工具/)
 
 <table>
   <tr>
@@ -425,7 +425,7 @@ Games, 3D worlds and web pages built entirely by AI — open and play them right
 
 ### Design Tools
 
-99 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/设计工具/)
+100 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/设计工具/)
 
 <table>
   <tr>
