@@ -18794,5 +18794,16 @@
       "MCP 服务"
     ],
     "id": "1e6c54c3-a76e-4b05-b838-ac5d41b4d7b2"
+  },
+  {
+    "url": "https://www.hifrank.ai",
+    "title": "Frank AI Researcher",
+    "type": "mcp",
+    "description": "Official hosted MCP server (OAuth, Streamable HTTP at https://api.hifrank.ai/mcp) for AI-moderated voice interviews with your customers: create studies, run them, and read transcripts. Works with ChatGPT, Claude, Grok, Instinct and Muse (tested), plus other MCP clients that support remote servers with OAuth. A permanent Free plan is available, plus paid plans.",
+    "image": "https://raw.githubusercontent.com/nar-vardanyan/frank-mcp/main/assets/logo.png",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "a0cf83a6-755e-4f3a-84fb-2548e63b38e9"
   }
 ]
