@@ -415,7 +415,7 @@
 
 ### 设计工具
 
-共 98 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/设计工具/)
+共 99 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/设计工具/)
 
 <table>
   <tr>

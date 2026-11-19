@@ -18849,5 +18849,16 @@
       "视频工具"
     ],
     "id": "8f4e2a91-6c3d-4b7e-9a15-2d8f0e4b6c19"
+  },
+  {
+    "url": "https://wavegrain.com/",
+    "title": "Wavegrain",
+    "type": "web",
+    "description": "Writes and designs TikTok slideshows and Instagram carousels for a brand from its own photos, then schedules and posts them; also usable from AI agents through a hosted MCP server",
+    "image": "",
+    "category": [
+      "设计工具"
+    ],
+    "id": "66f76289-f4d6-4ad0-af25-0ecbbbfd3559"
   }
 ]

@@ -425,7 +425,7 @@ Games, 3D worlds and web pages built entirely by AI — open and play them right
 
 ### Design Tools
 
-98 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/设计工具/)
+99 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/设计工具/)
 
 <table>
   <tr>
