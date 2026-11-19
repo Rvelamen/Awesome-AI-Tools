@@ -15468,6 +15468,17 @@
     "type": "web"
   },
   {
+    "url": "https://roommeadow.com/",
+    "description": "AI 房间照片改造与独立的二维尺寸户型规划工具；AI 图片不按比例。",
+    "image": "https://roommeadow.com/favicon.svg",
+    "category": [
+      "设计工具"
+    ],
+    "id": "2e8cf2b5-ca56-471f-b61e-4253e8027cd5",
+    "title": "Room Meadow",
+    "type": "web"
+  },
+  {
     "url": "https://quiver.ai",
     "description": "AI矢量图形生成工具，输出可编辑的 SVG 代码",
     "image": "https://ai-bot.cn/wp-content/uploads/2026/04/QuiverAI-icon.png",
