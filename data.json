@@ -18519,6 +18519,17 @@
     "type": "web"
   },
   {
+    "url": "https://namesong.app/",
+    "title": "NameSong",
+    "type": "web",
+    "description": "根据用户提供的故事和指定名字生成定制歌曲，可免费试听前 60 秒，购买后下载完整歌曲和歌词。",
+    "image": "https://namesong.app/favicon.svg",
+    "category": [
+      "音频工具"
+    ],
+    "id": "2b87b3c6-d235-4c88-b0c8-f57230bbdf6c"
+  },
+  {
     "url": "https://video2text.ttt.so",
     "title": "Transcribe Video: To The Text",
     "type": "app",
