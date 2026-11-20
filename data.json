@@ -18905,5 +18905,16 @@
       "设计工具"
     ],
     "id": "eaa84734-a2a5-4d36-9469-3499d4ad85fd"
+  },
+  {
+    "url": "https://www.ddscore.ai/",
+    "description": "Cross-checks company documents and public sources for first-pass due diligence on private companies.",
+    "image": "https://www.ddscore.ai/favicon.ico",
+    "category": [
+      "文档工具"
+    ],
+    "id": "b23cb6c5-d1d2-4be4-86ad-1ac2b0a9050f",
+    "title": "DDScore",
+    "type": "web"
   }
 ]
