@@ -18906,5 +18906,16 @@
     ],
     "id": "eaa84734-a2a5-4d36-9469-3499d4ad85fd"
   },
-  {"url": "https://journalcompass.com", "title": "JournalCompass", "type": "web", "description": "免费双语期刊检索：43,499 本 SCI/SSCI 期刊，CAS 分区、影响因子、审稿时间、APC 与 AI 选刊助手", "image": "", "category": ["搜索引擎"], "id": "9c4e2a7b-1f3d-4a6b-8e2c-5d7f9a1b3e48"}
+  {"url": "https://journalcompass.com", "title": "JournalCompass", "type": "web", "description": "免费双语期刊检索：43,499 本 SCI/SSCI 期刊，CAS 分区、影响因子、审稿时间、APC 与 AI 选刊助手", "image": "", "category": ["搜索引擎"], "id": "9c4e2a7b-1f3d-4a6b-8e2c-5d7f9a1b3e48"},
+  {
+    "url": "https://www.ddscore.ai/",
+    "description": "Cross-checks company documents and public sources for first-pass due diligence on private companies.",
+    "image": "https://www.ddscore.ai/favicon.ico",
+    "category": [
+      "文档工具"
+    ],
+    "id": "b23cb6c5-d1d2-4be4-86ad-1ac2b0a9050f",
+    "title": "DDScore",
+    "type": "web"
+  }
 ]
