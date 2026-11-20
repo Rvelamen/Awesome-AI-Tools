@@ -7,7 +7,7 @@
 **See what AI can do — a discovery gallery of AI works and tools**
 
 LLMs / Agents / Coding / Image / Audio & Video<br>
-**57** playable AI works · **1685** AI tools · **30** open-source projects · **36** categories
+**57** playable AI works · **1686** AI tools · **30** open-source projects · **36** categories
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/Rvelamen/Awesome-AI-Tools?style=social)](https://github.com/Rvelamen/Awesome-AI-Tools)
 
 ⭐ If this list helps you, please Star it so more people and agents can discover it
@@ -533,7 +533,7 @@ Games, 3D worlds and web pages built entirely by AI — open and play them right
 
 ### Document Tools
 
-38 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/文档工具/)
+39 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/文档工具/)
 
 <table>
   <tr>
