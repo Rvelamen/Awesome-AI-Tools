@@ -18960,5 +18960,16 @@
       "视频工具"
     ],
     "id": "e45f92e4-98fc-4bee-9f55-6ed2ddafe542"
+  },
+  {
+    "url": "https://ginta.app/website-builder-mcp/",
+    "title": "Ginta",
+    "type": "mcp",
+    "description": "面向小商家的托管建站 MCP 服务器：让 Claude、ChatGPT、Claude Code 等 MCP 客户端直接创建、发布和修改网站，自带联系表单、预约、网店和博客，网站发布在 ginta.page 子域名上（付费套餐可绑定自有域名）；Streamable HTTP 端点 https://ginta.app/mcp，OAuth 2.1 登录，19 个工具，有免费套餐，闭源",
+    "image": "https://ginta.app/favicon.svg",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "93dbb3ec-38d8-45f9-b84c-e3153014d913"
   }
 ]
