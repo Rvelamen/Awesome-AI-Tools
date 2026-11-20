@@ -18917,5 +18917,16 @@
     "id": "b23cb6c5-d1d2-4be4-86ad-1ac2b0a9050f",
     "title": "DDScore",
     "type": "web"
+  },
+  {
+    "url": "https://tattootryon.app/",
+    "title": "TattooTryOn 纹身试戴",
+    "type": "web",
+    "description": "纹之前，先在自己身上看看效果。上传一张照片，AI 把纹身画进你的皮肤：位置、大小、角度自己定。摆放预览免费；注册后每月送 5 积分，够渲染一次，付费 4.99 美元/月起。",
+    "image": "https://tattootryon.app/logo.png",
+    "category": [
+      "图像工具"
+    ],
+    "id": "5594bc29-40e4-4ec4-bd9e-d3ec004c2723"
   }
 ]
