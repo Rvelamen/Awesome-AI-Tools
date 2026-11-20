@@ -18883,5 +18883,16 @@
     ],
     "id": "8c315a27-1f70-4b43-8742-19e1edfcd1ef",
     "kind": "project"
+  },
+  {
+    "url": "https://pawmambo.com/",
+    "title": "PawMambo",
+    "type": "web",
+    "description": "上传狗狗照片和参考舞蹈视频，生成狗狗跳舞短片；新账号一次性获 20 点积分，可生成约 10 秒视频，后续可购买积分包。",
+    "image": "https://pawmambo.com/logo-dog-face.png",
+    "category": [
+      "视频工具"
+    ],
+    "id": "a291b460-51d5-4531-9a26-ac1c87fcee78"
   }
 ]
