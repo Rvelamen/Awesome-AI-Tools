@@ -348,7 +348,7 @@ Games, 3D worlds and web pages built entirely by AI — open and play them right
 
 ### Audio Tools
 
-97 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/音频工具/)
+98 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/音频工具/)
 
 <table>
   <tr>
