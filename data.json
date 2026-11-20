@@ -18894,5 +18894,16 @@
       "视频工具"
     ],
     "id": "a291b460-51d5-4531-9a26-ac1c87fcee78"
+  },
+  {
+    "url": "https://jangtrinh.github.io/design-os-studio/",
+    "title": "DESIGN:OS Studio",
+    "type": "app",
+    "description": "Native interface design app built in Rust. Opens and saves .fig files and ships a local MCP server so a coding agent can inspect and edit the open file. Free to use, source-available under PolyForm Shield (not an open-source licence).",
+    "image": "https://jangtrinh.github.io/design-os-studio/images/og-designos-studio.png",
+    "category": [
+      "设计工具"
+    ],
+    "id": "eaa84734-a2a5-4d36-9469-3499d4ad85fd"
   }
 ]
