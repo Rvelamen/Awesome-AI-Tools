@@ -7,7 +7,7 @@
 **AI 现在能做什么，一看便知：作品与工具的发现画廊**
 
 大语言模型 / Agent / 编程 / 图像 / 音视频<br>
-**57** 个可直接打开的 AI 作品 · **1678** 个 AI 工具 · **30** 个开源项目 · **36** 个分类
+**57** 个可直接打开的 AI 作品 · **1679** 个 AI 工具 · **30** 个开源项目 · **36** 个分类
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/Rvelamen/Awesome-AI-Tools?style=social)](https://github.com/Rvelamen/Awesome-AI-Tools)
 
 ⭐ 如果这份清单对你有帮助，欢迎 Star，让更多人和 Agent 发现它
@@ -415,7 +415,7 @@
 
 ### 设计工具
 
-共 100 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/设计工具/)
+共 101 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/设计工具/)
 
 <table>
   <tr>
