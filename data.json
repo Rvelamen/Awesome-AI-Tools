@@ -18928,5 +18928,16 @@
       "图像工具"
     ],
     "id": "5594bc29-40e4-4ec4-bd9e-d3ec004c2723"
+  },
+  {
+    "url": "https://clipscript.app/",
+    "title": "ClipScript",
+    "type": "web",
+    "description": "将公开短视频链接或上传的视频、音频文件转为文字，可导出 TXT、SRT 和 VTT，供字幕校对和剪辑使用。",
+    "image": "https://clipscript.app/favicon.svg",
+    "category": [
+      "视频工具"
+    ],
+    "id": "e45f92e4-98fc-4bee-9f55-6ed2ddafe542"
   }
 ]
