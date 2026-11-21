@@ -18960,5 +18960,16 @@
       "视频工具"
     ],
     "id": "e45f92e4-98fc-4bee-9f55-6ed2ddafe542"
+  },
+  {
+    "url": "https://callforme.tel/mcp",
+    "title": "CallForMe",
+    "type": "mcp",
+    "description": "Hosted MCP server (OAuth, Streamable HTTP) that lets Claude, ChatGPT, Codex or any MCP client phone a business in the US or Canada: it works the phone menu, waits on hold, asks the agent mid-call and returns the answers with a transcript. Paid per answered call, calls nobody answers aren't billed. Disclosure: listed by the maker",
+    "image": "https://callforme.tel/icon-512.png",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "846f7e4f-7a86-46c7-bf9b-5cd05bb0e299"
   }
 ]
