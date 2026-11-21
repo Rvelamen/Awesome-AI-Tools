@@ -18965,7 +18965,7 @@
     "url": "https://callforme.tel/mcp",
     "title": "CallForMe",
     "type": "mcp",
-    "description": "Hosted MCP server (OAuth, Streamable HTTP) that lets Claude, ChatGPT, Codex or any MCP client phone a business in the US or Canada: it works the phone menu, waits on hold, asks the agent mid-call and returns the answers with a transcript. Paid per answered call, calls nobody answers aren't billed. Disclosure: listed by the maker",
+    "description": "Hosted MCP server (OAuth, Streamable HTTP) that lets Claude, ChatGPT, Codex or any MCP client phone a business in the US or Canada: it works the phone menu, waits on hold, asks the agent mid-call and returns the answers with a transcript. Paid per answered call, calls nobody answers aren't billed",
     "image": "https://callforme.tel/icon-512.png",
     "category": [
       "MCP 服务"
