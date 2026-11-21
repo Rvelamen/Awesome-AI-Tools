@@ -18971,5 +18971,16 @@
       "MCP 服务"
     ],
     "id": "93dbb3ec-38d8-45f9-b84c-e3153014d913"
+  },
+  {
+    "url": "https://www.questionpunk.com/",
+    "title": "QuestionPunk",
+    "type": "web",
+    "description": "Surveys and AI-moderated voice and chat interviews that ask follow-up questions, with response reports and cross-tabs.",
+    "image": "https://www.questionpunk.com/images/logo-192x192.png",
+    "category": [
+      "文档工具"
+    ],
+    "id": "737d0c99-f564-4561-9306-b4e872cef7d5"
   }
 ]
