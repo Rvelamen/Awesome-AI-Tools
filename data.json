@@ -19005,5 +19005,17 @@
     ],
     "kind": "project",
     "id": "af0ad1b1-404d-4a1a-86c0-83ea998193ad"
+  },
+  {
+    "url": "https://aiedittextinimage.com/",
+    "title": "Reletter",
+    "type": "web",
+    "description": "识别并替换截图、商品图与菜单图片中的中英文文字。标准编辑和带水印预览免费，无水印 PNG 下载与 AI 重绘按积分计费。",
+    "image": "https://aiedittextinimage.com/favicon.svg",
+    "category": [
+      "图像工具",
+      "图片优化修复"
+    ],
+    "id": "77bc9313-d4b5-455e-ab5a-0853ee7dcd41"
   }
 ]
