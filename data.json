@@ -18993,5 +18993,17 @@
       "MCP 服务"
     ],
     "id": "846f7e4f-7a86-46c7-bf9b-5cd05bb0e299"
+  },
+  {
+    "url": "https://github.com/hAcKlyc/MyAgents",
+    "title": "MyAgents",
+    "type": "app",
+    "description": "本地优先的开源桌面 Agent 工作台（macOS、Windows），在各自的工作区里运行 Claude Agent SDK、Codex 或 DeepSeek Harness，管理会话和 MCP 工具，并把重复工作保存为定时任务。",
+    "image": "https://raw.githubusercontent.com/hAcKlyc/MyAgents/v0.5.14/src-tauri/icons/128x128.png",
+    "category": [
+      "代理应用"
+    ],
+    "kind": "project",
+    "id": "af0ad1b1-404d-4a1a-86c0-83ea998193ad"
   }
 ]
