@@ -7,7 +7,7 @@
 **See what AI can do — a discovery gallery of AI works and tools**
 
 LLMs / Agents / Coding / Image / Audio & Video<br>
-**57** playable AI works · **1691** AI tools · **31** open-source projects · **36** categories
+**57** playable AI works · **1691** AI tools · **32** open-source projects · **36** categories
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/Rvelamen/Awesome-AI-Tools?style=social)](https://github.com/Rvelamen/Awesome-AI-Tools)
 
 ⭐ If this list helps you, please Star it so more people and agents can discover it
@@ -1150,7 +1150,7 @@ Besides tools, the catalog includes **31** open-source projects, with cards show
 | Category | Count |
 | --- | ---: |
 | [Agent Skills](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/Agent%20技能/) | 9 |
-| [MCP Services](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/MCP%20服务/) | 9 |
+| [MCP Services](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/MCP%20服务/) | 10 |
 | [CLI Tools](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/CLI%20工具/) | 6 |
 | [Plugins & Extensions](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/插件与扩展/) | 3 |
 | [Agent Applications](https://rvelamen.github.io/Awesome-AI-Tools/projects/category/代理应用/) | 3 |
