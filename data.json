@@ -19028,5 +19028,17 @@
       "MCP 服务"
     ],
     "id": "74dad5d0-4004-43c0-a196-dbbb560c1162"
+  },
+  {
+    "url": "https://github.com/connormatthewdouglas/agent-work-stack-deals",
+    "title": "Lantern Works GPU Prices",
+    "type": "mcp",
+    "description": "Free, read-only MCP server for GPU cloud rental prices, price changes and deals. Hosted Streamable HTTP at https://lantern-works-mcp.lantern-works.workers.dev/mcp with no API key, or run uvx lantern-works-deals-mcp.",
+    "image": "https://github.com/connormatthewdouglas.png",
+    "category": [
+      "MCP 服务"
+    ],
+    "kind": "project",
+    "id": "5bc782e5-108e-45e5-9850-6835f5c22b8f"
   }
 ]
