@@ -19028,5 +19028,16 @@
       "MCP 服务"
     ],
     "id": "74dad5d0-4004-43c0-a196-dbbb560c1162"
+  },
+  {
+    "url": "https://aethel.pro/for-companies",
+    "title": "Aethel",
+    "type": "web",
+    "description": "AI interviewer for hiring teams: a team makes an interview link for a role, each candidate takes a first interview of about 15 minutes with an AI interviewer that says it is an AI, and the team reads the transcript and scores that quote the candidate's own words.",
+    "image": "https://aethel.pro/aethel-icon-512.png",
+    "category": [
+      "招聘求职求职"
+    ],
+    "id": "c4109f35-3f0b-4f95-8919-e071cb13f513"
   }
 ]
