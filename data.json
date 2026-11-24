@@ -19085,5 +19085,16 @@
       "MCP 服务"
     ],
     "id": "2c1e3a8f-c51c-4f01-aa09-afeb579bfd17"
+  },
+  {
+    "url": "https://aiac.app",
+    "description": "AI音频内容工作台，支持浏览器本地WebGPU离线Whisper转写、4标签AI笔记思维导图、Rust WASM多轨在线DAW及LUFS响度/和弦/无损FLAC检测",
+    "image": "https://aiac.app/brand/aiac-icon-512.png",
+    "category": [
+      "音频工具"
+    ],
+    "id": "fe07e190-18dc-4b61-885b-d8b01d3c6c31",
+    "title": "AIAC",
+    "type": "web"
   }
 ]
