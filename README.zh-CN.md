@@ -127,7 +127,7 @@
 
 ### MCP 服务
 
-共 14 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/MCP 服务/)
+共 15 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/MCP 服务/)
 
 <table>
   <tr>
@@ -415,7 +415,7 @@
 
 ### 设计工具
 
-共 101 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/设计工具/)
+共 102 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/设计工具/)
 
 <table>
   <tr>
