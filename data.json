@@ -18364,6 +18364,17 @@
     "type": "mcp"
   },
   {
+    "url": "https://flowfeed.cc",
+    "title": "FlowFeed",
+    "type": "mcp",
+    "description": "Hosted MCP server that gives AI agents real-time macro, forex and crypto news, an economic calendar and central bank releases. Remote Streamable HTTP at https://mcp.flowfeed.cc/mcp with OAuth; paid plan ($9/month).",
+    "image": "https://flowfeed.cc/icon-192.png",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "a5e44471-cedf-430a-a433-87be6b752168"
+  },
+  {
     "url": "https://vaneform.com/mcp",
     "title": "Vaneform",
     "type": "mcp",
