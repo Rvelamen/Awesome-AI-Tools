@@ -19085,5 +19085,16 @@
       "MCP 服务"
     ],
     "id": "2c1e3a8f-c51c-4f01-aa09-afeb579bfd17"
+  },
+  {
+    "url": "https://github.com/johnisanerd/alphaosint-mcp-servers/tree/main/servers/google-jobs",
+    "title": "Google Jobs MCP (AlphaOSINT)",
+    "type": "mcp",
+    "description": "Hosted MCP server (Streamable HTTP, https://mcp.apify.com/?tools=johnvc/Google-Jobs-Scraper) that searches Google Jobs by keyword and location in 83 countries and returns title, company, location, posting age, highlights, apply links and the full description as structured rows. Each call runs an Apify Actor on the user's own Apify account, billed per results page.",
+    "image": "https://images.apifyusercontent.com/3EsuUVL3sW0BIZlM-ed3K_C4bH5elS4n-jTexueKhIE/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20veWhxeGcydlpQd3RCTEhld0wtYWN0b3ItQ2tMRFk5R0FRZjZRbFA2R1AtTllpdDNuSEMxZy1nb29nbGUtam9icy5wbmc.webp",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "47e9ec9a-b96f-41df-af67-5581e4dd82e4"
   }
 ]
