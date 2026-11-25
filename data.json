@@ -18650,5 +18650,27 @@
       "编程工具"
     ],
     "id": "40c9ddd8-1484-411b-a489-ffe5dabae954"
+  },
+  {
+    "url": "https://seedream55.io",
+    "description": "AI 文生图/图生图工具，支持多种风格的图片生成与编辑",
+    "image": "https://seedream55.io/apple-touch-icon.png",
+    "category": [
+      "图片插画生成"
+    ],
+    "id": "d22ebc01-5ce9-4d43-9960-a946ac6d35c8",
+    "title": "Seedream 5.5",
+    "type": "web"
+  },
+  {
+    "url": "https://h3minimax.com",
+    "description": "AI 文生视频工具，输入文字或图片生成短视频",
+    "image": "https://h3minimax.com/apple-touch-icon.png",
+    "category": [
+      "视频工具"
+    ],
+    "id": "763152bf-1029-4b06-840a-cb58a0d3ae70",
+    "title": "H3 Video Generator",
+    "type": "web"
   }
 ]
