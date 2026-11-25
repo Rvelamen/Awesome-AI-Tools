@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://fastscribe.org/",
+    "title": "FastScribe",
+    "type": "web",
+    "description": "上传访谈录音或视频即可生成带时间戳的文字稿；在浏览器中校对发言人和文本后，可导出 Word 或 SRT 字幕。",
+    "image": "https://fastscribe.org/logo.png",
+    "category": [
+      "音频工具",
+      "视频工具"
+    ],
+    "id": "3ae7ef28-d57a-4bba-bab9-f326e73ab303"
+  },
+  {
     "url": "https://www.doubao.com/chat",
     "description": "字节跳动推出的免费AI智能助手",
     "image": "https://cdn.fanquanpintuan.cn/deepopen/avatar/a371b2b7-d354-45c7-9caf-46bb38991fd4.png",
