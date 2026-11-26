@@ -19119,5 +19119,17 @@
       "聊天助手"
     ],
     "id": "2f677902-be92-4140-a2b1-4b45de8de747"
+  },
+  {
+    "url": "https://sandboxer.com",
+    "title": "Sandboxer",
+    "type": "web",
+    "description": "Cloud sandboxes for AI agents: full Ubuntu 24.04 virtual machines (Cloud Hypervisor microVMs, not containers) with root, systemd, Docker, nested KVM, SSH and an HTTPS URL for any port. Stopping a sandbox saves its memory as well as its disk. Claude Code, Codex and OpenCode are preinstalled; driven from the sbx CLI, REST API, TypeScript and Python SDKs, or a hosted MCP server (https://sandboxer.com/mcp). Paid plans from $20/month.",
+    "image": "https://sandboxer.com/apple-touch-icon.png",
+    "category": [
+      "编程工具",
+      "MCP 服务"
+    ],
+    "id": "e9e16d55-c44d-4631-8eca-8bbbdef19db8"
   }
 ]

@@ -91,7 +91,7 @@
 
 ### 编程工具
 
-共 202 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/编程工具/)
+共 203 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/编程工具/)
 
 <table>
   <tr>
@@ -127,7 +127,7 @@
 
 ### MCP 服务
 
-共 15 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/MCP 服务/)
+共 16 个 · [查看全部](https://rvelamen.github.io/Awesome-AI-Tools/category/MCP 服务/)
 
 <table>
   <tr>
