@@ -19142,5 +19142,17 @@
       "MCP 服务"
     ],
     "id": "47e9ec9a-b96f-41df-af67-5581e4dd82e4"
+  },
+  {
+    "url": "https://github.com/ZhuLinsen/alphasift",
+    "title": "AlphaSift",
+    "type": "mcp",
+    "description": "Local-first quantitative stock research engine, portable Agent Skill, and 14-tool read-only STDIO MCP server covering 7 markets with Purged Walk-Forward evaluation (no live trading or order placement).",
+    "image": "https://github.com/ZhuLinsen.png",
+    "category": [
+      "MCP 服务"
+    ],
+    "kind": "project",
+    "id": "c375b47b-c30f-4737-bcf7-a7b2f500d33f"
   }
 ]
