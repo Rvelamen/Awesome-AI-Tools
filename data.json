@@ -19114,7 +19114,7 @@
     "title": "Whizi",
     "type": "web",
     "description": "一个订阅即可在同一对话中使用 ChatGPT、Claude、Gemini 等多种 AI 模型，并可生成图片、视频和音乐；支持网页、iPhone 和 Android",
-    "image": "",
+    "image": "https://whizi.io/apple-touch-icon.png",
     "category": [
       "聊天助手"
     ],
@@ -19136,7 +19136,7 @@
     "url": "https://github.com/johnisanerd/alphaosint-mcp-servers/tree/main/servers/google-jobs",
     "title": "Google Jobs MCP (AlphaOSINT)",
     "type": "mcp",
-    "description": "Hosted MCP server (Streamable HTTP, https://mcp.apify.com/?tools=johnvc/Google-Jobs-Scraper) that searches Google Jobs by keyword and location in 83 countries and returns title, company, location, posting age, highlights, apply links and the full description as structured rows. Each call runs an Apify Actor on the user's own Apify account, billed per results page.",
+    "description": "Hosted MCP server (Streamable HTTP, https://mcp.apify.com/?tools=johnvc/Google-Jobs-Scraper) that searches Google Jobs by keyword and location and returns title, company, location, posting age, highlights, apply links and the full description as structured rows. Each call runs an Apify Actor on the user's own Apify account, billed per results page.",
     "image": "https://images.apifyusercontent.com/3EsuUVL3sW0BIZlM-ed3K_C4bH5elS4n-jTexueKhIE/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20veWhxeGcydlpQd3RCTEhld0wtYWN0b3ItQ2tMRFk5R0FRZjZRbFA2R1AtTllpdDNuSEMxZy1nb29nbGUtam9icy5wbmc.webp",
     "category": [
       "MCP 服务"
