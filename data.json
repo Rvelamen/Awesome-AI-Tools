@@ -19108,5 +19108,16 @@
     "id": "fe07e190-18dc-4b61-885b-d8b01d3c6c31",
     "title": "AIAC",
     "type": "web"
+  },
+  {
+    "url": "https://whizi.io/",
+    "title": "Whizi",
+    "type": "web",
+    "description": "一个订阅即可在同一对话中使用 ChatGPT、Claude、Gemini 等多种 AI 模型，并可生成图片、视频和音乐；支持网页、iPhone 和 Android",
+    "image": "",
+    "category": [
+      "聊天助手"
+    ],
+    "id": "2f677902-be92-4140-a2b1-4b45de8de747"
   }
 ]
