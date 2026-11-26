@@ -345,6 +345,7 @@ Games, 3D worlds and web pages built entirely by AI — open and play them right
 </table>
 
 ---
+- [CreoArt](https://creoart.app/pay-as-you-go-ai-generator) - Pay-as-you-go private AI image and video studio uniting 45 flagship models (FLUX.2/3, GPT Image 2.6, Seedream 5.5, Nano Banana 2.1, Kling 4.0, Seedance 2.5, Veo 3.1) under one never-expiring credit wallet starting at $5, with 3 free daily no-login generations.
 
 ### Audio Tools
 
