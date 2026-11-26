@@ -19142,5 +19142,16 @@
       "MCP 服务"
     ],
     "id": "47e9ec9a-b96f-41df-af67-5581e4dd82e4"
+  },
+  {
+    "url": "https://github.com/johnisanerd/alphaosint-mcp-servers/tree/main/servers/google-flights",
+    "title": "Google Flights MCP (AlphaOSINT)",
+    "type": "mcp",
+    "description": "Hosted MCP server (Streamable HTTP, https://mcp.apify.com/?tools=johnvc/Google-Flights-Data-Scraper-Flight-and-Price-Search) that searches Google Flights for one-way, round-trip and multi-city itineraries and returns prices, airlines, stops, layovers, durations and optional booking options as structured rows. Each call runs an Apify Actor on the user's own Apify account, billed per results page plus per booking option when those are requested.",
+    "image": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/yhqxg2vZPwtBLHewL-actor-1dYHRKkEBHBPd0JM7-GwSMHn42lM-GoogleFlightsIcon.png",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "88e1b420-7542-4d83-8da0-fc7fe940f843"
   }
 ]
