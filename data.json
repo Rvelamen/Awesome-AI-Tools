@@ -19188,5 +19188,17 @@
     ],
     "kind": "project",
     "id": "c375b47b-c30f-4737-bcf7-a7b2f500d33f"
+  },
+  {
+    "url": "https://reelstyles.com",
+    "title": "ReelStyles",
+    "type": "web",
+    "description": "Film-style kits a coding agent (Claude Code, Codex or Cursor) reads, then animates a video in code and renders an MP4 on your computer with HyperFrames. No video-model API.",
+    "image": "https://reelstyles.com/apple-touch-icon.png",
+    "category": [
+      "视频工具",
+      "编程工具"
+    ],
+    "id": "8a13314a-8c6c-4c09-a741-ab75caa312c6"
   }
 ]
