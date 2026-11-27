@@ -19188,5 +19188,17 @@
     ],
     "kind": "project",
     "id": "c375b47b-c30f-4737-bcf7-a7b2f500d33f"
+  },
+  {
+    "url": "https://sandscale.dev/sandboxes/mcp",
+    "title": "Sandscale",
+    "type": "mcp",
+    "description": "Hosted MCP server (Streamable HTTP, OAuth 2.1, https://mcp.sandscale.dev/mcp) that gives coding agents a Firecracker microVM sandbox per task to run commands and move files, with allow/ask/deny rules per tool, human approvals and an audit log. Free plan. In the official MCP Registry as dev.sandscale/sandscale.",
+    "image": "https://sandscale.dev/apple-touch-icon.png",
+    "category": [
+      "MCP 服务",
+      "编程工具"
+    ],
+    "id": "aa3603bd-adbe-4129-9999-570e982e27c8"
   }
 ]
