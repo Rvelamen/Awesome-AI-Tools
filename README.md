@@ -7,15 +7,7 @@
 **See what AI can do — a discovery gallery of AI works and tools**
 
 LLMs / Agents / Coding / Image / Audio & Video<br>
-<<<<<<< HEAD
-<<<<<<< HEAD
-**57** playable AI works · **1700** AI tools · **32** open-source projects · **36** categories
-=======
-**57** playable AI works · **1701** AI tools · **32** open-source projects · **36** categories
->>>>>>> pr-191
-=======
-**57** playable AI works · **1699** AI tools · **33** open-source projects · **36** categories
->>>>>>> pr-190
+**57** playable AI works · **1702** AI tools · **33** open-source projects · **36** categories
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/Rvelamen/Awesome-AI-Tools?style=social)](https://github.com/Rvelamen/Awesome-AI-Tools)
 
 ⭐ If this list helps you, please Star it so more people and agents can discover it
@@ -135,11 +127,7 @@ Games, 3D worlds and web pages built entirely by AI — open and play them right
 
 ### MCP Services
 
-<<<<<<< HEAD
-18 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/MCP 服务/)
-=======
-19 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/MCP 服务/)
->>>>>>> pr-191
+20 tools · [View all](https://rvelamen.github.io/Awesome-AI-Tools/category/MCP 服务/)
 
 <table>
   <tr>
