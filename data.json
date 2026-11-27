@@ -19188,5 +19188,16 @@
     ],
     "kind": "project",
     "id": "c375b47b-c30f-4737-bcf7-a7b2f500d33f"
+  },
+  {
+    "url": "https://developer.genaya.com/mcp",
+    "title": "Genaya Connect",
+    "type": "mcp",
+    "description": "Hosted MCP server (Streamable HTTP, https://api.genaya.com/mcp) for Genaya, an operations app for service businesses: ask about appointments, clients, invoices, calls and tasks, and prepare changes that run only after the member confirms them. OAuth 2.1 sign-in with a Genaya account; paid plans with a 14-day free trial, no free plan. In the official MCP Registry as io.github.genaya-app/genaya.",
+    "image": "https://www.genaya.com/apple-touch-icon.png",
+    "category": [
+      "MCP 服务"
+    ],
+    "id": "05be175d-23e2-41c8-af18-fabe0bdcaea3"
   }
 ]
