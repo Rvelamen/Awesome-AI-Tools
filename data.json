@@ -19158,7 +19158,7 @@
     "url": "https://aicarvideo.com/mcp/",
     "title": "Car Listing Check",
     "type": "mcp",
-    "description": "Hosted MCP server (Streamable HTTP, https://mcp.aicarvideo.com/mcp) with one read-only tool: it checks a car dealer's vehicle listing supplied by the user (title, description, key data, photo URLs or count) for completeness and presentation and returns a score, missing data and prioritised fixes. It does not fetch listings, verify vehicle facts or inspect images. No account or API key needed. In the official MCP Registry as com.aicarvideo/car-listing-check.",
+    "description": "Hosted MCP server (Streamable HTTP, https://mcp.aicarvideo.com/mcp) with two read-only tools (a listing check and a market-specific checklist): it checks a car dealer's vehicle listing supplied by the user (title, description, key data, photo URLs or count) for completeness and presentation and returns a score, missing data and prioritised fixes. It does not fetch listings, verify vehicle facts or inspect images. No account or API key needed. In the official MCP Registry as com.aicarvideo/car-listing-check.",
     "image": "https://aicarvideo.com/favicon.svg",
     "category": [
       "MCP 服务"
@@ -19169,7 +19169,7 @@
     "url": "https://www.profilfoto-ki.de/mcp",
     "title": "Headshot Photo Check",
     "type": "mcp",
-    "description": "Hosted MCP server (Streamable HTTP, https://mcp.profilfoto-ki.de/mcp) that technically checks one profile or job-application photo from a URL or base64 (resolution, aspect ratio, brightness, contrast, coarse blur) and returns a score, crop recommendations for LinkedIn, XING and applications, and tips. No face recognition and no judgments about the person; the image is not stored. No account or API key needed. In the official MCP Registry as de.profilfoto-ki/headshot-check.",
+    "description": "Hosted MCP server (Streamable HTTP, https://mcp.profilfoto-ki.de/mcp) with two read-only tools; the main one technically checks one profile or job-application photo from a URL or base64 (resolution, aspect ratio, brightness, contrast, coarse blur) and returns a score, crop recommendations for LinkedIn, XING and applications, and tips. No face recognition and no judgments about the person; the image is not stored. No account or API key needed. In the official MCP Registry as de.profilfoto-ki/headshot-check.",
     "image": "https://www.profilfoto-ki.de/favicon.ico",
     "category": [
       "MCP 服务",
