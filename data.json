@@ -19188,5 +19188,16 @@
     ],
     "kind": "project",
     "id": "c375b47b-c30f-4737-bcf7-a7b2f500d33f"
+  },
+  {
+    "url": "https://sandscale.dev",
+    "title": "Sandscale",
+    "type": "web",
+    "description": "为编程智能体提供 Firecracker 微虚机沙箱（独立内核，网络默认关闭，按允许列表开放）。按实际运行的 vCPU 小时计费。",
+    "image": "https://sandscale.dev/og.png",
+    "category": [
+      "编程工具"
+    ],
+    "id": "91545fac-9b7a-4a77-91b9-1e73254443e7"
   }
 ]
