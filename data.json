@@ -19188,5 +19188,17 @@
     ],
     "kind": "project",
     "id": "c375b47b-c30f-4737-bcf7-a7b2f500d33f"
+  },
+  {
+    "url": "https://airenovation.io/",
+    "title": "AI Renovation",
+    "type": "web",
+    "description": "上传室内、厨房、庭院或空房照片，约 25 秒生成写实家装翻新与 MLS 合规虚拟软装效果图，支持网页端与 iOS，提供 3 次免费预览及按次/月付方案。",
+    "image": "https://airenovation.io/favicon.png",
+    "category": [
+      "设计工具",
+      "图像工具"
+    ],
+    "id": "db657a40-df92-4ba1-abdc-9ee53a99a2f0"
   }
 ]
