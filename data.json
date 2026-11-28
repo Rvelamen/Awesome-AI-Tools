@@ -19188,5 +19188,16 @@
     ],
     "kind": "project",
     "id": "c375b47b-c30f-4737-bcf7-a7b2f500d33f"
+  },
+  {
+    "url": "https://tweenery.com",
+    "title": "Tweenery",
+    "type": "web",
+    "description": "AI agent you chat with that turns an idea, or a link to an Instagram or TikTok post you like, into a written and designed carousel or slideshow. Exports slides as PNG or ZIP; does not schedule or post.",
+    "image": "https://tweenery.com/apple-icon.png",
+    "category": [
+      "设计工具"
+    ],
+    "id": "45b91929-9d8d-4df9-ae54-16e768eeaf7d"
   }
 ]
