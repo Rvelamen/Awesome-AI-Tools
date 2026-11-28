@@ -19188,5 +19188,16 @@
     ],
     "kind": "project",
     "id": "c375b47b-c30f-4737-bcf7-a7b2f500d33f"
+  },
+  {
+    "url": "https://livefaceswap.pro",
+    "title": "LiveFaceSwap Pro",
+    "description": "浏览器里的实时摄像头换脸，不用显卡、不用安装，可在 OBS 里用于直播和视频会议",
+    "image": "https://livefaceswap.pro/og.png",
+    "category": [
+      "视频工具"
+    ],
+    "type": "web",
+    "id": "d2a040e5-d073-4262-9545-062586d0f4f7"
   }
 ]
